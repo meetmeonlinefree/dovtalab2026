@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "question": "Пойтахти давлати Саффориён дар харита бо кадом рақам ишора шудааст?",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/history_images/t1.png",
+    "correctAnswer": "1",
+    "answerType": "numeric"
+  },
+  {
+    "id": 2,
+    "question": "Пойтахти давлати Сарбадорони Хуросон дар харита бо кадом рақам ишора шудааст?",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/history_images/t2.png",
+    "correctAnswer": "1",
+    "answerType": "numeric"
+  },
+  {
+    "id": 3,
+    "question": "Пойтахти давлати Ғуриён дар харита бо кадом рақам ишора шудааст?",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/history_images/t3.png",
+    "correctAnswer": "3",
+    "answerType": "numeric"
+  },
+  {
+    "id": 4,
+    "question": "Шаҳре, ки дар он бо сарварии Абубакри Нонвой шӯриш сар зад, дар харита бо кадом рақам ишора шудааст?",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/history_images/t4.png",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 5,
+    "question": "Маркази Хуталон (Хатлон)-и аҳди Сомониён дар харита бо кадом рақам ишора шудааст?",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/history_images/t5.png",
+    "correctAnswer": "1",
+    "answerType": "numeric"
+  },
+  {
+    "id": 6,
+    "question": "Маркази Истаравшани аҳди Сомониён дар харита бо кадом рақам ишора шудааст?",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/history_images/t6.png",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 7,
+    "question": "“... – шаҳри қадима ва маркази музофоти Хуталон дар ҳудуди деҳаи Қурбоншаҳиди ноҳияи Восеъ ҷойгир аст”. Шаҳре, ки дар матн сухан дар борааш меравад, дар харита бо кадом рақам ишора шудааст?",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/history_images/t7.png",
+    "correctAnswer": "1",
+    "answerType": "numeric"
+  },
+  {
+    "id": 8,
+    "question": "“Ин шаҳр ҳанӯз дар замони ҳукмронии Тоҳириён ва Саффориён пойтахти тамоми Хуросон буд. ... аз нимаи дуюми асри X сар карда, ҷойи нишасти сипаҳсолори Хуросон гардид”. Шаҳре, ки дар матн сухан дар борааш меравад, дар харита бо кадом рақам ишора шудааст?",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/history_images/t8.png",
+    "correctAnswer": "1",
+    "answerType": "numeric"
+  },
+  {
+    "id": 9,
+    "question": "Шаҳре, ки дар он соли 930 бар зидди Сомониён шӯриш сар зад, дар харита бо кадом рақам ишора шудааст?",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/history_images/t9.png",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 10,
+    "question": "Воқеае, ки сухан дар борааш меравад, кадом сол ба амал омада буд: “... Исмоили Сомонӣ ба музофоти Истаравшан, ки мустақил буд ва яке аз музофотҳои пурқувват ҳисоб меёфт, лашкар кашида, онро ба тасарруф овард”?",
+    "correctAnswer": "893",
+    "answerType": "numeric"
+  },
+    {
+    "id": 11,
+    "question": "Воқеае, ки сухан дар борааш меравад, кадом сол ба амал омада буд: “Соли ... дар вилояти Ғур шахсе бо номи Абубилол бар зидди ҳукумати маҳаллӣ шӯриш бардошт”?",
+    "correctAnswer": "907",
+    "answerType": "numeric"
+  },
+  {
+    "id": 12,
+    "question": "Воқеае, ки сухан дар борааш меравад, кадом сол ба амал омада буд: “Исмоили Сомонӣ, ки рӯзҳои охири умри худро сипарӣ мекард, ба яке аз сипоҳиёни худ Бигиш дастур дод, ки ин исёнро фурӯ нишонад”?",
+    "correctAnswer": "907",
+    "answerType": "numeric"
+  },
+  {
+    "id": 13,
+    "question": "Воқеае, ки сухан дар борааш меравад, кадом сол ба амал омада буд: “Чингизхон ҷанговарони яккачини дар ҷангҳо обутобёфтаро гирифта, бо тайёрии пухта ба Бухоро ҳамла овард, вале ба муқобилияти пурзӯри сокинони шаҳр рӯ ба рӯ шуд”?",
+    "correctAnswer": "1220",
+    "answerType": "numeric"
+  },
+  {
+    "id": 14,
+    "question": "Воқеае, ки сухан дар борааш меравад, кадом сол ба амал омада буд: “Ин ҷунбиш махсусан дар Бухоро пурқувват буд ва дар ин ҷо шӯрише ба амал омад, ки бо номи Шӯриши Маҳмуди Торобӣ машҳур аст”?",
+    "correctAnswer": "1238",
+    "answerType": "numeric"
+  },
+  {
+    "id": 15,
+    "question": "Воқеае, ки сухан дар борааш меравад, кадом сол ба амал омада буд: “Ғуриён ба Лоҳур лашкар кашида, давлати Ғазнавиёнро аз байн бурданд”?",
+    "correctAnswer": "1186",
+    "answerType": "numeric"
+  },
+  {
+    "id": 16,
+    "question": "Воқеае, ки сухан дар борааш меравад, кадом сол ба амал омада буд: “...Тоҳир ибни Ҳусайн амири Хуросон таъин мешавад, ки Мовароуннаҳр ҳам тобеи он буд. Ӯ дигар ба Хилофати Араб итоат намекунад”?",
+    "correctAnswer": "821",
+    "answerType": "numeric"
+  },
+  {
+    "id": 17,
+    "question": "Воқеае, ки сухан дар борааш меравад, кадом сол ба амал омада буд: “Шӯришчиён шаҳри Сабзаворро ба даст дароварда, онро ба пойтахти давлати худ табдил доданд”?",
+    "correctAnswer": "1337",
+    "answerType": "numeric"
+  },
+  {
+    "id": 18,
+    "question": "Воқеае, ки сухан дар борааш меравад, кадом сол ба амал омада буд: “Роҳбари шӯриш Рофеъ ибни Лайс хиёнат карда, ба тарафи душман гузашт ва шӯриш фурӯ нишонда шуд”?",
+    "correctAnswer": "810",
+    "answerType": "numeric"
+  }
+]

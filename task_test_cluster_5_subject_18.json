@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "question": "Қисмҳои сохти ҳуҷайраи бактерияро, ки дар расм бо рақамҳо ишора шудаанд, аз рӯйи тартиби зерин муайян кунед: а) қамчинак б) моддаҳои захиравии ҳуҷайра",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/biology_images/t1.png",
+    "correctAnswer": "52",
+    "answerType": "numeric"
+  },
+  {
+    "id": 2,
+    "question": "Қисмҳои сохти ҳуҷайраи бактерияро, ки дар расм бо рақамҳо ишора шудаанд, аз рӯйи тартиби зерин муайян кунед: а) моддаҳои дохили ядроӣ б) ситоплазма",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/biology_images/t2.png",
+    "correctAnswer": "34",
+    "answerType": "numeric"
+  },
+  {
+    "id": 3,
+    "question": "Қисмҳои сохти ҳуҷайраи бактерияро, ки дар расм бо рақамҳо ишора шудаанд, аз рӯйи тартиби зерин муайян кунед: а) лифофа; б) моддаҳои захиравии ҳуҷайра.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/biology_images/t3.png",
+    "correctAnswer": "12",
+    "answerType": "numeric"
+  },
+  {
+    "id": 4,
+    "question": "Дар занҷирҳои КДН асосҳои нитрогенӣ - аденин (А), гуанин (Г), тимин (Т) ва ситозин (С) мувофиқи принсипи комплементарӣ бо ҳам пайваст мешаванд. Муайян намоед, ки кадом асосҳои нитрогенӣ нодуруст пайваст шудаанд.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/biology_images/t4.png",
+    "correctAnswer": "16",
+    "answerType": "numeric"
+  },
+  {
+    "id": 5,
+    "question": "Дар занҷири КРН асосҳои нитрогенӣ - аденин (А), гуанин (Г), ситозин (С) ва уратсил (У) мувофиқи принсипи комплементарӣ бо ҳам пайваст мешаванд. Муайян намоед, ки кадом асосҳои нитрогенӣ нодуруст пайваст шудаанд.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/biology_images/t5.png",
+    "correctAnswer": "36",
+    "answerType": "numeric"
+  },
+  {
+    "id": 6,
+    "question": "Дар занҷирҳои КДН асосҳои нитрогенӣ - аденин (А), гуанин (Г), тимин (Т) ва ситозин (С) мувофиқи принсипи комплементарӣ бо ҳам пайваст мешаванд. Муайян намоед, ки кадом асосҳои нитрогенӣ нодуруст пайваст шудаанд.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/biology_images/t6.png",
+    "correctAnswer": "25",
+    "answerType": "numeric"
+  },
+  {
+    "id": 7,
+    "question": "Ҳангоми дурага намудани ду фарди насли якум бо ҳамдигар (Аа х Аа) дар насли дуюм таҷзияи таносуби миқдорӣ аз рӯйи фенотип ва генотип мушоҳида карда мешавад. Муайян намоед, ки дар насли дуюм чанд фоизро (%) гомозиготҳои ресессивӣ ташкил медиҳанд?",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/biology_images/t7.png",
+    "correctAnswer": "25",
+    "answerType": "numeric"
+  },
+  {
+    "id": 8,
+    "question": "Ҳангоми дурага намудани ду фарди насли якум бо ҳамдигар (Аа х Аа) дар насли дуюм таҷзияи таносуби миқдорӣ аз рӯйи фенотип ва генотип мушоҳида карда мешавад. Муайян намоед, ки дар насли дуюм чанд фоиз (%)-ро гомозиготҳои доминантӣ ташкил медиҳанд?",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/biology_images/t8.png",
+    "correctAnswer": "25",
+    "answerType": "numeric"
+  },
+  {
+    "id": 9,
+    "question": "Ҳангоми дурага намудани ду фарди насли якум бо ҳамдигар (Аа х Аа) дар насли дуюм таҷзияи таносуби миқдорӣ аз рӯйи фенотип ва генотип мушоҳида карда мешавад. Муайян намоед, ки дар насли дуюм чанд фоизро (%) гетерозиготҳои доминантӣ ташкил медиҳанд?",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/biology_images/t9.png",
+    "correctAnswer": "50",
+    "answerType": "numeric"
+  },
+  {
+    "id": 10,
+    "question": "Қисмҳои сохти дарунӣ ва берунии дандонро, ки дар расм ишора шудаанд, аз рӯйи тартиби зерин муайян кунед: а) милк б) семент в) дентин",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/biology_images/t10.png",
+    "correctAnswer": "253",
+    "answerType": "numeric"
+  },
+    {
+    "id": 11,
+    "question": "Қисмҳои сохти дарунӣ ва берунии дандонро, ки дар расм ишора шудаанд, аз рӯйи тартиби зерин муайян кунед: а) семент б) дентин в) шараён",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/biology_images/t11.png",
+    "correctAnswer": "536",
+    "answerType": "numeric"
+  },
+  {
+    "id": 12,
+    "question": "Қисмҳои сохти дарунӣ ва берунии дандонро, ки дар расм ишора шудаанд, аз рӯйи тартиби зерин муайян кунед: а) сир б) ковокии дандон в) варид",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/biology_images/t12.png",
+    "correctAnswer": "148",
+    "answerType": "numeric"
+  },
+  {
+    "id": 13,
+    "question": "Дар расм сохти нейрони системаи асаби одам бо рақамҳо ишора шудааст. Вазифаи ҳиссиётқабулкуниро кадом қисми он иҷро мекунад?",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/biology_images/t13.png",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 14,
+    "question": "Дар расм сохти нейрони системаи асаби одам бо рақамҳо ишора шудааст. Вазифаи ҳаракатро кадом қисми он иҷро мекунад?",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/biology_images/t14.png",
+    "correctAnswer": "1",
+    "answerType": "numeric"
+  },
+  {
+    "id": 15,
+    "question": "Қисмҳои мушакро, ки дар расм бо рақамҳо ишора шудаанд, аз рӯйи тартиби зерин муайян кунед: а) нахи асаб б) бандчаҳои мушак в) раги хунгард",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/biology_images/t15.png",
+    "correctAnswer": "4",
+    "answerType": "numeric"
+  },
+  {
+    "id": 16,
+    "question": "Қисмҳои мушакро, ки дар расм бо рақамҳо ишора шудаанд, аз рӯйи тартиби зерин муайян кунед: а) нахи мушак б) лифофа в) нахи асаб",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/biology_images/t16.png",
+    "correctAnswer": "324",
+    "answerType": "numeric"
+  },
+  {
+    "id": 17,
+    "question": "Қисмҳои мушакро, ки дар расм бо рақамҳо ишора шудаанд, аз рӯйи тартиби зерин муайян кунед: а) пай б) раги хунгард в) бандчаҳои мушак",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/biology_images/t17.png",
+    "correctAnswer": "153",
+    "answerType": "numeric"
+  },
+  {
+    "id": 18,
+    "question": "Қисмҳои мушакро, ки дар расм бо рақамҳо ишора шудаанд, аз рӯйи тартиби зерин муайян кунед: а) пай б) раги хунгард в) бандчаҳои мушак",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/biology_images/t18.png",
+    "correctAnswer": "642",
+    "answerType": "numeric"
+  }
+]

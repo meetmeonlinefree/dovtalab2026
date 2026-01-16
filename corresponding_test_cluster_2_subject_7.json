@@ -1,0 +1,860 @@
+[
+  {
+    "id": 1,
+    "question": "Мувофиқати координатаҳои географӣ ва рақамеро, ки онҳо дар харита бо он ишора шудаанд, муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/1.png",
+    "left": ["А) 25градус а. ш. ва 50градус т. ш.", "В) 15градус а. ҷ. ва 90градус т. ш.", "С) 15градус а. ҷ. ва 10градус т. ғ.", "D) 15градус а. ш. ва 10градус т. ш."],
+    "right": ["1) V", "2) IV", "3) III", "4) I", "5) II"],
+    "correctMatches": { "А": 5, "В": 1, "С": 2, "D": 4 }
+  },
+  {
+    "id": 2,
+    "question": "Мувофиқати координатаҳои географӣ ва рақамеро, ки онҳо дар харита бо он ишора шудаанд, муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/2.png",
+    "left": ["А) 15градус а. ҷ. ва 100градус т. ғ.", "В) 55градус а. ш. ва 50градус т. ғ.", "С) 15градус а. ш. ва 100градус т. ғ.", "D) 55градус а. ҷ. ва 60градус т. ғ."],
+    "right": ["1) II", "2) V", "3) IV", "4) I", "5) III"],
+    "correctMatches": { "А": 3, "В": 1, "С": 5, "D": 2 }
+  },
+  {
+    "id": 3,
+    "question": "Мувофиқати координатаҳои географӣ ва рақамеро, ки онҳо дар харита бо он ишора шудаанд, муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/3.png",
+    "left": ["А) 40градус а. ҷ. ва 80градус т. ғ.", "В) 40градус а. ш. ва 80градус т. ғ.", "С) 20градус а. ш. ва 170градус т. ш.", "D) 20градус а. ҷ. ва 170градус т. ғ."],
+    "right": ["1) II", "2) IV", "3) V", "4) III", "5) I"],
+    "correctMatches": { "А": 3, "В": 4, "С": 1, "D": 2 }
+  },
+  {
+    "id": 4,
+    "question": "Мувофиқати координатаҳои географӣ ва рақамеро, ки онҳо дар харита бо он ишора шудаанд, муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/4.png",
+    "left": ["А) 25градус а. ш. ва 40градус т. ш.", "В) 30градус а. ҷ. ва 30градус т. ш.", "С) 35градус а. ш. ва 80градус т. ш.", "D) 35градус а. ҷ. ва 70градус т. ш."],
+    "right": ["1) V", "2) I", "3) II", "4) IV", "5) III"],
+    "correctMatches": { "А": 2, "В": 4, "С": 3, "D": 1 }
+  },
+  {
+    "id": 5,
+    "question": "Мувофиқати координатаҳои географӣ ва рақамеро, ки онҳо дар харита бо он ишора шудаанд, муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/5.png",
+    "left": ["А) 65градус а. ш. ва 170градус т. ғ.", "В) 55градус а. ҷ. ва 170градус т. ш.", "С) 40градус а. ҷ. ва 65градус т. ғ.", "D) 65градус а. ш. ва 170градус т. ш."],
+    "right": ["1) I", "2) V", "3) III", "4) II", "5) IV"],
+    "correctMatches": { "А": 4, "В": 2, "С": 5, "D": 1 }
+  },
+  {
+    "id": 6,
+    "question": "Мувофиқати координатаҳои географӣ ва рақамеро, ки онҳо дар харита бо он ишора шудаанд, муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/6.png",
+    "left": ["А) 70градус а. ш. ва 40градус т. ш.", "В) 40градус а. ш. ва 70градус т. ш.", "С) 40градус а. ҷ. ва 70градус т. ш.", "D) 70градус а. ҷ. ва 40градус т. ш."],
+    "right": ["1) IV", "2) I", "3) III", "4) V", "5) II"],
+    "correctMatches": { "А": 2, "В": 5, "С": 1, "D": 4 }
+  },
+  {
+    "id": 7,
+    "question": "Мувофиқати координатаҳои географӣ ва рақамеро, ки онҳо дар харита бо он ишора шудаанд, муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/7.png",
+    "left": ["А) 20градус а. ҷ. ва 50градус т. ш.", "В) 50градус а. ҷ. ва 20градус т. ш.", "С) 20градус а. ш. ва 50градус т. ш.", "D) 50градус а. ш. ва 10градус т. ғ."],
+    "right": ["1) V", "2) III", "3) IV", "4) I", "5) II"],
+    "correctMatches": { "А": 4, "В": 5, "С": 1, "D": 3 }
+  },
+  {
+    "id": 8,
+    "question": "Мувофиқати координатаҳои географӣ ва рақамеро, ки онҳо дар харита бо он ишора шудаанд, муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/8.png",
+    "left": ["А) 50градус а. ҷ. ва 170градус т. ш.", "В) 50градус а. ш. ва 170градус т. ш.", "С) 50градус а. ш. ва 170градус т. ғ.", "D) 50градус а. ҷ. ва 170градус т. ғ."],
+    "right": ["1) I", "2) V", "3) IV", "4) II", "5) III"],
+    "correctMatches": { "А": 4, "В": 2, "С": 3, "D": 1 }
+  },
+  {
+    "id": 9,
+    "question": "Мувофиқати координатаҳои географӣ ва рақамеро, ки онҳо дар харита бо он ишора шудаанд, муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/9.png",
+    "left": ["А) 30градус а. ҷ. ва 170градус т. ш.", "В) 30градус а. ш. ва 170градус т. ғ.", "С) 30градус а. ш. ва 170градус т. ш.", "D) 30градус а. ҷ. ва 170градус т. ғ."],
+    "right": ["1) II", "2) V", "3) IV", "4) I", "5) III"],
+    "correctMatches": { "А": 4, "В": 5, "С": 2, "D": 1 }
+  },
+  {
+    "id": 10,
+    "question": "Мувофиқати координатаҳои географӣ ва рақамеро, ки онҳо дар харита бо он ишора шудаанд, муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/10.png",
+    "left": ["А) 60градус а. ҷ. ва 30градус т. ш.", "В) 60градус а. ш. ва 30градус т. ш.", "С) 30градус а. ш. ва 60градус т. ш.", "D) 30градус а. ҷ. ва 60градус т. ш."],
+    "right": ["1) IV", "2) I", "3) II", "4) III", "5) V"],
+    "correctMatches": { "А": 5, "В": 1, "С": 3, "D": 4 }
+  },
+    {
+    "id": 11,
+    "question": "Мувофиқати координатаҳои географӣ ва рақамеро, ки онҳо дар харита бо он ишора шудаанд, муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/11.png",
+    "left": [
+      "А) 60градус а. ш. ва 170градус т. ш.",
+      "В) 60градус а. ҷ. ва 170градус т. ғ.",
+      "С) 60градус а. ҷ. ва 170градус т. ш.",
+      "D) 60градус а. ш. ва 170градус т. ғ."
+    ],
+    "right": ["1) IV", "2) III", "3) I", "4) V", "5) II"],
+    "correctMatches": { "А": 2, "В": 5, "С": 3, "D": 4 }
+  },
+  {
+    "id": 12,
+    "question": "Мувофиқати координатаҳои географӣ ва рақамеро, ки онҳо дар харита бо он ишора шудаанд, муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/12.png",
+    "left": [
+      "А) 50градус а. ш. ва 10градус т. ш.",
+      "В) 10градус а. ш. ва 50градус т. ш.",
+      "С) 50градус а. ҷ. ва 10градус т. ғ.",
+      "D) 30градус а. ҷ. ва 70градус т. ш."
+    ],
+    "right": ["1) II", "2) IV", "3) I", "4) V", "5) III"],
+    "correctMatches": { "А": 5, "В": 4, "С": 2, "D": 1 }
+  },
+  {
+    "id": 13,
+    "question": "Мувофиқати ҷазира ва макони ҷойгиршавии онро, ки дар харита бо рақам ишора шудааст, муайян кунед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/13.png",
+    "left": ["А) Гренландия", "В) Нюфаундленд", "С) Калимантан", "D) Мадагаскар"],
+    "right": ["1) III", "2) V", "3) I", "4) II", "5) IV"],
+    "correctMatches": { "А": 1, "В": 3, "С": 2, "D": 4 }
+  },
+  {
+    "id": 14,
+    "question": "Мувофиқати кӯлҳоро бо мавқеи ҷойгиршавиашон дар ҳудуди материкҳо муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/14.png",
+    "left": ["А) Сарез", "В) Эйр", "С) Чад", "D) Титикака"],
+    "right": ["1) Авруосиё", "2) Африқо", "3) Австралия", "4) Амрикои Ҷанубӣ", "5) Амрикои Шимолӣ"],
+    "correctMatches": { "А": 1, "В": 3, "С": 2, "D": 4 }
+  },
+  {
+    "id": 15,
+    "question": "Мувофиқати халиҷ ва макони ҷойгиршавии онро, ки дар харита бо рақам ишора шудааст, муайян кунед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/15.png",
+    "left": ["А) халиҷи Бангола", "В) халиҷи Гвинея", "С) халиҷи Бискай", "D) халиҷи Мексика"],
+    "right": ["1) IV", "2) II", "3) V", "4) I", "5) III"],
+    "correctMatches": { "А": 5, "В": 3, "С": 2, "D": 1 }
+  },
+  {
+    "id": 16,
+    "question": "Мувофиқати вулқонҳоро бо мавқеи ҷойгиршавиашон дар ҳудуди материкҳо муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/16.png",
+    "left": ["А) Котопахи", "В) Меру", "С) Шаста", "D) Везувий"],
+    "right": ["1) Амрикои Шимолӣ", "2) Амрикои Ҷанубӣ", "3) Авруосиё", "4) Африқо", "5) Австралия ва Океания"],
+    "correctMatches": { "А": 2, "В": 4, "С": 1, "D": 3 }
+  },
+  {
+    "id": 17,
+    "question": "Мувофиқати баҳр ва макони ҷойгиршавии онро, ки дар харита бо рақам ишора шудааст, муайян кунед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/17.png",
+    "left": ["А) баҳри Норвег", "В) баҳри Саргас", "С) баҳри Филиппин", "D) баҳри Охот"],
+    "right": ["1) V", "2) I", "3) IV", "4) III", "5) II"],
+    "correctMatches": { "А": 2, "В": 4, "С": 3, "D": 1 }
+  },
+  {
+    "id": 18,
+    "question": "Мувофиқатро муайян кунед:\nҷазира — уқёнус",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/18.png",
+    "left": ["А) Мадагаскар", "В) Нюфаундленд", "С) Хонсю", "D) Замини Нав"],
+    "right": ["1) Ҳинд", "2) Ором", "3) Атлантика", "4) Яхбастаи Шимолӣ", "5) Ҷанубӣ"],
+    "correctMatches": { "А": 1, "В": 3, "С": 2, "D": 4 }
+  },
+  {
+    "id": 19,
+    "question": "Мувофиқати гулӯгоҳ ва макони ҷойгиршавии онро, ки дар харита бо рақам ишора шудааст, муайян кунед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/19.png",
+    "left": ["А) гулӯгоҳи Беринг", "В) гулӯгоҳи Девис", "С) гулӯгоҳи Гудзон", "D) гулӯгоҳи Юкатан"],
+    "right": ["1) II", "2) I", "3) IV", "4) III", "5) V"],
+    "correctMatches": { "А": 5, "В": 4, "С": 1, "D": 2 }
+  },
+  {
+    "id": 20,
+    "question": "Мувофиқати халиҷ ва макони ҷойгиршавии онро, ки дар харита бо рақам ишора шудааст, муайян кунед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/20.png",
+    "left": ["А) халиҷи Аляска", "В) халиҷи Калифорния", "С) халиҷи Гудзон", "D) халиҷи Мексика"],
+    "right": ["1) IV", "2) I", "3) II", "4) III", "5) V"],
+    "correctMatches": { "А": 4, "В": 2, "С": 1, "D": 5 }
+  },
+    {
+    "id": 21,
+    "question": "Мувофиқати баҳр ва макони ҷойгиршавии онро, ки дар харита бо рақам ишора шудааст, муайян кунед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/21.png",
+    "left": ["А) баҳри Бофорта", "В) баҳри Саргас", "С) баҳри Беринг", "D) баҳри Баффин"],
+    "right": ["1) I", "2) III", "3) V", "4) IV", "5) II"],
+    "correctMatches": { "А": 2, "В": 5, "С": 4, "D": 3 }
+  },
+  {
+    "id": 22,
+    "question": "Мувофиқати ҷазираҳо ва рақамеро, ки онҳо дар харита бо он ишора шудаанд, муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/22.png",
+    "left": ["А) Новосибир", "В) Шипитсберген", "С) Филиппин", "D) Курил"],
+    "right": ["1) V", "2) IV", "3) III", "4) II", "5) I"],
+    "correctMatches": { "А": 3, "В": 4, "С": 1, "D": 2 }
+  },
+  {
+    "id": 23,
+    "question": "Мувофиқатро муайян кунед:\nнимҷазира — материк",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/23.png",
+    "left": ["А) Кейп-Йорк", "В) Пиреней", "С) Сомали", "D) Юкатан"],
+    "right": ["1) Африқо", "2) Австралия", "3) Авруосиё", "4) Амрикои Шимолӣ", "5) Амрикои Ҷанубӣ"],
+    "correctMatches": { "А": 2, "В": 3, "С": 1, "D": 4 }
+  },
+  {
+    "id": 24,
+    "question": "Мувофиқати ҷазира ва макони ҷойгиршавии онро, ки дар харита бо рақам ишора шудааст, муайян кунед.",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/24.png",
+    "left": ["А) Исландия", "В) Сахалин", "С) Шри-Ланка", "D) Калимантан"],
+    "right": ["1) I", "2) III", "3) IV", "4) V", "5) II"],
+    "correctMatches": { "А": 3, "В": 2, "С": 4, "D": 1 }
+  },
+  {
+    "id": 25,
+    "question": "Мувофиқатро муайян кунед:\nбиёбон — материк",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/25.png",
+    "left": ["А) Гоби", "В) Намиб", "С) Атакама", "D) Сонора"],
+    "right": ["1) Австралия", "2) Африқо", "3) Авруосиё", "4) Амрикои Ҷанубӣ", "5) Амрикои Шимолӣ"],
+    "correctMatches": { "А": 3, "В": 2, "С": 4, "D": 5 }
+  },
+  {
+    "id": 26,
+    "question": "Мувофиқати дарё ва макони ҷойгиршавии онро, ки дар харита бо рақам ишора шудааст, муайян кунед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/26.png",
+    "left": ["А) Нил", "В) Лена", "С) Янсизи", "D) Амур"],
+    "right": ["1) II", "2) V", "3) III", "4) I", "5) IV"],
+    "correctMatches": { "А": 5, "В": 1, "С": 4, "D": 3 }
+  },
+  {
+    "id": 27,
+    "question": "Мувофиқатро муайян кунед:\nдарё — материк",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/27.png",
+    "left": ["А) Юкон", "В) Меконг", "С) Ориноко", "D) Лимпопо"],
+    "right": ["1) Авруосиё", "2) Африқо", "3) Австралия", "4) Амрикои Ҷанубӣ", "5) Амрикои Шимолӣ"],
+    "correctMatches": { "А": 5, "В": 1, "С": 4, "D": 2 }
+  },
+  {
+    "id": 28,
+    "question": "Мувофиқати нимҷазира ва макони ҷойгиршавии онро, ки дар харита бо рақам ишора шудааст, муайян кунед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/28.png",
+    "left": ["А) нимҷазираи Сомали", "В) нимҷазираи Ҳинду Чин", "С) нимҷазираи Апеннин", "D) нимҷазираи Корея"],
+    "right": ["1) V", "2) I", "3) II", "4) IV", "5) III"],
+    "correctMatches": { "А": 3, "В": 2, "С": 4, "D": 5 }
+  },
+  {
+    "id": 29,
+    "question": "Мувофиқатро муайян кунед:\nкӯл — материк",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/29.png",
+    "left": ["А) Виктория", "В) Атабаска", "С) Байкал", "D) Маракайбо"],
+    "right": ["1) Авруосиё", "2) Африқо", "3) Австралия", "4) Амрикои Ҷанубӣ", "5) Амрикои Шимолӣ"],
+    "correctMatches": { "А": 2, "В": 5, "С": 1, "D": 4 }
+  },
+  {
+    "id": 30,
+    "question": "Мувофиқати нимҷазира ва макони ҷойгиршавии онро, ки дар харита бо рақам ишора шудааст, муайян кунед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/30.png",
+    "left": ["А) Корея", "В) Скандинав", "С) Ҳинду-Чин", "D) Апенин"],
+    "right": ["1) V", "2) II", "3) IV", "4) III", "5) I"],
+    "correctMatches": { "А": 4, "В": 5, "С": 1, "D": 2 }
+  },
+    {
+    "id": 31,
+    "question": "Мувофиқатро муайян кунед:\nвулқон — материк",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/31.png",
+    "left": ["А) Люляйляко", "В) Карисимби", "С) Этна", "D) Колима"],
+    "right": ["1) Авруосиё", "2) Африқо", "3) Австралия", "4) Амрикои Ҷанубӣ", "5) Амрикои Шимолӣ"],
+    "correctMatches": { "А": 4, "В": 2, "С": 1, "D": 5 }
+  },
+  {
+    "id": 32,
+    "question": "Мувофиқати баҳр ва макони ҷойгиршавии онро, ки дар харита бо рақам ишора шудааст, муайян кунед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/32.png",
+    "left": ["А) Кара", "В) Чукот", "С) Сурх", "D) Араб"],
+    "right": ["1) IV", "2) V", "3) I", "4) III", "5) II"],
+    "correctMatches": { "А": 4, "В": 2, "С": 3, "D": 5 }
+  },
+  {
+    "id": 33,
+    "question": "Мувофиқатро муайян кунед:\nуқёнус — баҳр",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/33.png",
+    "left": ["А) Ҳинд", "В) Ором", "С) Атлантика", "D) Яхбастаи Шимолӣ"],
+    "right": ["1) Кариб", "2) Филиппин", "3) Баренс", "4) Араб", "5) Каспий"],
+    "correctMatches": { "А": 4, "В": 2, "С": 1, "D": 3 }
+  },
+  {
+    "id": 34,
+    "question": "Мувофиқати объекти географӣ ва макони ҷойгиршавии онро, ки дар харита бо рақам ишора шудааст, муайян кунед.",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/34.png",
+    "left": ["А) пиряхи Федченко", "В) кӯли Сарез", "С) обанбори Норак", "D) боғи табиии Сарихосор"],
+    "right": ["1) V", "2) I", "3) III", "4) II", "5) IV"],
+    "correctMatches": { "А": 2, "В": 4, "С": 1, "D": 5 }
+  },
+  {
+    "id": 35,
+    "question": "Мувофиқати объекти географӣ ва ноҳияи иқтисодии Тоҷикистонро муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/35.png",
+    "left": ["А) неругоҳи барқи обии Марказӣ", "В) парваришгоҳи Алмосӣ", "С) пиряхи Октябр", "D) обанбори Даҳанасой"],
+    "right": ["1) Вахш", "2) Рашт", "3) Ҳисор", "4) Суғд", "5) Бадахшон"],
+    "correctMatches": { "А": 1, "В": 3, "С": 5, "D": 4 }
+  },
+  {
+    "id": 36,
+    "question": "Мувофиқати конро бо мавқеи ҷойгиршавиаш дар ҳудуди ноҳияи иқтисодии Тоҷикистон муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/36.png",
+    "left": ["А) Назарайлоқ", "В) Шӯроб", "С) Сурхсимо (Қизилтумшуқ)", "D) Бештентоқ"],
+    "right": ["1) Суғд", "2) Вахш", "3) Кӯлоб", "4) Ҳисор", "5) Рашт"],
+    "correctMatches": { "А": 5, "В": 1, "С": 2, "D": 3 }
+  },
+  {
+    "id": 37,
+    "question": "Мувофиқати объекти географӣ ва макони ҷойгиршавии онро, ки бо рақам дар харита ишора шудааст, муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/37.png",
+    "left": ["А) обанбори Қайроққум", "В) Ховаркӯл (Қарокӯл)", "С) обанбори Норак", "D) кӯли Сарез"],
+    "right": ["1) III", "2) II", "3) I", "4) V", "5) IV"],
+    "correctMatches": { "А": 3, "В": 4, "С": 1, "D": 5 }
+  },
+  {
+    "id": 38,
+    "question": "Мувофиқати мавзеи сайёҳӣ ва макони ҷойгиршавии онро муайян кунед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/38.png",
+    "left": ["А) шаҳри қадимаи Саразм", "В) парваришгоҳи Искандаркӯл", "С) шаҳри қадимаи Ҳулбук", "D) парваришгоҳи Чилдухтарон"],
+    "right": ["1) шаҳри Панҷакент", "2) шаҳри Истаравшан", "3) ноҳияи Айнӣ", "4) ноҳияи Муъминобод", "5) ноҳияи Восеъ"],
+    "correctMatches": { "А": 1, "В": 3, "С": 5, "D": 4 }
+  },
+  {
+    "id": 39,
+    "question": "Мувофиқати кӯл ва масоҳати онро муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/39.png",
+    "left": ["А) Ховаркӯл (Қарокӯл)", "В) Яшилкӯл", "С) Зоркӯл", "D) Искандаркӯл"],
+    "right": ["1) 3,5 км2", "2) 35,6 км2", "3) 520,0 км2", "4) 380,0 км2", "5) 38,9 км2"],
+    "correctMatches": { "А": 4, "В": 2, "С": 5, "D": 1 }
+  },
+  {
+    "id": 40,
+    "question": "Мувофиқати объекти географӣ ва макони ҷойгиршавии онро, ки дар харита бо рақам ишора шудааст, муайян кунед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/40.png",
+    "left": ["А) парваришгоҳи Зарафшон", "В) қуллаи Карл Маркс", "С) қаторкӯҳи Ҳазрати Шоҳ", "D) ағбаи Кулма"],
+    "right": ["1) IV", "2) II", "3) I", "4) III", "5) V"],
+    "correctMatches": { "А": 1, "В": 2, "С": 5, "D": 3 }
+  },
+    {
+    "id": 41,
+    "question": "Мувофиқати чашмаи маъданӣ ва мавқеи ҷойгиршавии онро муайян кунед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/41.png",
+    "left": ["А) Андароб", "В) Шоҳамбарӣ", "С) Навбедак", "D) Хоҷаобигарм"],
+    "right": ["1) ноҳияи Айнӣ", "2) ноҳияи Ишкошим", "3) ноҳияи Варзоб", "4) шаҳри Ваҳдат", "5) шаҳри Ҳисор"],
+    "correctMatches": { "А": 2, "В": 5, "С": 1, "D": 3 }
+  },
+  {
+    "id": 42,
+    "question": "Мувофиқати ноҳияи маъмурии Тоҷикистон ва макони ҷойгиршавии онро, ки бо рақам дар харита ишора шудааст, муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/42.png",
+    "left": ["А) Ишкошим", "В) Роштқалъа", "С) Ванҷ", "D) Дарвоз"],
+    "right": ["1) I", "2) IV", "3) V", "4) II", "5) III"],
+    "correctMatches": { "А": 4, "В": 2, "С": 5, "D": 1 }
+  },
+  {
+    "id": 43,
+    "question": "Мувофиқати ағба ва макони ҷойгиршавии онро муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/43.png",
+    "left": ["А) Шаҳристон", "В) Кулма", "С) Қизиларт", "D) Анзоб"],
+    "right": ["1) қаторкӯҳи Ҳисор", "2) қаторкӯҳи Паси Олой", "3) қаторкӯҳи Сарикӯл", "4) қаторкӯҳи Зарафшон", "5) қаторкӯҳи Туркистон"],
+    "correctMatches": { "А": 5, "В": 3, "С": 2, "D": 1 }
+  },
+  {
+    "id": 44,
+    "question": "Мувофиқати минтақаи сайёҳӣ ва макони ҷойгиршавии онро, ки бо рақам дар харита ишора шудааст, муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/44.png",
+    "left": ["А) водии Яғноб", "В) дараи Ромит", "С) мавзеи Сарихосор", "D) дараи Варзоб"],
+    "right": ["1) I", "2) III", "3) II", "4) IV", "5) V"],
+    "correctMatches": { "А": 5, "В": 4, "С": 3, "D": 2 }
+  },
+  {
+    "id": 45,
+    "question": "Мувофиқатро муайян кунед:\nағба — баландии мутлақ",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/45.png",
+    "left": ["А) Мӯра", "В) Шаҳристон", "С) Туро", "D) Анзоб"],
+    "right": ["1) 3 372 метр", "2) 3 792 метр", "3) 3 700 метр", "4) 3 378 метр", "5) 3 625 метр"],
+    "correctMatches": { "А": 2, "В": 4, "С": 3, "D": 1 }
+  },
+  {
+    "id": 46,
+    "question": "Мувофиқати объекти географӣ ва макони ҷойгиршавии онро, ки дар харита бо рақам ишора шудааст, муайян кунед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/46.png",
+    "left": ["А) ағбаи Анзоб", "В) кони ангишти Шӯроб", "С) Рангкӯл", "D) обанбори Фарҳод"],
+    "right": ["1) I", "2) V", "3) II", "4) III", "5) IV"],
+    "correctMatches": { "А": 2, "В": 1, "С": 4, "D": 3 }
+  },
+  {
+    "id": 47,
+    "question": "Мувофиқатро муайян кунед:\nағба — баландии мутлақ",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/47.png",
+    "left": ["А) Оқбайтал", "В) Мӯра", "С) Оббурдон", "D) Қизиларт"],
+    "right": ["1) 4 280 метр", "2) 3 960 метр", "3) 4 655 метр", "4) 3 372 метр", "5) 3 792 метр"],
+    "correctMatches": { "А": 3, "В": 5, "С": 2, "D": 1 }
+  },
+  {
+    "id": 48,
+    "question": "Мувофиқати парваришгоҳ ва макони ҷойгиршавии онро, ки дар харита бо рақам ишора шудааст, муайян кунед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/48.png",
+    "left": ["А) Камароб", "В) Сангвор", "С) Норак", "D) Оқтош"],
+    "right": ["1) I", "2) V", "3) II", "4) IV", "5) III"],
+    "correctMatches": { "А": 3, "В": 2, "С": 5, "D": 4 }
+  },
+  {
+    "id": 49,
+    "question": "Мувофиқати дарё ва резишгоҳи онро муайян кунед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/49.png",
+    "left": ["А) Шинг", "В) Сардаи Миёна", "С) Яхсу", "D) Ғунд"],
+    "right": ["1) Қизилсу", "2) Панҷ", "3) Кофарниҳон", "4) Зарафшон", "5) Вахш"],
+    "correctMatches": { "А": 4, "В": 3, "С": 1, "D": 2 }
+  },
+  {
+    "id": 50,
+    "question": "Мувофиқати объекти географӣ ва макони ҷойгиршавии онро, ки дар харита бо рақам ишора шудааст, муайян кунед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/50.png",
+    "left": ["А) мамнуъгоҳи Даштиҷум", "В) Яшилкӯл", "С) кони ангишти Моғиён", "D) пиряхи Федченко"],
+    "right": ["1) I", "2) II", "3) III", "4) V", "5) IV"],
+    "correctMatches": { "А": 5, "В": 3, "С": 1, "D": 4 }
+  },
+    {
+    "id": 51,
+    "question": "Мувофиқати дарё ва резишгоҳи онро муайян кунед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/51.png",
+    "left": ["А) Бохуд", "В) Язғулом", "С) Шоҳдара", "D) Сорво"],
+    "right": ["1) Сирдарё", "2) Панҷ", "3) Обихингоб", "4) Кофарниҳон", "5) Ғунд"],
+    "correctMatches": { "А": 3, "В": 2, "С": 5, "D": 4 }
+  },
+  {
+    "id": 52,
+    "question": "Мувофиқати минтақаи озоди иқтисодии Тоҷикистон ва макони ҷойгиршавии онро, ки бо рақам дар харита ишора шудааст, муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/52.png",
+    "left": ["А) Ишкошим", "В) Суғд", "С) Панҷ", "D) Данғара"],
+    "right": ["1) IV", "2) V", "3) I", "4) III", "5) II"],
+    "correctMatches": { "А": 4, "В": 2, "С": 1, "D": 3 }
+  },
+  {
+    "id": 53,
+    "question": "Мувофиқати дарё ва шохоби онро муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/53.png",
+    "left": ["А) Кофарниҳон", "В) Панҷ", "С) Зарафшон", "D) Вахш"],
+    "right": ["1) Қаратоғ", "2) Шинг", "3) Сурхоб", "4) Язғулом", "5) Сардаи Миёна"],
+    "correctMatches": { "А": 5, "В": 4, "С": 2, "D": 3 }
+  },
+  {
+    "id": 54,
+    "question": "Мувофиқати ноҳияи иқтисодии Тоҷикистон ва рақамеро, ки ин ноҳия дар харита бо он ишора шудааст, муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/54.png",
+    "left": ["А) Вахш", "В) Кӯлоб", "С) Ҳисор", "D) Рашт"],
+    "right": ["1) II", "2) V", "3) IV", "4) I", "5) III"],
+    "correctMatches": { "А": 3, "В": 5, "С": 1, "D": 2 }
+  },
+  {
+    "id": 55,
+    "question": "Мувофиқати дарёи Тоҷикистон ва шохобҳои онро муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/55.png",
+    "left": ["А) Вахш", "В) Кофарниҳон", "С) Зарафшон", "D) Бартанг"],
+    "right": ["1) Сурхоб ва Хингоб", "2) Қизилсу ва Ёхсу", "3) Танимас ва Мурғоб", "4) Фон ва Киштут", "5) Варзоб ва Элок"],
+    "correctMatches": { "А": 1, "В": 5, "С": 4, "D": 3 }
+  },
+  {
+    "id": 56,
+    "question": "Мувофиқати ноҳия ва рақамеро, ки ин ноҳия дар харита бо он ишора шудааст, муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/56.png",
+    "left": ["А) Мурғоб", "В) Ашт", "С) Шаҳритус", "D) Лахш"],
+    "right": ["1) V", "2) III", "3) II", "4) I", "5) IV"],
+    "correctMatches": { "А": 2, "В": 4, "С": 3, "D": 5 }
+  },
+  {
+    "id": 57,
+    "question": "Мувофиқати кон ва кандании фоиданокро муайян кунед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/57.png",
+    "left": ["А) Хоҷамуъмин", "В) Чоқадамбулоқ", "С) Бештентоқ", "D) Моғиён"],
+    "right": ["1) волфрам", "2) нафт", "3) ангиштсанг", "4) намаксанг", "5) маъдани оҳан"],
+    "correctMatches": { "А": 4, "В": 5, "С": 2, "D": 3 }
+  },
+  {
+    "id": 58,
+    "question": "Мувофиқати ноҳия ва рақамеро, ки ин ноҳия дар харита бо он ишора шудааст, муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/58.png",
+    "left": ["А) Ванҷ", "В) Деваштич", "С) Рашт", "D) Ҷайҳун"],
+    "right": ["1) V", "2) II", "3) IV", "4) III", "5) I"],
+    "correctMatches": { "А": 3, "В": 1, "С": 4, "D": 2 }
+  },
+  {
+    "id": 59,
+    "question": "Мувофиқати кандании фоиданок ва конро муайян кунед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/59.png",
+    "left": ["А) ангиштсанг", "В) маъдани оҳан", "С) нафт", "D) намаки ошӣ"],
+    "right": ["1) Танобчӣ", "2) Моғиён", "3) Чоқадамбулоқ", "4) Кичикбел", "5) Турпӣ"],
+    "correctMatches": { "А": 2, "В": 3, "С": 4, "D": 1 }
+  },
+  {
+    "id": 60,
+    "question": "Мувофиқати ноҳия ва рақамеро, ки ин ноҳия дар харита бо он ишора шудааст, муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/60.png",
+    "left": ["А) Дарвоз", "В) Панҷ", "С) Файзобод", "D) Айнӣ"],
+    "right": ["1) IV", "2) III", "3) V", "4) I", "5) II"],
+    "correctMatches": { "А": 3, "В": 5, "С": 1, "D": 2 }
+  },
+    {
+    "id": 61,
+    "question": "Мувофиқати кони Тоҷикистон ва намуди сарвати зеризаминиро муайян кунед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/61.png",
+    "left": ["А) Ниёзбек", "В) Майхӯра", "С) Танобчӣ", "D) Назарайлоқ"],
+    "right": ["1) волфрам", "2) намаксанг", "3) нафт", "4) озокерит", "5) ангишт"],
+    "correctMatches": { "А": 3, "В": 1, "С": 2, "D": 5 }
+  },
+  {
+    "id": 62,
+    "question": "Мувофиқати кони кандании фоиданок ва ноҳияи иқтисодии Тоҷикистонро, ки кон дар он ҷойгир аст, муайян кунед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/62.png",
+    "left": ["А) Моғиён", "В) Шуғнов", "С) Барнавад", "D) Сурхсимо (Қизилтумшуқ)"],
+    "right": ["1) Бадахшон", "2) Суғд", "3) Кӯлоб", "4) Рашт", "5) Вахш"],
+    "correctMatches": { "А": 2, "В": 3, "С": 1, "D": 5 }
+  },
+  {
+    "id": 63,
+    "question": "Мувофиқати давлат ва макони ҷойгиршавии онро, ки бо рақам дар харита ишора шудааст, муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/63.png",
+    "left": ["А) Юнон", "В) Танзания", "С) Ҷумҳурии Корея", "D) Мянма"],
+    "right": ["1) I", "2) III", "3) II", "4) IV", "5) V"],
+    "correctMatches": { "А": 3, "В": 5, "С": 1, "D": 2 }
+  },
+  {
+    "id": 64,
+    "question": "Мувофиқатро муайян кунед: давлат — забони давлатӣ",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/64.png",
+    "left": ["А) Австрия", "В) Куба", "С) Австралия", "D) Мозамбик"],
+    "right": ["1) фаронсавӣ", "2) испанӣ", "3) англисӣ", "4) португалӣ", "5) олмонӣ"],
+    "correctMatches": { "А": 5, "В": 2, "С": 3, "D": 4 }
+  },
+  {
+    "id": 65,
+    "question": "Мувофиқати давлат ва рақамеро, ки бо он дар харита ишора шуда- аст, муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/65.png",
+    "left": ["А) Белорус", "В) Фаронса", "С) Полша", "D) Италия"],
+    "right": ["1) I", "2) III", "3) II", "4) IV", "5) V"],
+    "correctMatches": { "А": 3, "В": 2, "С": 4, "D": 1 }
+  },
+  {
+    "id": 66,
+    "question": "Мувофиқатро муайян кунед: давлат — забони давлатӣ",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/66.png",
+    "left": ["А) Зимбабве", "В) Монако", "С) Ангола", "D) Мексика"],
+    "right": ["1) олмонӣ", "2) испанӣ", "3) фаронсавӣ", "4) англисӣ", "5) португалӣ"],
+    "correctMatches": { "А": 4, "В": 3, "С": 5, "D": 2 }
+  },
+  {
+    "id": 67,
+    "question": "Мувофиқати давлат ва рақамеро, ки бо он дар харита ишора шуда- аст, муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/67.png",
+    "left": ["А) Руминия", "В) Олмон", "С) Португалия", "D) Юнон"],
+    "right": ["1) IV", "2) I", "3) II", "4) V", "5) III"],
+    "correctMatches": { "А": 3, "В": 5, "С": 2, "D": 1 }
+  },
+  {
+    "id": 68,
+    "question": "Мувофиқатро муайян кунед: давлат — забони давлатӣ",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/68.png",
+    "left": ["А) Нигер", "В) Тунис", "С) Зеландияи Нав", "D) Чили"],
+    "right": ["1) испанӣ", "2) арабӣ", "3) фаронсавӣ", "4) португалӣ", "5) англисӣ"],
+    "correctMatches": { "А": 3, "В": 2, "С": 5, "D": 1 }
+  },
+  {
+    "id": 69,
+    "question": "Мувофиқати давлат ва рақамеро, ки бо он дар харита ишора шуда- аст, муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/69.png",
+    "left": ["А) Норвегия", "В) Булғория", "С) Финляндия", "D) Испания"],
+    "right": ["1) I", "2) III", "3) V", "4) II", "5) IV"],
+    "correctMatches": { "А": 1, "В": 5, "С": 4, "D": 2 }
+  },
+  {
+    "id": 70,
+    "question": "Мувофиқатро муайян кунед: давлат — масоҳат",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/70.png",
+    "left": ["А) Яман", "В) Тайланд", "С) Бангладеш", "D) Камбоҷа"],
+    "right": ["1) 205 ҳазор км2", "2) 514 ҳазор км2", "3) 181 ҳазор км2", "4) 144 ҳазор км2", "5) 528 ҳазор км2"],
+    "correctMatches": { "А": 5, "В": 2, "С": 4, "D": 3 }
+  },
+    {
+    "id": 71,
+    "question": "Мувофиқати давлат ва макони ҷойгиршавии онро, ки бо рақам дар харита ишора шудааст, муайян намоед:",
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/71.png",
+    "left": ["А) Ботсвана", "В) Камерун", "С) Замбия", "D) Яман"],
+    "right": ["1) IV", "2) V", "3) III", "4) II", "5) I"],
+    "correctMatches": { "А": 2, "В": 4, "С": 1, "D": 5 }
+  },
+  {
+    "id": 72,
+    "question": "Мувофиқатро муайян кунед: давлат — масоҳат",
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/72.png",
+    "left": ["А) Шри-Ланка", "В) Белорус", "С) Мадагаскар", "D) Туркия"],
+    "right": ["1) 587 ҳазор км2", "2) 65,6 ҳазор км2", "3) 780,6 ҳазор км2", "4) 207,6 ҳазор км2", "5) 56,5 ҳазор км2"],
+    "correctMatches": { "А": 2, "В": 4, "С": 1, "D": 3 }
+  },
+  {
+    "id": 73,
+    "question": "Мувофиқати давлат ва макони ҷойгиршавии онро, ки бо рақам дар харита ишора шудааст, муайян намоед:",
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/73.png",
+    "left": ["А) Марокаш", "В) Сенегал", "С) Либия", "D) Замбия"],
+    "right": ["1) V", "2) II", "3) I", "4) III", "5) IV"],
+    "correctMatches": { "А": 2, "В": 3, "С": 4, "D": 5 }
+  },
+  {
+    "id": 74,
+    "question": "Мувофиқатро муайян кунед: давлат — масоҳат",
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/74.png",
+    "left": ["А) Булғория", "В) Исландия", "С) Юнон", "D) Шведсия"],
+    "right": ["1) 450 ҳазор км2", "2) 386 ҳазор км2", "3) 132 ҳазор км2", "4) 103 ҳазор км2", "5) 111 ҳазор км2"],
+    "correctMatches": { "А": 5, "В": 4, "С": 3, "D": 1 }
+  },
+  {
+    "id": 75,
+    "question": "Мувофиқати давлат ва рақамеро, ки бо он дар харита ишора шуда- аст, муайян намоед:",
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/75.png",
+    "left": ["А) Нигерия", "В) Ҷумҳурии Африқои Ҷанубӣ", "С) Мянма", "D) Австралия"],
+    "right": ["1) IV", "2) II", "3) III", "4) V", "5) I"],
+    "correctMatches": { "А": 4, "В": 1, "С": 5, "D": 3 }
+  },
+  {
+    "id": 76,
+    "question": "Мувофиқатро муайян кунед: шаҳр — давлат",
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/76.png",
+    "left": ["А) Ҳирот", "В) Табрез", "С) Файсалобод", "D) Басра"],
+    "right": ["1) Эрон", "2) Покистон", "3) Ҳиндустон", "4) Афғонистон", "5) Ироқ"],
+    "correctMatches": { "А": 4, "В": 1, "С": 2, "D": 5 }
+  },
+  {
+    "id": 77,
+    "question": "Мувофиқатро муайян кунед: шаҳр — давлат",
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/77.png",
+    "left": ["А) Мадрас", "В) Лоҳур", "С) Мосул", "D) Шероз"],
+    "right": ["1) Ҳиндустон", "2) Покистон", "3) Афғонистон", "4) Ироқ", "5) Эрон"],
+    "correctMatches": { "А": 1, "В": 2, "С": 4, "D": 5 }
+  },
+  {
+    "id": 78,
+    "question": "Мувофиқати давлат ва рақамеро, ки бо он дар харита ишора шуда- аст, муайян намоед:",
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/78.png",
+    "left": ["А) Покистон", "В) Финляндия", "С) ИМА", "D) Индонезия"],
+    "right": ["1) IV", "2) V", "3) III", "4) I", "5) II"],
+    "correctMatches": { "А": 5, "В": 4, "С": 3, "D": 2 }
+  },
+  {
+    "id": 79,
+    "question": "Мувофиқатро муайян кунед: шаҳр — давлат",
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/79.png",
+    "left": ["А) Дакка", "В) Коломбо", "С) Калкутта", "D) Исфаҳон"],
+    "right": ["1) Шри-Ланка", "2) Ҳиндустон", "3) Эрон", "4) Ветнам", "5) Бангладеш"],
+    "correctMatches": { "А": 5, "В": 1, "С": 2, "D": 3 }
+  },
+  {
+    "id": 80,
+    "question": "Мувофиқатро муайян кунед: давлат — пойтахт",
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/80.png",
+    "left": ["А) Эквадор", "В) Парагвай", "С) Гайана", "D) Венесуэла"],
+    "right": ["1) Ҷорҷтаун", "2) Каракас", "3) Асунсон", "4) Монтевидео", "5) Кито"],
+    "correctMatches": { "А": 5, "В": 3, "С": 1, "D": 2 }
+  },
+    {
+    "id": 81,
+    "question": "Мувофиқати давлат ва рақамеро, ки бо он дар харита ишора шуда- аст, муайян намоед:",
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/81.png",
+    "left": ["А) Мадагаскар", "В) Ботсвана", "С) Русия", "D) Бразилия"],
+    "right": ["1) III", "2) V", "3) I", "4) II", "5) IV"],
+    "correctMatches": { "А": 3, "В": 2, "С": 5, "D": 1 }
+  },
+  {
+    "id": 82,
+    "question": "Мувофиқатро муайян кунед: давлат — пойтахт",
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/82.png",
+    "left": ["А) Куба", "В) Гондурас", "С) Уругвай", "D) Перу"],
+    "right": ["1) Монтевидео", "2) Тегусигалпа", "3) Лусака", "4) Лима", "5) Гавана"],
+    "correctMatches": { "А": 5, "В": 2, "С": 1, "D": 4 }
+  },
+  {
+    "id": 83,
+    "question": "Мувофиқатро муайян кунед: давлат — пойтахт",
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/83.png",
+    "left": ["А) Ямайка", "В) Мексика", "С) Чили", "D) Суринам"],
+    "right": ["1) Сантяго", "2) Кингстон", "3) Каракас", "4) Парамарибо", "5) Мехико"],
+    "correctMatches": { "А": 2, "В": 5, "С": 1, "D": 4 }
+  },
+  {
+    "id": 84,
+    "question": "Мувофиқати давлат ва рақамеро, ки бо он дар харита ишора шуда- аст, муайян намоед:",
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/84.png",
+    "left": ["А) Чад", "В) Венесуэла", "С) Шветсия", "D) Чин"],
+    "right": ["1) V", "2) I", "3) III", "4) IV", "5) II"],
+    "correctMatches": { "А": 5, "В": 1, "С": 2, "D": 4 }
+  },
+  {
+    "id": 85,
+    "question": "Мувофиқати давлат ва пойтахти онро муайян кунед:",
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/85.png",
+    "left": ["А) Олмон", "В) Словакия", "С) Ӯзбекистон", "D) Қатар"],
+    "right": ["1) Берлин", "2) Белград", "3) Тошкент", "4) Доха", "5) Братислава"],
+    "correctMatches": { "А": 1, "В": 5, "С": 3, "D": 4 }
+  },
+  {
+    "id": 86,
+    "question": "Мувофиқати давлат ва пойтахтро муайян кунед:",
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/86.png",
+    "left": ["А) Ироқ", "В) Мексика", "С) Куба", "D) Сурия"],
+    "right": ["1) Теҳрон", "2) Бағдод", "3) Мехико", "4) Гавана", "5) Димишқ"],
+    "correctMatches": { "А": 2, "В": 3, "С": 4, "D": 5 }
+  },
+  {
+    "id": 87,
+    "question": "Мувофиқати давлат ва рақамеро, ки бо он дар харита ишора шуда- аст, муайян намоед:",
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/87.png",
+    "left": ["А) Танзания", "В) Испания", "С) Арабистони Саудӣ", "D) Қазоқистон"],
+    "right": ["1) V", "2) III", "3) II", "4) I", "5) IV"],
+    "correctMatches": { "А": 1, "В": 4, "С": 5, "D": 2 }
+  },
+  {
+    "id": 88,
+    "question": "Мувофиқати давлат ва пойтахтро муайян кунед:",
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/88.png",
+    "left": ["А) Кипр", "В) Камерун", "С) Словения", "D) Дания"],
+    "right": ["1) Любляна", "2) Скопе", "3) Никосия", "4) Яунде", "5) Копенгаген"],
+    "correctMatches": { "А": 3, "В": 4, "С": 1, "D": 5 }
+  },
+  {
+    "id": 89,
+    "question": "Мувофиқати пойтахт ва давлатро муайян намоед:",
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/89.png",
+    "left": ["А) Бамако", "В) Кингстон", "С) Лиссабон", "D) Тирана"],
+    "right": ["1) Мали", "2) Албания", "3) Ямайка", "4) Лаос", "5) Португалия"],
+    "correctMatches": { "А": 1, "В": 3, "С": 5, "D": 2 }
+  },
+  {
+    "id": 90,
+    "question": "Мувофиқати давлат ва рақамеро, ки бо он дар харита ишора шуда- аст, муайян намоед:",
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/90.png",
+    "left": ["А) Мавритания", "В) Эфиопия", "С) Туркия", "D) Перу"],
+    "right": ["1) III", "2) I", "3) V", "4) IV", "5) II"],
+    "correctMatches": { "А": 5, "В": 1, "С": 4, "D": 2 }
+  },
+    {
+    "id": 91,
+    "question": "Мувофиқати шаҳр ва давлатро муайян намоед:",
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/91.png",
+    "left": ["А) Бағдод", "В) Қоҳира", "С) Самарқанд", "D) Истамбул"],
+    "right": ["1) Миср", "2) Ироқ", "3) Туркия", "4) Ӯзбекистон", "5) Покистон"],
+    "correctMatches": { "А": 2, "В": 1, "С": 4, "D": 3 }
+  },
+  {
+    "id": 92,
+    "question": "Мувофиқати шаҳр ва давлатро муайян намоед:",
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/92.png",
+    "left": ["А) Стокголм", "В) Хелсинки", "С) Прага", "D) Кито"],
+    "right": ["1) Шветсия", "2) Швейтсария", "3) Финландия", "4) Чехия", "5) Эквадор"],
+    "correctMatches": { "А": 1, "В": 3, "С": 4, "D": 5 }
+  },
+  {
+    "id": 93,
+    "question": "Мувофиқати давлат ва рақамеро, ки бо он дар харита ишора шуда- аст, муайян намоед:",
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/93.png",
+    "left": ["А) Колумбия", "В) Боливия", "С) Мексика", "D) Замбия"],
+    "right": ["1) IV", "2) II", "3) V", "4) I", "5) III"],
+    "correctMatches": { "А": 4, "В": 2, "С": 1, "D": 3 }
+  },
+  {
+    "id": 94,
+    "question": "Мувофиқати шаҳр ва давлатро муайян намоед:",
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/94.png",
+    "left": ["А) Асунсон", "В) Рига", "С) Коломбо", "D) Додома"],
+    "right": ["1) Танзания", "2) Латвия", "3) Парагвай", "4) Шри-Ланка", "5) Дания"],
+    "correctMatches": { "А": 3, "В": 2, "С": 4, "D": 1 }
+  },
+  {
+    "id": 95,
+    "question": "Мувофиқати давлат ва пойтахти онро муайян намоед:",
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/95.png",
+    "left": ["А) Парагвай", "В) Ботсвана", "С) Барбадос", "D) Бангладеш"],
+    "right": ["1) Габороне", "2) Бриҷтаун", "3) Асунсон", "4) Дакка", "5) Бамако"],
+    "correctMatches": { "А": 3, "В": 1, "С": 2, "D": 4 }
+  },
+  {
+    "id": 96,
+    "question": "Мувофиқати давлат ва рақамеро, ки бо он дар харита ишора шуда- аст, муайян намоед:",
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/96.png",
+    "left": ["А) Бразилия", "В) Аргентина", "С) Либия", "D) Танзания"],
+    "right": ["1) I", "2) III", "3) II", "4) V", "5) IV"],
+    "correctMatches": { "А": 2, "В": 4, "С": 5, "D": 1 }
+  },
+  {
+    "id": 97,
+    "question": "Мувофиқати минтақа ва давлатро муайян кунед:",
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/97.png",
+    "left": ["А) Осиёи Ҷанубу Ғарбӣ", "В) Аврупои Ғарбӣ", "С) Осиёи Ҷануби Шарқӣ", "D) Африқои Шарқӣ"],
+    "right": ["1) Эфиопия", "2) Лубнон", "3) Словакия", "4) Лаос", "5) Британияи Кабир"],
+    "correctMatches": { "А": 2, "В": 5, "С": 4, "D": 1 }
+  },
+  {
+    "id": 98,
+    "question": "Мувофиқати давлат ва минтақаро муайян кунед:",
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/98.png",
+    "left": ["А) Олмон", "В) Полша", "С) Исроил", "D) Ветнам"],
+    "right": ["1) Осиёи Ҷанубу Шарқӣ", "2) Осиёи Шарқӣ", "3) Аврупои Шарқӣ", "4) Аврупои Ғарбӣ", "5) Осиёи Ҷанубу Ғарбӣ"],
+    "correctMatches": { "А": 4, "В": 3, "С": 5, "D": 1 }
+  },
+  {
+    "id": 99,
+    "question": "Мувофиқати давлат ва рақамеро, ки бо он дар харита ишора шуда- аст, муайян намоед:",
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/99.png",
+    "left": ["А) Алҷазоир", "В) Ҳиндустон", "С) Намибия", "D) Муғулистон"],
+    "right": ["1) I", "2) III", "3) IV", "4) II", "5) V"],
+    "correctMatches": { "А": 3, "В": 2, "С": 1, "D": 4 }
+  },
+  {
+    "id": 100,
+    "question": "Мувофиқати минтақа ва давлатро муайян кунед:",
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/100.png",
+    "left": ["А) Осиёи Ҷануби Ғарбӣ", "В) Аврупои Шарқӣ", "С) Осиёи Марказӣ", "D) Африқои Ҷанубӣ"],
+    "right": ["1) Ботсвана", "2) Молдова", "3) Мавритания", "4) Баҳрайн", "5) Ӯзбекистон"],
+    "correctMatches": { "А": 4, "В": 2, "С": 5, "D": 1 }
+  },
+    {
+    "id": 101,
+    "question": "Мувофиқати шаҳр ва давлатро муайян намоед:",
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/101.png",
+    "left": ["А) Сантяго", "В) Ереван", "С) Бамако", "D) Дублин"],
+    "right": ["1) Гурҷистон", "2) Чили", "3) Арманистон", "4) Мали", "5) Ирландия"],
+    "correctMatches": { "А": 2, "В": 3, "С": 4, "D": 5 }
+  },
+  {
+    "id": 102,
+    "question": "Мувофиқати давлат ва рақамеро, ки бо он дар харита ишора шуда- аст, муайян намоед:",
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/102.png",
+    "left": ["А) Олмон", "В) Ҷопон", "С) Эквадор", "D) Кения"],
+    "right": ["1) IV", "2) I", "3) III", "4) V", "5) II"],
+    "correctMatches": { "А": 2, "В": 1, "С": 4, "D": 5 }
+  },
+  {
+    "id": 103,
+    "question": "Мувофиқати давлат ва пойтахти онро муайян намоед:",
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/103.png",
+    "left": ["А) Белгия", "В) Эквадор", "С) Мянма", "D) Кения"],
+    "right": ["1) Кито", "2) Нейпидо", "3) Брусел", "4) Найроби", "5) Вена"],
+    "correctMatches": { "А": 3, "В": 1, "С": 2, "D": 4 }
+  },
+  {
+    "id": 104,
+    "question": "Мувофиқати давлат ва рақамеро, ки бо он дар харита ишора шуда- аст, муайян намоед:",
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/104.png",
+    "left": ["А) Чили", "В) Судон", "С) Эрон", "D) Колумбия"],
+    "right": ["1) II", "2) IV", "3) I", "4) III", "5) V"],
+    "correctMatches": { "А": 2, "В": 5, "С": 1, "D": 3 }
+  },
+  {
+    "id": 105,
+    "question": "Мувофиқати давлат ва минтақаро муайян кунед:",
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/105.png",
+    "left": ["А) Тунис", "В) Филиппин", "С) Яман", "D) Эритрея"],
+    "right": ["1) Осиёи Ҷануби Ғарбӣ", "2) Африқои Шимолӣ", "3) Африқои Шарқӣ", "4) Амрикои Лотинӣ", "5) Осиёи Ҷануби Шарқӣ"],
+    "correctMatches": { "А": 3, "В": 4, "С": 2, "D": 1 }
+  },
+  {
+    "id": 106,
+    "question": "Мувофиқати давлат ва рақамеро, ки бо он дар харита ишора шуда- аст, муайян намоед:",
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/106.png",
+    "left": ["А) Куба", "В) Украина", "С) Уругвай", "D) Британияи Кабир"],
+    "right": ["1) III", "2) V", "3) I", "4) IV", "5) II"],
+    "correctMatches": { "А": 1, "В": 2, "С": 5, "D": 3 }
+  }
+]

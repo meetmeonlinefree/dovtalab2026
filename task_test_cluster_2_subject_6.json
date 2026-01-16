@@ -1,0 +1,2262 @@
+[
+  {
+    "id": 1,
+    "question": "Ҳисоб кунед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t1.png",
+    "correctAnswer": "25",
+    "answerType": "numeric"
+  },
+  {
+    "id": 2,
+    "question": "Ҳисоб кунед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t2.png",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 3,
+    "question": "Ҳисоб кунед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t3.png",
+    "correctAnswer": "45",
+    "answerType": "numeric"
+  },
+  {
+    "id": 4,
+    "question": "Ҳисоб кунед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t4.png",
+    "correctAnswer": "5",
+    "answerType": "numeric"
+  },
+  {
+    "id": 5,
+    "question": "Ҳисоб кунед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t5.png",
+    "correctAnswer": "15",
+    "answerType": "numeric"
+  },
+  {
+    "id": 6,
+    "question": "Ҳисоб кунед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t6.png",
+    "correctAnswer": "8",
+    "answerType": "numeric"
+  },
+  {
+    "id": 7,
+    "question": "Ҳисоб кунед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t7.png",
+    "correctAnswer": "8",
+    "answerType": "numeric"
+  },
+  {
+    "id": 8,
+    "question": "Ҳисоб кунед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t8.png",
+    "correctAnswer": "15",
+    "answerType": "numeric"
+  },
+  {
+    "id": 9,
+    "question": "Ҳисоб кунед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t9.png",
+    "correctAnswer": "4",
+    "answerType": "numeric"
+  },
+  {
+    "id": 10,
+    "question": "Ҳисоб кунед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t10.png",
+    "correctAnswer": "7",
+    "answerType": "numeric"
+  },
+  {
+    "id": 11,
+    "question": "Ҳисоб кунед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t11.png",
+    "correctAnswer": "11",
+    "answerType": "numeric"
+  },
+  {
+    "id": 12,
+    "question": "Ҳисоб кунед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t12.png",
+    "correctAnswer": "12",
+    "answerType": "numeric"
+  },
+  {
+    "id": 13,
+    "question": "Ҳисоб кунед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t13.png",
+    "correctAnswer": "10",
+    "answerType": "numeric"
+  },
+  {
+    "id": 14,
+    "question": "Ҳисоб кунед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t14.png",
+    "correctAnswer": "35",
+    "answerType": "numeric"
+  },
+  {
+    "id": 15,
+    "question": "Ҳисоб кунед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t15.png",
+    "correctAnswer": "60",
+    "answerType": "numeric"
+  },
+  {
+    "id": 16,
+    "question": "Ҳисоб кунед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t16.png",
+    "correctAnswer": "8",
+    "answerType": "numeric"
+  },
+  {
+    "id": 17,
+    "question": "Ҳисоб кунед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t17.png",
+    "correctAnswer": "16",
+    "answerType": "numeric"
+  },
+  {
+    "id": 18,
+    "question": "Ҳисоб кунед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t18.png",
+    "correctAnswer": "24",
+    "answerType": "numeric"
+  },
+  {
+    "id": 19,
+    "question": "Ҳисоб кунед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t19.png",
+    "correctAnswer": "16",
+    "answerType": "numeric"
+  },
+  {
+    "id": 20,
+    "question": "Ҳисоб кунед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t20.png",
+    "correctAnswer": "3",
+    "answerType": "numeric"
+  },
+    {
+    "id": 21,
+    "question": "Ҳисоб кунед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t21.png",
+    "correctAnswer": "25",
+    "answerType": "numeric"
+  },
+  {
+    "id": 22,
+    "question": "Ҳисоб кунед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t22.png",
+    "correctAnswer": "12",
+    "answerType": "numeric"
+  },
+  {
+    "id": 23,
+    "question": "Қимати ифодаи 33x – 23y + 71-ро ҳангоми будан ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t23.png",
+    "correctAnswer": "7",
+    "answerType": "numeric"
+  },
+  {
+    "id": 24,
+    "question": "Қимати ифодаи 31x – 24y + 60-ро ҳангоми будан ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t24.png",
+    "correctAnswer": "15",
+    "answerType": "numeric"
+  },
+  {
+    "id": 25,
+    "question": "Қимати ифодаи 28a – 17b + 59-ро ҳангоми ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t25.png",
+    "correctAnswer": "23",
+    "answerType": "numeric"
+  },
+  {
+    "id": 26,
+    "question": "Ададҳои натуралии a ва b чунинанд, ки a² – b² = 23 аст. Қимати суммаи a² + b²-ро ёбед.",
+    "correctAnswer": "265",
+    "answerType": "numeric"
+  },
+  {
+    "id": 27,
+    "question": "Ададҳои натуралии x ва y чунинанд, ки x² – y² = 29 аст. Қимати суммаи x² + y²-ро ёбед.",
+    "correctAnswer": "421",
+    "answerType": "numeric"
+  },
+  {
+    "id": 28,
+    "question": "Ададҳои натуралии y ва z чунинанд, ки y² – z² = 31 аст. Қимати суммаи y² + z²-ро ёбед.",
+    "correctAnswer": "481",
+    "answerType": "numeric"
+  },
+  {
+    "id": 29,
+    "question": "Яке аз решаҳои муодилаи x² – (p – 2)x – 12 = 0 ба 4 баробар аст. Қимати p-ро ёбед.",
+    "correctAnswer": "3",
+    "answerType": "numeric"
+  },
+  {
+    "id": 30,
+    "question": "Яке аз решаҳои муодилаи x² + (p + 8)x + 45 = 0 ба –5 баробар аст. Қимати p-ро ёбед.",
+    "correctAnswer": "6",
+    "answerType": "numeric"
+  },
+  {
+    "id": 31,
+    "question": "Яке аз решаҳои муодилаи x² – (p – 7)x – 2 = 0 ба –1 баробар аст. Қимати p-ро ёбед.",
+    "correctAnswer": "8",
+    "answerType": "numeric"
+  },
+  {
+    "id": 32,
+    "question": "Яке аз решаҳои муодилаи 3x² – ax – 2a = 0 ба 4 баробар аст. Қимати a-ро ёбед.",
+    "correctAnswer": "8",
+    "answerType": "numeric"
+  },
+  {
+    "id": 33,
+    "question": "Яке аз решаҳои муодилаи 6x² – 3bx – 10b = 0 ба 5 баробар аст. Қимати b-ро ёбед.",
+    "correctAnswer": "6",
+    "answerType": "numeric"
+  },
+  {
+    "id": 34,
+    "question": "Яке аз решаҳои муодилаи px² + 49x + 3p = 0 ба –2 баробар аст. Қимати p-ро ёбед.",
+    "correctAnswer": "14",
+    "answerType": "numeric"
+  },
+  {
+    "id": 35,
+    "question": "Фарқи решаҳои муодилаи квадратии x² – 6x + g = 0 ба 4 баробар аст. Қимати g-ро ёбед.",
+    "correctAnswer": "5",
+    "answerType": "numeric"
+  },
+  {
+    "id": 36,
+    "question": "Фарқи решаҳои муодилаи квадратии x² – 8x – k = 0 ба 10 баробар аст. Қимати k-ро ёбед.",
+    "correctAnswer": "9",
+    "answerType": "numeric"
+  },
+  {
+    "id": 37,
+    "question": "Фарқи решаҳои муодилаи квадратии x² + x – m = 0 ба 15 баробар аст. Қимати m-ро ёбед.",
+    "correctAnswer": "56",
+    "answerType": "numeric"
+  },
+  {
+    "id": 38,
+    "question": "Дар муодилаи x² + 16x + g = 0 решаҳои x₁ ва x₂ баробарии x₁ – 2x₂ = 8-ро қаноат мекунанд. Қимати g-ро ёбед.",
+    "correctAnswer": "64",
+    "answerType": "numeric"
+  },
+  {
+    "id": 39,
+    "question": "Дар муодилаи x² – 18x + g = 0 решаҳои x₁ ва x₂ баробарии 2x₁ – x₂ = 9-ро қаноат мекунанд. Қимати g-ро ёбед.",
+    "correctAnswer": "81",
+    "answerType": "numeric"
+  },
+  {
+    "id": 40,
+    "question": "Дар муодилаи x² + 14x + g = 0 решаҳои x₁ ва x₂ баробарии x₂ – 3x₁ = 14-ро қаноат мекунанд. Қимати g-ро ёбед.",
+    "correctAnswer": "49",
+    "answerType": "numeric"
+  },
+    {
+    "id": 41,
+    "question": "Ададҳои 𝒙₁ ва 𝒙₂ решаҳои муодилаи 2𝒙² + 3𝒙 − 1 = 0 мебошанд. Қимати ифодаи 16 ∙ (𝒙² + 𝒙²)-ро ёбед.",
+    "correctAnswer": "52",
+    "answerType": "numeric"
+  },
+  {
+    "id": 42,
+    "question": "Ададҳои 𝒙₁ ва 𝒙₂ решаҳои муодилаи 4𝒙² + 6𝒙 − 2 = 0 мебошанд. Қимати ифодаи 24 ∙ (𝒙² + 𝒙²)-ро ёбед.",
+    "correctAnswer": "78",
+    "answerType": "numeric"
+  },
+  {
+    "id": 43,
+    "question": "Ададҳои 𝒙₁ ва 𝒙₂ решаҳои муодилаи 4𝒙² − 8𝒙 + 3 = 0 мебошанд. Қимати ифодаи 25 ∶ (𝒙² + 𝒙²)-ро ёбед.",
+    "correctAnswer": "10",
+    "answerType": "numeric"
+  },
+  {
+    "id": 44,
+    "question": "Ададҳои 𝒙₁ ва 𝒙₂ решаҳои муодилаи 𝒙² − 7𝒙 + 3 = 0 мебошанд. Қимати ифодаи 𝒙² + 𝒙₁𝒙₂ + 𝒙²-ро ёбед.",
+    "correctAnswer": "46",
+    "answerType": "numeric"
+  },
+  {
+    "id": 45,
+    "question": "Ададҳои 𝒙₁ ва 𝒙₂ решаҳои муодилаи 𝒙² + 3𝒙 − 5 = 0 мебошанд. Қимати ифодаи 𝒙² + 𝒙² − 𝒙₁𝒙₂-ро ёбед.",
+    "correctAnswer": "24",
+    "answerType": "numeric"
+  },
+  {
+    "id": 46,
+    "question": "Ададҳои 𝒙₁ ва 𝒙₂ решаҳои муодилаи 𝒙² − 9𝒙 + 9 = 0 мебошанд. Қимати ифодаи (𝒙₁ + 𝒙₂)² − 2𝒙₁𝒙₂-ро ёбед.",
+    "correctAnswer": "63",
+    "answerType": "numeric"
+  },
+  {
+    "id": 47,
+    "question": "Муодиларо ҳал кунед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t47.png",
+    "correctAnswer": "320",
+    "answerType": "numeric"
+  },
+  {
+    "id": 48,
+    "question": "Решаи муодиларо ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t48.png",
+    "correctAnswer": "12",
+    "answerType": "numeric"
+  },
+  {
+    "id": 49,
+    "question": "Решаи муодиларо ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t49.png",
+    "correctAnswer": "9",
+    "answerType": "numeric"
+  },
+  {
+    "id": 50,
+    "question": "Решаи калонтарини муодиларо ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t50.png",
+    "correctAnswer": "8",
+    "answerType": "numeric"
+  },
+  {
+    "id": 51,
+    "question": "Решаи мусбати муодиларо ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t51.png",
+    "correctAnswer": "10",
+    "answerType": "numeric"
+  },
+  {
+    "id": 52,
+    "question": "Муодиларо ҳал кунед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t52.png",
+    "correctAnswer": "4",
+    "answerType": "numeric"
+  },
+  {
+    "id": 53,
+    "question": "Суммаи решаҳои муодиларо ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t53.png",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 54,
+    "question": "Суммаи решаҳои муодиларо ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t54.png",
+    "correctAnswer": "14",
+    "answerType": "numeric"
+  },
+  {
+    "id": 55,
+    "question": "Суммаи решаҳои муодиларо ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t55.png",
+    "correctAnswer": "16",
+    "answerType": "numeric"
+  },
+  {
+    "id": 56,
+    "question": "Барои рақамгузории саҳифаҳои китоб аз саҳифаи якум сар карда 774 рақам лозим шуд. Китоб аз чанд саҳифа иборат аст?",
+    "correctAnswer": "294",
+    "answerType": "numeric"
+  },
+  {
+    "id": 57,
+    "question": "Барои рақамгузории саҳифаҳои китоб аз саҳифаи якум сар карда 570 рақам лозим шуд. Китоб аз чанд саҳифа иборат аст?",
+    "correctAnswer": "226",
+    "answerType": "numeric"
+  },
+  {
+    "id": 58,
+    "question": "Барои рақамгузории саҳифаҳои китоб аз саҳифаи якум сар карда 864 рақам лозим шуд. Китоб аз чанд саҳифа иборат аст?",
+    "correctAnswer": "324",
+    "answerType": "numeric"
+  },
+  {
+    "id": 59,
+    "question": "Дар мактаб аз 77 нафар хонандаи синфҳои ёздаҳум 29 нафар забони англисӣ, 36 нафар забони русӣ ва 13 нафар ҳарду забонро медонад. Чанд нафар хонандаи синфи ёздаҳ на забони англисиро медонаду на забони русиро?",
+    "correctAnswer": "25",
+    "answerType": "numeric"
+  },
+  {
+    "id": 60,
+    "question": "Дар ширкат 68 нафар кор мекунад. Аз онҳо 44 нафар забони англисӣ, 26 нафар забони русӣ ва 17 нафар ҳарду забонро медонад. Дар ширкат чанд нафар на забони англисиро медонаду на забони русиро?",
+    "correctAnswer": "15",
+    "answerType": "numeric"
+  },
+    {
+    "id": 61,
+    "question": "Дар ширкат 57 нафар кор мекунад. Аз онҳо 37 нафар забони англисӣ, 25 нафар забони немсӣ ва 14 нафар ҳарду забонҳоро медонад. Дар ширкат чанд нафар на забони англисро медонаду на забони немисиро?",
+    "correctAnswer": "9",
+    "answerType": "numeric"
+  },
+  {
+    "id": 62,
+    "question": "Велосипедрон аз деҳаи A то деҳаи B бо суръати 15 км/соат рафта, дар бозгашт аз деҳаи B ба деҳаи А бо суръати 10 км/соат ҳаракат кард. Суръати миёнаи велосипедронро дар ҳамаи роҳи сафар ёбед.",
+    "correctAnswer": "12",
+    "answerType": "numeric"
+  },
+  {
+    "id": 63,
+    "question": "Қаиқ аз бандар ба муқобили ҷараёни дарё бо суръати 20 км/соат рафта, дар бозгашт ба равиши ҷараёни дарё бо суръати 30 км/соат ҳаракат кард. Суръати миёнаи қаиқро дар ҳамаи роҳи сафар ёбед.",
+    "correctAnswer": "24",
+    "answerType": "numeric"
+  },
+  {
+    "id": 64,
+    "question": "Қатора аз шаҳри A то шаҳри B бо суръати 60 км/соат рафта, дар бозгашт аз шаҳри B ба шаҳри А бо суръати 90 км/соат ҳаракат кард. Суръати миёнаи қатораро дар ҳамаи роҳи сафар ёбед.",
+    "correctAnswer": "72",
+    "answerType": "numeric"
+  },
+  {
+    "id": 65,
+    "question": "Қаиқ бо равиши ҷараёни дарё 24 км ва ҳамин қадар масофаро ба муқобили ҷараёни дарё ҳаракат карда, ҳамагӣ 5 соат вақт сарф намуд. Суръати ҷараёни дарё ба 2 км/соат баробар аст. Суръати хоси қаиқро ёбед.",
+    "correctAnswer": "10",
+    "answerType": "numeric"
+  },
+  {
+    "id": 66,
+    "question": "Қаиқ бо равиши ҷараёни дарё 48 км ва ҳамин қадар масофаро ба муқобили он ҳаракат карда, ҳамагӣ 5 соат вақт сарф намуд. Суръати хоси қаиқ ба 20 км/соат баробар аст. Суръати ҷараёни дарёро ёбед.",
+    "correctAnswer": "4",
+    "answerType": "numeric"
+  },
+  {
+    "id": 67,
+    "question": "Қаиқ масофаи байни ду бандарро ба равиши ҷараёни дарё дар 7 соат ва ба муқобили ҷараёни он дар 9 соат тай кард. Суръати ҷараёни дарё 2 км/соат аст. Масофа байни бандарҳо чанд километр аст?",
+    "correctAnswer": "126",
+    "answerType": "numeric"
+  },
+  {
+    "id": 68,
+    "question": "Суръати ҷараёни дарё ба 4.6 км/соат баробар аст. Қаиқ дар 4 соат ба равиши ҷараён 154.4 км ҳаракат кард. Суръати хоси қаиқро ёбед.",
+    "correctAnswer": "34",
+    "answerType": "numeric"
+  },
+  {
+    "id": 69,
+    "question": "Суръати ҷараёни дарё 3.8 км/соат аст. Қаиқ дар 6 соат ба муқобили ҷараён 139.2 км ҳаракат кард. Суръати хоси қаиқро ёбед.",
+    "correctAnswer": "27",
+    "answerType": "numeric"
+  },
+  {
+    "id": 70,
+    "question": "Суръати ҷараёни дарё ба 2.4 км/соат баробар аст. Қаиқ дар 8 соат бо равиши ҷараён 275.2 км ҳаракат кард. Суръати хоси қаиқро ёбед.",
+    "correctAnswer": "32",
+    "answerType": "numeric"
+  },
+  {
+    "id": 71,
+    "question": "Қаиқ дар 4 соат бо равиши ҷараёни дарё масофаеро тай менамояд, ки ба муқобили ҷараёни дарё онро дар 5 соат тай мекунад. Суръати ҷараёни дарё 2 км/соат аст. Суръати қаиқро дар оби ором ёбед.",
+    "correctAnswer": "18",
+    "answerType": "numeric"
+  },
+  {
+    "id": 72,
+    "question": "Қаиқ ба муқобили ҷараёни дарё дар 7 соат масофаеро тай менамояд, ки ба равиши ҷараёни дарё онро дар 5 соат тай мекунад. Суръати қаиқ дар оби ором 18 км/соат аст. Суръати ҷараёни дарёро ёбед.",
+    "correctAnswer": "3",
+    "answerType": "numeric"
+  },
+  {
+    "id": 73,
+    "question": "Қаиқ ба муқобили ҷараёни дарё дар 13 соат масофаеро тай менамояд, ки ба равиши ҷараёни дарё онро дар 11 соат тай мекунад. Суръати ҷараёни дарё 2 км/соат аст. Суръати қаиқро дар оби ором ёбед.",
+    "correctAnswer": "24",
+    "answerType": "numeric"
+  },
+  {
+    "id": 74,
+    "question": "Ду комбайн якҷоя ҳосилро дар 12 рӯз ғундошта метавонанд. Агар ҳосилро танҳо комбайни якум ғундорад, 20 рӯз лозим аст. Комбайни дуюм дар алоҳидагӣ ҳосилро дар чанд рӯз меғундорад?",
+    "correctAnswer": "30",
+    "answerType": "numeric"
+  },
+  {
+    "id": 75,
+    "question": "Ду коргар ҳамроҳ кор карда, супоришеро дар 8 соат метавонанд иҷро кунанд. Агар коргари якум алоҳида кор кунад, ин супоришро назар ба коргари дуюм 12 соат тезтар иҷро мекунад. Агар коргари дуюм танҳо худаш кор кунад, ин супоришро дар чанд соат метавонад иҷро кунад?",
+    "correctAnswer": "24",
+    "answerType": "numeric"
+  },
+  {
+    "id": 76,
+    "question": "Ба воситаи ду қубур ҳавз дар 4 соат аз об пур мешавад. Қубури якум метавонад ҳавзро дар 5 соат аз об пур кунад. Қубури дуюм дар алоҳидагӣ ҳавзро дар чанд соат метавонад аз об пур кунад?",
+    "correctAnswer": "20",
+    "answerType": "numeric"
+  },
+  {
+    "id": 77,
+    "question": "Як коргар кори муайянро дар 24 рӯз ва коргари дигар ҳамин корро дар 48 рӯз иҷро карда метавонанд. Агар онҳо якҷоя кор кунанд, ин корро дар чанд рӯз иҷро мекунанд?",
+    "correctAnswer": "16",
+    "answerType": "numeric"
+  },
+  {
+    "id": 78,
+    "question": "Ҳавз ба воситаи ду қубур дар 4 соат аз об пур мешавад. Қубури якум ин ҳавзро метавонад дар 5 соат аз об пур кунад. Қубури дуюм ин ҳавзро дар алоидагӣ дар чанд соат аз об пур карда метавонад?",
+    "correctAnswer": "20",
+    "answerType": "numeric"
+  },
+  {
+    "id": 79,
+    "question": "Талаба ҳар рӯз миқдори баробари саҳифаҳои китоберо, ки аз 480 саҳифа иборат аст, хонд. Агар ӯ ҳар рӯз 16 саҳифа зиёдтар мехонд, хондани китобро 5 рӯз пештар ба охир мерасонд. Талаба чанд рӯз китоб хонд?",
+    "correctAnswer": "15",
+    "answerType": "numeric"
+  },
+  {
+    "id": 80,
+    "question": "Коргар барои дар вақташ иҷро кардани супориш бояд дар як рӯз 24 дастгоҳ тайёр мекард. Аммо ӯ ҳар рӯз 15 дастгоҳ зиёдтар тайёр намуда, 6 рӯз пеш аз муҳлат 21 дастгоҳ аз нақша зиёдтар тайёр кард. Коргар ҳамагӣ чанд дастгоҳ тайёр кард?",
+    "correctAnswer": "429",
+    "answerType": "numeric"
+  },
+    {
+    "id": 81,
+    "question": "Коргар бояд дар муддати 20 рӯз миқдори муайяни дастгоҳ тайёр мекард. Аммо нисбат ба нақша ӯ ҳар рӯз 6 дастгоҳ барзиёд тайёр кард ва 7 рӯз то анҷоми муҳлати муайяншуда боз 6 дастгоҳи дигар бояд тайёр менамуд. Коргар ҳамагӣ чанд дастгоҳ бояд тайёр мекард?",
+    "correctAnswer": "240",
+    "answerType": "numeric"
+  },
+  {
+    "id": 82,
+    "question": "Барои дар вақташ иҷро кардани супориш коргар бояд дар як рӯз 18 дастгоҳ тайёр мекард. Аммо ӯ ҳар рӯз нисбат ба нақша 2 дастгоҳ камтар тайёр намуд. Барои ҳамин пас аз анҷоми муҳлат боз 3 рӯзи дигар кор карда, нисбат ба нақша 4 дастгоҳ камтар тайёр намуд. Коргар ҳамагӣ чанд дастгоҳ тайёр кард?",
+    "correctAnswer": "464",
+    "answerType": "numeric"
+  },
+  {
+    "id": 83,
+    "question": "Дар таркиби оби баҳр 8% намак аст. Ба 20 кг оби баҳр чанд килограмм оби нушокӣ илова кардан лозим аст, то ки намаки он 2%-ро ташкил намояд?",
+    "correctAnswer": "60",
+    "answerType": "numeric"
+  },
+  {
+    "id": 84,
+    "question": "Дар 24 кг омехтаи қалъагӣ ва мис 45% мис мебошад. Ба омехта чӣ қадар қалъагӣ илова кардан лозим аст, то ки мис дар таркиби он 40% шавад?",
+    "correctAnswer": "3",
+    "answerType": "numeric"
+  },
+  {
+    "id": 85,
+    "question": "Дар 36 кг омехтаи мис ва никел 40% никел мебошад. Ба омехта чӣ қадар мис илова кардан лозим аст, то ки никел дар таркиби он 30% шавад?",
+    "correctAnswer": "12",
+    "answerType": "numeric"
+  },
+  {
+    "id": 86,
+    "question": "Суммаи чор адади тоқи натуралии пайдарпай аз 49 калон аст. Адади тоқи хурдтарини натуралиро ёбед, ки ин шартро қаноат мекунад.",
+    "correctAnswer": "11",
+    "answerType": "numeric"
+  },
+  {
+    "id": 87,
+    "question": "Суммаи чор адади тоқи натуралии пайдарпай аз 72 хурд аст. Адади калонтарини тоқи натуралиро ёбед, ки ин шартро қаноат мекунад.",
+    "correctAnswer": "19",
+    "answerType": "numeric"
+  },
+  {
+    "id": 88,
+    "question": "Суммаи чор адади ҷуфти натуралии пайдарпай аз 69 хурд аст. Адади ҷуфти калонтарини натуралиеро ёбед, ки ин шартро қаноат мекунад.",
+    "correctAnswer": "20",
+    "answerType": "numeric"
+  },
+  {
+    "id": 89,
+    "question": "Автобус дар 8 сафар зиёдтар аз 185 нафар ва дар 15 сафар камтар аз 370 нафар мусофир кашонд. Агар дар ҳар сафар мувофиқи ҷойҳои нишасти автобус мусофир кашонда шуда бошад, дар автобус чанд ҷойи нишаст ҳаст?",
+    "correctAnswer": "24",
+    "answerType": "numeric"
+  },
+  {
+    "id": 90,
+    "question": "Усто дар 5 рӯз камтар аз 137 асбоб ва дар 10 рӯз зиёда аз 265 асбоб тайёр кард. Агар ҳар рӯз миқдори баробари асбоб тайёр карда бошад, ӯ дар як рӯз чанд асбоб тайёр мекард?",
+    "correctAnswer": "27",
+    "answerType": "numeric"
+  },
+  {
+    "id": 91,
+    "question": "Усто дар 6 рӯз зиёда аз 195 асбоб ва дар 12 рӯз камтар аз 402 асбоб тайёр кард. Агар ҳар рӯз миқдори баробари асбоб тайёр карда бошад, ӯ дар як рӯз чанд асбоб тайёр мекард?",
+    "correctAnswer": "33",
+    "answerType": "numeric"
+  },
+  {
+    "id": 92,
+    "question": "Аз варақи квадратшакл қисмеро, ки бараш 5 см аст, буриданд. Масоҳати аввалаи варақ ба 400 см2 баробар аст. Масоҳати қисми боқимондаи варақро ёбед.",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t92.png",
+    "correctAnswer": "225",
+    "answerType": "numeric"
+  },
+  {
+    "id": 93,
+    "question": "Аз варақи квадратшакл қисмеро, ки бараш 12 см аст, буриданд. Масоҳати варақи квадратшакл ба 900 см2 баробар аст. Периметри қисми боқимондаи варақро ёбед.",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t93.png",
+    "correctAnswer": "300",
+    "answerType": "numeric"
+  },
+  {
+    "id": 94,
+    "question": "Аз варақи росткунҷа қисмеро, ки бараш 7 см аст, буриданд. Қисми боқимондаи варақ квадратест, ки периметраш 48 см аст. Периметри варақи авваларо ёбед.",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t94.png",
+    "correctAnswer": "96",
+    "answerType": "numeric"
+  },
+  {
+    "id": 95,
+    "question": "Аз варақи росткунҷа қисмеро, ки бараш 8 дм аст, буриданд. Қисми боқимондаи варақ квадратест, ки периметри он ба 56 дм баробар аст. Периметри варақи авваларо ёбед.",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t95.png",
+    "correctAnswer": "62",
+    "answerType": "numeric"
+  },
+  {
+    "id": 96,
+    "question": "Аз варақи росткунҷа қисмеро, ки бараш 11 см аст, буриданд. Қисми боқимондаи варақ квадратест, ки периметри он ба 76 см баробар аст. Периметри варақи авваларо ёбед.",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t96.png",
+    "correctAnswer": "72",
+    "answerType": "numeric"
+  },
+  {
+    "id": 97,
+    "question": "Суммаи решаҳои муодиларо ёбед:",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t97.png",
+    "correctAnswer": "98",
+    "answerType": "numeric"
+  },
+  {
+    "id": 98,
+    "question": "Суммаи решаҳои муодиларо ёбед:",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t98.png",
+    "correctAnswer": "1",
+    "answerType": "numeric"
+  },
+  {
+    "id": 99,
+    "question": "Муодиларо ҳал кунед:",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t99.png",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 100,
+    "question": "Муодиларо ҳал кунед:",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t100.png",
+    "correctAnswer": "1",
+    "answerType": "numeric"
+  },
+    {
+    "id": 101,
+    "question": "Решаи муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t101.png",
+    "correctAnswer": "3",
+    "answerType": "numeric"
+  },
+  {
+    "id": 102,
+    "question": "Решаи муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t102.png",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 103,
+    "question": "Суммаи решаҳои муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t103.png",
+    "correctAnswer": "1",
+    "answerType": "numeric"
+  },
+  {
+    "id": 104,
+    "question": "Решаи муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t104.png",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 105,
+    "question": "Решаи муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t105.png",
+    "correctAnswer": "3",
+    "answerType": "numeric"
+  },
+  {
+    "id": 106,
+    "question": "Решаи муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t106.png",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 107,
+    "question": "Решаи муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t107.png",
+    "correctAnswer": "3",
+    "answerType": "numeric"
+  },
+  {
+    "id": 108,
+    "question": "Решаи муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t108.png",
+    "correctAnswer": "3",
+    "answerType": "numeric"
+  },
+  {
+    "id": 109,
+    "question": "Решаи муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t109.png",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 110,
+    "question": "Решаи муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t110.png",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 111,
+    "question": "Решаи муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t111.png",
+    "correctAnswer": "5",
+    "answerType": "numeric"
+  },
+  {
+    "id": 112,
+    "question": "Решаи муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t112.png",
+    "correctAnswer": "11",
+    "answerType": "numeric"
+  },
+  {
+    "id": 113,
+    "question": "Решаи муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t113.png",
+    "correctAnswer": "18",
+    "answerType": "numeric"
+  },
+  {
+    "id": 114,
+    "question": "Решаи муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t114.png",
+    "correctAnswer": "8",
+    "answerType": "numeric"
+  },
+  {
+    "id": 115,
+    "question": "Решаи муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t115.png",
+    "correctAnswer": "16",
+    "answerType": "numeric"
+  },
+  {
+    "id": 116,
+    "question": "Решаи муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t116.png",
+    "correctAnswer": "6",
+    "answerType": "numeric"
+  },
+  {
+    "id": 117,
+    "question": "Решаи муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t117.png",
+    "correctAnswer": "8",
+    "answerType": "numeric"
+  },
+  {
+    "id": 118,
+    "question": "Решаи муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t118.png",
+    "correctAnswer": "19",
+    "answerType": "numeric"
+  },
+  {
+    "id": 119,
+    "question": "Решаи муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t119.png",
+    "correctAnswer": "1",
+    "answerType": "numeric"
+  },
+  {
+    "id": 120,
+    "question": "Решаи муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t120.png",
+    "correctAnswer": "8",
+    "answerType": "numeric"
+  },
+    {
+    "id": 121,
+    "question": "Решаи муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t121.png",
+    "correctAnswer": "11",
+    "answerType": "numeric"
+  },
+  {
+    "id": 122,
+    "question": "Муодиларо ҳал кунед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t122.png",
+    "correctAnswer": "9",
+    "answerType": "numeric"
+  },
+  {
+    "id": 123,
+    "question": "Муодиларо ҳал кунед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t123.png",
+    "correctAnswer": "21",
+    "answerType": "numeric"
+  },
+  {
+    "id": 124,
+    "question": "Муодиларо ҳал кунед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t124.png",
+    "correctAnswer": "8",
+    "answerType": "numeric"
+  },
+  {
+    "id": 125,
+    "question": "Қимати ифодаро ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t125.png",
+    "correctAnswer": "72",
+    "answerType": "numeric"
+  },
+  {
+    "id": 126,
+    "question": "Қимати ифодаро ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t126.png",
+    "correctAnswer": "176",
+    "answerType": "numeric"
+  },
+  {
+    "id": 127,
+    "question": "Қимати ифодаро ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t127.png",
+    "correctAnswer": "676",
+    "answerType": "numeric"
+  },
+  {
+    "id": 128,
+    "question": "Қимати 𝒙-ро ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t128.png",
+    "correctAnswer": "24",
+    "answerType": "numeric"
+  },
+  {
+    "id": 129,
+    "question": "Қимати 𝒙-ро ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t129.png",
+    "correctAnswer": "4",
+    "answerType": "numeric"
+  },
+  {
+    "id": 130,
+    "question": "Қимати 𝒙-ро ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t130.png",
+    "correctAnswer": "6",
+    "answerType": "numeric"
+  },
+  {
+    "id": 131,
+    "question": "Адади 𝒙-ро ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t131.png",
+    "correctAnswer": "3",
+    "answerType": "numeric"
+  },
+  {
+    "id": 132,
+    "question": "Адади 𝒙-ро ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t132.png",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 133,
+    "question": "Адади 𝒙-ро ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t133.png",
+    "correctAnswer": "25",
+    "answerType": "numeric"
+  },
+  {
+    "id": 134,
+    "question": "Суммаи решаҳои муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t134.png",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 135,
+    "question": "Суммаи решаҳои муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t135.png",
+    "correctAnswer": "3",
+    "answerType": "numeric"
+  },
+  {
+    "id": 136,
+    "question": "Суммаи решаҳои муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t136.png",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 137,
+    "question": "Решаи муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t137.png",
+    "correctAnswer": "5",
+    "answerType": "numeric"
+  },
+  {
+    "id": 138,
+    "question": "Решаи муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t138.png",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 139,
+    "question": "Решаи муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t139.png",
+    "correctAnswer": "1",
+    "answerType": "numeric"
+  },
+  {
+    "id": 140,
+    "question": "Решаи муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t140.png",
+    "correctAnswer": "13",
+    "answerType": "numeric"
+  },
+  {
+    "id": 141,
+    "question": "Решаи муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t141.png",
+    "correctAnswer": "25",
+    "answerType": "numeric"
+  },
+  {
+    "id": 142,
+    "question": "Решаи муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t142.png",
+    "correctAnswer": "14",
+    "answerType": "numeric"
+  },
+  {
+    "id": 143,
+    "question": "Решаи муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t143.png",
+    "correctAnswer": "625",
+    "answerType": "numeric"
+  },
+  {
+    "id": 144,
+    "question": "Решаи муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t144.png",
+    "correctAnswer": "64",
+    "answerType": "numeric"
+  },
+  {
+    "id": 145,
+    "question": "Решаи муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t145.png",
+    "correctAnswer": "32",
+    "answerType": "numeric"
+  },
+  {
+    "id": 146,
+    "question": "Решаи муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t146.png",
+    "correctAnswer": "79",
+    "answerType": "numeric"
+  },
+  {
+    "id": 147,
+    "question": "Решаи муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t147.png",
+    "correctAnswer": "82",
+    "answerType": "numeric"
+  },
+  {
+    "id": 148,
+    "question": "Решаи муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t148.png",
+    "correctAnswer": "30",
+    "answerType": "numeric"
+  },
+  {
+    "id": 149,
+    "question": "Решаи муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t149.png",
+    "correctAnswer": "25",
+    "answerType": "numeric"
+  },
+  {
+    "id": 150,
+    "question": "Решаи муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t150.png",
+    "correctAnswer": "6",
+    "answerType": "numeric"
+  },
+    {
+    "id": 151,
+    "question": "Решаи муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t151.png",
+    "correctAnswer": "3",
+    "answerType": "numeric"
+  },
+  {
+    "id": 152,
+    "question": "Решаи муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t152.png",
+    "correctAnswer": "4",
+    "answerType": "numeric"
+  },
+  {
+    "id": 153,
+    "question": "Суммаи решаҳои муодиларо ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t153.png",
+    "correctAnswer": "3",
+    "answerType": "numeric"
+  },
+  {
+    "id": 154,
+    "question": "Решаи муодиларо ёбед:",
+   "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t154.png",
+    "correctAnswer": "3",
+    "answerType": "numeric"
+  },
+  {
+    "id": 155,
+    "question": "Маълум, ки 𝒇(𝒙) = 𝐥𝐨𝐠𝟐(𝟓𝒙 — 𝟐) аст. Муодилаи 𝒇(𝒙) = 𝒇(𝟑𝒙 — 𝟐𝟎)-ро ҳал кунед.",
+    "imageUrl": "",
+    "correctAnswer": "10",
+    "answerType": "numeric"
+  },
+  {
+    "id": 156,
+    "question": "Маълум, ки 𝒇(𝒙) = 𝐥𝐨𝐠𝟓(𝟐𝒙 — 𝟓) аст. Муодилаи 𝒇(𝒙) = 𝒇(𝟐𝟒 — 𝟑𝒙)-ро ҳал кунед.",
+    "imageUrl": "",
+    "correctAnswer": "6",
+    "answerType": "numeric"
+  },
+  {
+    "id": 157,
+    "question": "Маълум, ки 𝒇(𝒙) = 𝐥𝐨𝐠𝟒(𝟑𝒙 — 𝟒) аст. Муодилаи 𝒇(𝒙) = 𝒇(𝟐𝟏 — 𝟐𝒙)-ро ҳал кунед.",
+    "imageUrl": "",
+    "correctAnswer": "7",
+    "answerType": "numeric"
+  },
+  {
+    "id": 158,
+    "question": "Ҳосили зарби ҳамаи қиматҳои 𝒙 ва 𝒚-ро ёбед, ки системаи муодилаҳоро қаноат мекунанд:",
+   "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t158.png",
+    "correctAnswer": "36",
+    "answerType": "numeric"
+  },
+  {
+    "id": 159,
+    "question": "Ҳалли бутуни калонтарини нобаробариро ёбед:",
+   "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t159.png",
+    "correctAnswer": "3",
+    "answerType": "numeric"
+  },
+  {
+    "id": 160,
+    "question": "Чанд адади натуралӣ нобаробариро қонеъ мекунад:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t160.png",
+    "correctAnswer": "4",
+    "answerType": "numeric"
+  },
+  {
+    "id": 161,
+    "question": "Қимати калонтарини бутуни 𝒙 -ро ёбед, ки нобаробариро қонеъ мекунад:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t161.png",
+    "correctAnswer": "4",
+    "answerType": "numeric"
+  },
+  {
+    "id": 162,
+    "question": "Ҳосили ҷамъи ададҳои бутуни 𝒙-ро ёбед, ки нобаробариро қонеъ кунад:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t162.png",
+    "correctAnswer": "7",
+    "answerType": "numeric"
+  },
+  {
+    "id": 163,
+    "question": "Суммаи панҷ аъзои аввалини прогрессияи геометриро ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t163.png",
+    "correctAnswer": "4",
+    "answerType": "numeric"
+  },
+  {
+    "id": 164,
+    "question": "Суммаи чор аъзои аввалини прогрессияи геометриро ёбед, ки дар он 𝒃𝟏 = —𝟑, 𝒒 = —𝟑 аст.",
+   "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t164.png",
+    "correctAnswer": "5",
+    "answerType": "numeric"
+  },
+  {
+    "id": 165,
+    "question": "Суммаи бисту шаш аъзои аввалини прогрессияи арифметикиро ёбед: 1; 3; 5; 7; 9; 11, … .",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t165.png",
+    "correctAnswer": "9",
+    "answerType": "numeric"
+  },
+  {
+    "id": 166,
+    "question": "Суммаи чил аъзои аввалини пайдарпайии ба воситаи формулаи 𝒂𝒏 = 𝟐𝒏 + 𝟏 додашударо ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t166.png",
+    "correctAnswer": "12",
+    "answerType": "numeric"
+  },
+  {
+    "id": 167,
+    "question": "Аъзои бисту чоруми прогрессияи арифметикии (𝒂𝒏)-ро ёбед, ки дар он 𝒂𝟏 = 𝟐 ва 𝒂𝟒 = 𝟏𝟒 мебошад.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t167.png",
+    "correctAnswer": "1",
+    "answerType": "numeric"
+  },
+  {
+    "id": 168,
+    "question": "Дар прогрессияи арифметикӣ 𝒂𝟑 = 𝟓, 𝒂𝟒 = 𝟖 мебошад. Фарқи прогрессияро ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t168.png",
+    "correctAnswer": "3",
+    "answerType": "numeric"
+  },
+  {
+    "id": 169,
+    "question": "Аъзои панҷуми пайдарпайиро ёбед, ки дар он 𝒃𝟏 = 𝟔, 𝒃𝒏 + 𝟏 = 𝒏𝒃𝒏 мебошад.",
+    "imageUrl": "",
+    "correctAnswer": "33",
+    "answerType": "numeric"
+  },
+  {
+    "id": 170,
+    "question": "Аъзои чоруми пайдарпайиро ёбед, ки дар он 𝒂𝟏 = —𝟏𝟐, 𝒂𝒏 + 𝟏 = —𝟑𝒂𝒏 мебошад.",
+    "imageUrl": "",
+    "correctAnswer": "60",
+    "answerType": "numeric"
+  },
+    {
+    "id": 171,
+    "question": "Пайдарпайии ададӣ ба воситаи формулаи 𝒙𝒏 = 𝒏² + 𝟐𝒏 + 𝟑 дода шудааст. Рақами аъзои пайдарпайиро ёбед, ки ба 83 баробар аст.",
+    "imageUrl": "",
+    "correctAnswer": "676",
+    "answerType": "numeric"
+  },
+  {
+    "id": 172,
+    "question": "Пайдарпайии ададӣ ба воситаи формулаи 𝒙𝒏 = 𝒏² — 𝟓𝒏 — 𝟔 дода шудааст. Рақами аъзои пайдарпайиро ёбед, ки ба 294 баробар аст.",
+    "imageUrl": "",
+    "correctAnswer": "1680",
+    "answerType": "numeric"
+  },
+  {
+    "id": 173,
+    "question": "Пайдарпайии ададӣ ба воситаи формулаи 𝒙𝒏 = 𝟐𝒏² + 𝟔𝒏 + 𝟏𝟐 дода шудааст. Рақами аъзои пайдарпайиро ёбед, ки ба 120 баробар аст.",
+    "imageUrl": "",
+    "correctAnswer": "2736",
+    "answerType": "numeric"
+  },
+  {
+    "id": 174,
+    "question": "Аъзои ҳафтуми прогрессияи арифметикӣ ба 22 ва фарқи аъзоҳои нуҳум ва панҷуми он ба 12 баробар аст. Суммаи ҳаждаҳ аъзои аввалини прогрессияро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "94",
+    "answerType": "numeric"
+  },
+  {
+    "id": 175,
+    "question": "Аъзои даҳуми прогрессияи арифметикӣ ба 41 ва суммаи аъзоҳои дуюм ва шашуми он ба 34 баробар аст. Суммаи шонздаҳ аъзои аввалини прогрессияро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "3",
+    "answerType": "numeric"
+  },
+  {
+    "id": 176,
+    "question": "Аъзои панҷуми прогрессияи арифметикӣ ба 13 ва суммаи аъзоҳои ҳафтум ва даҳуми ин прогрессия ба 40 баробар аст. Суммаи ҳабдаҳ аъзои аввалини прогрессияро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "144",
+    "answerType": "numeric"
+  },
+  {
+    "id": 177,
+    "question": "Аъзои шашуми прогрессияи арифметикӣ ба 33 ва суммаи аъзоҳои нуҳум ва ёздаҳуми он ба 98 баробар аст. Аъзои чандуми прогрессия ба 77 баробар аст?",
+    "imageUrl": "",
+    "correctAnswer": "324",
+    "answerType": "numeric"
+  },
+  {
+    "id": 178,
+    "question": "Аъзои ҳафтуми прогрессияи арифметикӣ ба 21 ва суммаи ҳафт аъзои аввалини он ба 105 баробар аст. Аъзои чандуми прогрессия ба 51 баробар аст?",
+    "imageUrl": "",
+    "correctAnswer": "8",
+    "answerType": "numeric"
+  },
+  {
+    "id": 179,
+    "question": "Чанд адади натуралии тоқро аз 1 сар карда ҷамъ кардан лозим аст, ки дар натиҷа 729 ҳосил шавад?",
+    "imageUrl": "",
+    "correctAnswer": "20",
+    "answerType": "numeric"
+  },
+  {
+    "id": 180,
+    "question": "Чанд адади натуралии ҷуфтро аз 2 сар карда ҷамъ кардан лозим аст, ки дар натиҷа 1 190 ҳосил шавад?",
+    "imageUrl": "",
+    "correctAnswer": "6",
+    "answerType": "numeric"
+  },
+  {
+    "id": 181,
+    "question": "Суммаи ҳамаи ададҳои натуралии аз адади 325 калон набудаи ба ҳафт каратиро ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t81.png",
+    "correctAnswer": "61",
+    "answerType": "numeric"
+  },
+  {
+    "id": 182,
+    "question": "Суммаи ҳамаи ададҳои натуралии аз адади 329 калон набудаи ба шаш каратиро ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t182.png",
+    "correctAnswer": "41",
+    "answerType": "numeric"
+  },
+  {
+    "id": 183,
+    "question": "Суммаи ҳамаи ададҳои дурақамаи натуралии ба чор каратиро ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t183.png",
+    "correctAnswer": "135",
+    "answerType": "numeric"
+  },
+  {
+    "id": 184,
+    "question": "Дар прогрессияи арифметикӣ 𝑺₂₀ = 50 ва 𝑺₅₀ = 1625 мебошанд. Суммаи сӣ аъзои аввалини онро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "531",
+    "answerType": "numeric"
+  },
+  {
+    "id": 185,
+    "question": "Дар прогрессияи арифметикӣ 𝑺₂₀ = 1000 ва 𝑺₄₀ = 10 000 мебошанд. Аъзои панҷоҳуми онро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "560",
+    "answerType": "numeric"
+  },
+    {
+    "id": 186,
+    "question": "Чанд адади натуралии тоқро аз адади 11 сар карда ҷамъ кардан лозим аст, ки дар натиҷа 1 064 ҳосил шавад?",
+    "imageUrl": "",
+    "correctAnswer": "357",
+    "answerType": "numeric"
+  },
+  {
+    "id": 187,
+    "question": "Суммаи ҳамаи ададҳои натуралии аз адади 414 калон набудаи ба ёздаҳ каратиро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "17",
+    "answerType": "numeric"
+  },
+  {
+    "id": 188,
+    "question": "Суммаи ҳамаи ададҳои дурақамаи натуралии ба шаш каратиро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "22",
+    "answerType": "numeric"
+  },
+  {
+    "id": 189,
+    "question": "Суммаи ҳамаи ададҳои дурақамаи натуралии ба се каратиро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "11",
+    "answerType": "numeric"
+  },
+  {
+    "id": 190,
+    "question": "Аъзои нуҳуми прогрессияи арифметикӣ аз аъзои даҳуми он 2 маротиба калон буда, суммаи аъзои шашум ва дувоздаҳуми он ба 8 баробар аст. Аъзои чандуми прогрессия ба нул баробар аст?",
+    "imageUrl": "",
+    "correctAnswer": "27",
+    "answerType": "numeric"
+  },
+  {
+    "id": 191,
+    "question": "Чанд адади бутун нобаробариро қонеъ мекунад:",
+    "imageUrl": "",
+    "correctAnswer": "34",
+    "answerType": "numeric"
+  },
+  {
+    "id": 192,
+    "question": "Адади калонтарини бутуни мусбатеро ёбед, ки он нобаробариро қонеъ созад:",
+    "imageUrl": "",
+    "correctAnswer": "28",
+    "answerType": "numeric"
+  },
+  {
+    "id": 193,
+    "question": "Суммаи ҳамаи ададҳои натуралии аз адади 325 калон набудаи ба ҳафт каратиро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "7567",
+    "answerType": "numeric"
+  },
+  {
+    "id": 194,
+    "question": "Суммаи ҳамаи ададҳои натуралии аз адади 329 калон набудаи ба шаш каратиро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "8910",
+    "answerType": "numeric"
+  },
+  {
+    "id": 195,
+    "question": "Суммаи ҳамаи ададҳои натуралии аз адади 414 калон набудаи ба ёздаҳ каратиро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "7733",
+    "answerType": "numeric"
+  },
+  {
+    "id": 196,
+    "question": "Суммаи ҳамаи ададҳои дурақамаи натуралии ба чор каратиро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "1188",
+    "answerType": "numeric"
+  },
+  {
+    "id": 197,
+    "question": "Суммаи ҳамаи ададҳои дурақамаи натуралии ба шаш каратиро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "810",
+    "answerType": "numeric"
+  },
+  {
+    "id": 198,
+    "question": "Суммаи ҳамаи ададҳои дурақамаи натуралии ба се каратиро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "1665",
+    "answerType": "numeric"
+  },
+  {
+    "id": 199,
+    "question": "Дар прогрессияи арифметикӣ 𝑺₂₀ = 50 ва 𝑺₅₀ = 1625 мебошанд. Суммаи сӣ аъзои аввалини онро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "375",
+    "answerType": "numeric"
+  },
+  {
+    "id": 200,
+    "question": "Дар прогрессияи арифметикӣ 𝑺₂₀ = 1000 ва 𝑺₄₀ = 10 000 мебошанд. Аъзои панҷоҳуми онро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "840",
+    "answerType": "numeric"
+  },
+    {
+    "id": 201,
+    "question": "Дар прогрессияи арифметикӣ 𝑺₁₀ = 100 ва 𝑺₃₀ = 900 мебошанд. Суммаи чил аъзои аввалини онро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "1600",
+    "answerType": "numeric"
+  },
+  {
+    "id": 202,
+    "question": "Се аъзои пай дар пайи прогрессияи геометрӣ 14; 𝒙; 224 дода шудаанд. Қимати 𝒙-ро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "56",
+    "answerType": "numeric"
+  },
+  {
+    "id": 203,
+    "question": "Се аъзои пай дар пайи прогрессияи геометрӣ 13; 𝒙; 325 дода шудаанд. Қимати 𝒙-ро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "65",
+    "answerType": "numeric"
+  },
+  {
+    "id": 204,
+    "question": "Се аъзои пай дар пайи прогрессияи геометрӣ 12; 𝒙; 108 дода шудаанд. Қимати 𝒙-ро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "36",
+    "answerType": "numeric"
+  },
+  {
+    "id": 205,
+    "question": "Бо тартиби додашуда пайдарпайии 162; 54; 𝒙; …, прогрессияи геометрӣ мебошад. Қимати х-ро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "18",
+    "answerType": "numeric"
+  },
+  {
+    "id": 206,
+    "question": "Бо тартиби додашуда пайдарпайии 343; 49; 𝒙; …, прогрессияи геометрӣ мебошад. Қимати х-ро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "7",
+    "answerType": "numeric"
+  },
+  {
+    "id": 207,
+    "question": "Бо тартиби додашуда пайдарпайии 192; 48; 𝒙; …, прогрессияи геометрӣ мебошад. Қимати х-ро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "12",
+    "answerType": "numeric"
+  },
+  {
+    "id": 208,
+    "question": "Прогрессияи геометрӣ аз шаш аъзо иборат буда, суммаи се аъзои аввали он ба 24 ва суммаи се аъзои охири он ба 648 баробар аст. Махраҷи прогрессияро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "3",
+    "answerType": "numeric"
+  },
+  {
+    "id": 209,
+    "question": "Прогрессияи геометрӣ аз шаш аъзо иборат буда, суммаи се аъзои аввали он ба 8 ва суммаи се аъзои охири он ба 512 баробар аст. Махраҷи прогрессияро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "4",
+    "answerType": "numeric"
+  },
+  {
+    "id": 210,
+    "question": "Прогрессияи геометрӣ аз ҳафт аъзо иборат буда, суммаи се аъзои аввали он ба 26 ва суммаи се аъзои охири он ба 2 106 баробар аст. Квадрати махраҷи прогрессияро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "9",
+    "answerType": "numeric"
+  },
+  {
+    "id": 211,
+    "question": "Се адад прогрессияи геометриро ташкил мекунанд. Миёнаи арифметикии аъзоҳои дуюм ва сеюми он ба 20 баробар буда, миёнаи арифметикии аъзоҳои якум ва дуюм ба 5 баробар аст. Нисбати махраҷи прогрессияро ба аъзои якум ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 212,
+    "question": "Се адад прогрессияи геометриро ташкил мекунанд. Миёнаи арифметикии аъзоҳои якум ва дуюми он ба 13 баробар буда, миёнаи арифметикии аъзоҳои дуюм ва сеюм ба 156 баробар аст. Нисбати махраҷи прогрессияро ба аъзои якум ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "6",
+    "answerType": "numeric"
+  },
+  {
+    "id": 213,
+    "question": "Суммаи ду ададеро ёбед, ки ҳангоми онҳоро дар байни ададҳои 7 ва 56 ҷойгир кардан якҷоя бо ададҳои додашуда прогрессияи геометриро ташкил намоянд.",
+    "imageUrl": "",
+    "correctAnswer": "4",
+    "answerType": "numeric"
+  },
+  {
+    "id": 214,
+    "question": "Суммаи ду ададеро ёбед, ки ҳангоми онҳоро дар байни ададҳои 6 ва 162 ҷойгир кардан якҷоя бо ададҳои додашуда прогрессияи геометриро ташкил намоянд.",
+    "imageUrl": "",
+    "correctAnswer": "42",
+    "answerType": "numeric"
+  },
+  {
+    "id": 215,
+    "question": "Суммаи ду ададеро ёбед, ки ҳангоми онҳоро дар байни ададҳои 5 ва 320 ҷойгир кардан якҷоя бо ададҳои додашуда прогрессияи геометриро ташкил намоянд.",
+    "imageUrl": "",
+    "correctAnswer": "72",
+    "answerType": "numeric"
+  },
+  {
+    "id": 216,
+    "question": "Ададҳои 𝒙— 6; 𝒙; 2𝒙 ҳангоми 𝒙 > 0 будан се аъзои пайдарпайии прогрессияи геометрӣ мебошанд. Қимати 𝒙-ро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "100",
+    "answerType": "numeric"
+  },
+  {
+    "id": 217,
+    "question": "Ададҳои 𝒙— 5; 𝒙— 4; 𝒙— 2 се аъзои пайдарпайии прогрессияи геометрӣ мебошанд. Қимати 𝒙-ро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "12",
+    "answerType": "numeric"
+  },
+  {
+    "id": 218,
+    "question": "Ададҳои 𝒙— 10; 𝒙— 6; 𝒙+ 2 се аъзои пайдарпайии прогрессияи геометрӣ мебошанд. Қимати 𝒙-ро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "6",
+    "answerType": "numeric"
+  },
+  {
+    "id": 219,
+    "question": "Функсияи 𝒇(𝒙) = (5𝒙 — 16)⁶ дода шудааст. Решаи муодилаи 𝒇'(𝒙) = —30-ро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "14",
+    "answerType": "numeric"
+  },
+  {
+    "id": 220,
+    "question": "Функсияи 𝒇(𝒙) = (4𝒙 — 27)⁸ дода шудааст. Решаи муодилаи 𝒇'(𝒙) = 32-ро ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t220.png",
+    "correctAnswer": "10",
+    "answerType": "numeric"
+  },
+    {
+    "id": 221,
+    "question": "Функсияи 𝒇(𝒙) = (3𝒙 — 7)⁴ дода шудааст. Решаи муодилаи 𝒇'(𝒙) = 96-ро ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t221.png",
+    "correctAnswer": "15",
+    "answerType": "numeric"
+  },
+  {
+    "id": 222,
+    "question": "Функсияи 𝒇(𝒙) = (3𝒙 — 23)⁸ дода шудааст. Решаи муодилаи 𝒇'(𝒙) = 24-ро ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t222.png",
+    "correctAnswer": "5",
+    "answerType": "numeric"
+  },
+  {
+    "id": 223,
+    "question": "Нуқтаи максимуми функсияро ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t223.png",
+    "correctAnswer": "25",
+    "answerType": "numeric"
+  },
+  {
+    "id": 224,
+    "question": "Нуқтаи минимуми функсияро ёбед:",
+    "imageUrl": "",
+    "correctAnswer": "3",
+    "answerType": "numeric"
+  },
+  {
+    "id": 225,
+    "question": "Нуқтаи максимуми функсияро ёбед:",
+    "imageUrl": "",
+    "correctAnswer": "7",
+    "answerType": "numeric"
+  },
+  {
+    "id": 226,
+    "question": "Нуқтаи минимуми функсияро ёбед:",
+    "imageUrl": "",
+    "correctAnswer": "3",
+    "answerType": "numeric"
+  },
+  {
+    "id": 227,
+    "question": "Нуқтаи максимуми функсияро ёбед:",
+    "imageUrl": "",
+    "correctAnswer": "8",
+    "answerType": "numeric"
+  },
+  {
+    "id": 228,
+    "question": "Нуқтаи минимуми функсияро ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t228.png",
+    "correctAnswer": "16",
+    "answerType": "numeric"
+  },
+  {
+    "id": 229,
+    "question": "Қимати калонтарини функсияи 𝒚 = 𝒙³ — 2𝒙² — 4𝒙 + 8-ро дар порчаи [0; 2] ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t229.png",
+    "correctAnswer": "12",
+    "answerType": "numeric"
+  },
+  {
+    "id": 230,
+    "question": "Қимати калонтарини функсияи 𝒚 = 𝒙³ — 9𝒙² — 21𝒙 — 1-ро дар порчаи [-1; 3] ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t230.png",
+    "correctAnswer": "13",
+    "answerType": "numeric"
+  },
+  {
+    "id": 231,
+    "question": "Қимати калонтарини функсияи 𝒚 = 𝒙³ + 3𝒙² — 9𝒙 + 2-ро дар порчаи [-2; 0] ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t231.png",
+    "correctAnswer": "9",
+    "answerType": "numeric"
+  },
+  {
+    "id": 232,
+    "question": "Қимати хурдтарини функсияи 𝒚 = 𝒙⁴ — 4𝒙³ + 20-ро дар порчаи [-1; 2] ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t232.png",
+    "correctAnswer": "15",
+    "answerType": "numeric"
+  },
+  {
+    "id": 233,
+    "question": "Қимати хурдтарини функсияи 𝒚 = 𝒙⁴ — 8𝒙³ + 7-ро дар порчаи [-1; 0] ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t233.png",
+    "correctAnswer": "4",
+    "answerType": "numeric"
+  },
+  {
+    "id": 234,
+    "question": "Қимати хурдтарини функсияи 𝒚 = 𝒙⁴ + 2𝒙³ + 5-ро дар порчаи [-1; 1] ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "8",
+    "answerType": "numeric"
+  },
+  {
+    "id": 235,
+    "question": "Қимати калонтарини функсияи 𝒚 = 𝒙³ — 𝒙² — 5𝒙 — 2-ро дар ҳолати 𝒙 ∈ [-2; 1] ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "10",
+    "answerType": "numeric"
+  },
+  {
+    "id": 236,
+    "question": "Қимати калонтарини функсияи 𝒚 = 𝒙³ — 𝒙² — 5𝒙 + 2-ро дар ҳолати 𝒙 ∈ [-2; 3] ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "24",
+    "answerType": "numeric"
+  },
+  {
+    "id": 237,
+    "question": "Қимати калонтарини функсияи 𝒚 = -2𝒙² + 4𝒙 + 1-ро дар ҳолати 𝒙 ∈ [-1; 2] ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "4",
+    "answerType": "numeric"
+  },
+  {
+    "id": 238,
+    "question": "Қимати хурдтарини суммаи ду адади мусбатеро ёбед, ки ҳосили зарби онҳо ба 625 баробар аст.",
+    "imageUrl": "",
+    "correctAnswer": "7",
+    "answerType": "numeric"
+  },
+  {
+    "id": 239,
+    "question": "Қимати хурдтарини суммаи ду адади мусбатеро ёбед, ки ҳосили зарби онҳо ба 729 баробар аст.",
+    "imageUrl": "",
+    "correctAnswer": "4",
+    "answerType": "numeric"
+  },
+  {
+    "id": 240,
+    "question": "Қимати хурдтарини суммаи ду адади мусбатеро ёбед, ки ҳосили зарби онҳо ба 484 баробар аст.",
+    "imageUrl": "",
+    "correctAnswer": "1",
+    "answerType": "numeric"
+  },
+    {
+    "id": 241,
+    "question": "Қимати хурдтарини суммаи ду адади мусбатеро ёбед, ки ҳосили зарби онҳо ба 625 баробар аст.",
+    "imageUrl": "",
+    "correctAnswer": "5",
+    "answerType": "numeric"
+  },
+  {
+    "id": 242,
+    "question": "Қимати хурдтарини суммаи ду адади мусбатеро ёбед, ки ҳосили зарби онҳо ба 729 баробар аст.",
+    "imageUrl": "",
+    "correctAnswer": "3",
+    "answerType": "numeric"
+  },
+  {
+    "id": 243,
+    "question": "Периметри хурдтарини росткунҷаеро ёбед, ки масоҳати он ба 100 см² баробар бошад.",
+    "imageUrl": "",
+    "correctAnswer": "50",
+    "answerType": "numeric"
+  },
+  {
+    "id": 244,
+    "question": "Периметри хурдтарини росткунҷаеро ёбед, ки масоҳати он ба 144 см² баробар аст.",
+    "imageUrl": "",
+    "correctAnswer": "54",
+    "answerType": "numeric"
+  },
+  {
+    "id": 245,
+    "question": "Периметри хурдтарини росткунҷаеро ёбед, ки масоҳати он ба 121 см² баробар аст.",
+    "imageUrl": "",
+    "correctAnswer": "44",
+    "answerType": "numeric"
+  },
+  {
+    "id": 246,
+    "question": "Қимати хурдтарини суммаи се тарафи росткунҷаеро ёбед, ки масоҳати он ба 72 см² баробар аст.",
+    "imageUrl": "",
+    "correctAnswer": "40",
+    "answerType": "numeric"
+  },
+  {
+    "id": 247,
+    "question": "Қимати хурдтарини суммаи се тарафи росткунҷаро ёбед, ки масоҳати он ба 18 дм² баробар аст.",
+    "imageUrl": "",
+    "correctAnswer": "48",
+    "answerType": "numeric"
+  },
+  {
+    "id": 248,
+    "question": "Қимати хурдтарини суммаи ду адади мусбатеро ёбед, ки ҳосили зарби онҳо ба 625 баробар аст.",
+    "imageUrl": "",
+    "correctAnswer": "44",
+    "answerType": "numeric"
+  },
+  {
+    "id": 249,
+    "question": "Қимати хурдтарини суммаи ду адади мусбатеро ёбед, ки ҳосили зарби онҳо ба 729 баробар аст.",
+    "imageUrl": "",
+    "correctAnswer": "24",
+    "answerType": "numeric"
+  },
+  {
+    "id": 250,
+    "question": "Қимати хурдтарини суммаи ду адади мусбатеро ёбед, ки ҳосили зарби онҳо ба 484 баробар аст.",
+    "imageUrl": "",
+    "correctAnswer": "12",
+    "answerType": "numeric"
+  },
+    {
+    "id": 251,
+    "question": "Қимати хурдтарини суммаи се тарафи росткунҷаеро ёбед, ки масоҳати он ба 98 см² баробар аст.",
+    "imageUrl": "",
+    "correctAnswer": "28",
+    "answerType": "numeric"
+  },
+  {
+    "id": 252,
+    "question": "Қимати калонтарини ҳаҷми пирамидаи чоркунҷаи мунтазамро ёбед, ки апофемаи он ба 3√3 дм баробар аст.",
+    "imageUrl": "",
+    "correctAnswer": "72",
+    "answerType": "numeric"
+  },
+  {
+    "id": 253,
+    "question": "Қимати калонтарини ҳаҷми пирамидаи чоркунҷаи мунтазамро ёбед, ки апофемаи он ба 9√3 см баробар аст.",
+    "imageUrl": "",
+    "correctAnswer": "1944",
+    "answerType": "numeric"
+  },
+  {
+    "id": 254,
+    "question": "Қимати калонтарини ҳаҷми пирамидаи чоркунҷаи мунтазамро ёбед, ки апофемаи он ба 6√3 дм баробар аст.",
+    "imageUrl": "",
+    "correctAnswer": "576",
+    "answerType": "numeric"
+  },
+  {
+    "id": 255,
+    "question": "Қимати калонтарини ҳаҷми пирамидаи секунҷаи мунтазамро ёбед, ки теғаи паҳлуии он ба 12 см баробар аст.",
+    "imageUrl": "",
+    "correctAnswer": "288",
+    "answerType": "numeric"
+  },
+  {
+    "id": 256,
+    "question": "Қимати калонтарини ҳаҷми пирамидаи секунҷаи мунтазамро ёбед, ки теғаи паҳлуии он ба 18 см баробар аст.",
+    "imageUrl": "",
+    "correctAnswer": "972",
+    "answerType": "numeric"
+  },
+  {
+    "id": 257,
+    "question": "Қимати калонтарини ҳаҷми пирамидаи секунҷаи мунтазамро ёбед, ки теғаи паҳлуии он ба 6 дм баробар аст.",
+    "imageUrl": "",
+    "correctAnswer": "36",
+    "answerType": "numeric"
+  },
+  {
+    "id": 258,
+    "question": "Периметри асоси параллелепипеди росткунҷа ба 12 дм ва баландии он ба яке аз тарафҳои асосаш баробар аст. Ҳаҷми калонтарини параллелепипедро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "32",
+    "answerType": "numeric"
+  },
+  {
+    "id": 259,
+    "question": "Периметри асоси параллелепипеди росткунҷа ба 18 дм ва баландии он ба яке аз тарафҳои асосаш баробар аст. Ҳаҷми калонтарини параллелепипедро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "108",
+    "answerType": "numeric"
+  },
+  {
+    "id": 260,
+    "question": "Периметри асоси параллелепипеди росткунҷа ба 6 дм ва баландии он ба яке аз тарафҳои асосаш баробар аст. Ҳаҷми калонтарини параллелепипедро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "4",
+    "answerType": "numeric"
+  },
+  {
+    "id": 261,
+    "question": "Масоҳати шакли бо хатҳои y = 3x², x = 4, y = 0 маҳдудро ҳисоб кунед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t261.png",
+    "correctAnswer": "24",
+    "answerType": "numeric"
+  },
+  {
+    "id": 262,
+    "question": "Масоҳати шакли бо хатҳои y = 2x, x = 5, x = 6, y = 0 маҳдудро ҳисоб кунед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t262.png",
+    "correctAnswer": "56",
+    "answerType": "numeric"
+  },
+  {
+    "id": 263,
+    "question": "Масоҳати шакли бо хатҳои y = 3x², x = 2, y = 0 маҳдудро ҳисоб кунед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t263.png",
+    "correctAnswer": "96",
+    "answerType": "numeric"
+  },
+  {
+    "id": 264,
+    "question": "Масоҳати шакли бо хатҳои y = 9√x, x = 0, x = 4, y = 0 маҳдудро ҳисоб кунед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t264.png",
+    "correctAnswer": "72",
+    "answerType": "numeric"
+  },
+  {
+    "id": 265,
+    "question": "Масоҳати шакли бо хатҳои y = 6√x, x = 0, x = 9, y = 0 маҳдудро ҳисоб кунед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t265.png",
+    "correctAnswer": "21",
+    "answerType": "numeric"
+  },
+    {
+    "id": 266,
+    "question": "Масоҳати шакли бо хатҳои y = 3√x, x = 1, x = 4, y = 0 маҳдудро ҳисоб кунед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t266.png",
+    "correctAnswer": "21",
+    "answerType": "numeric"
+  },
+  {
+    "id": 267,
+    "question": "Масоҳати шакли бо хатҳои y = x - 1, x = 11, y = 0 маҳдудро ҳисоб кунед.",
+    "imageUrl": "",
+    "correctAnswer": "64",
+    "answerType": "numeric"
+  },
+  {
+    "id": 268,
+    "question": "Масоҳати шакли бо хатҳои y = x - 2, x = 10, y = 0 маҳдудро ҳисоб кунед.",
+    "imageUrl": "",
+    "correctAnswer": "11",
+    "answerType": "numeric"
+  },
+  {
+    "id": 269,
+    "question": "Масоҳати шакли бо хатҳои y = x - 3, x = 9, y = 0 маҳдудро ҳисоб кунед.",
+    "imageUrl": "",
+    "correctAnswer": "8",
+    "answerType": "numeric"
+  },
+  {
+    "id": 270,
+    "question": "Масоҳати шаклеро, ки бо параболаи y = 6x - 2x², расандаи он дар нуқтаи x = 3 ва тири y маҳдуд аст, ҳисоб кунед.",
+    "imageUrl": "",
+    "correctAnswer": "48",
+    "answerType": "numeric"
+  },
+  {
+    "id": 271,
+    "question": "Масоҳати шаклеро, ки бо параболаи y = -x² + 6x, расандаи он дар нуқтаи x = 6 ва тири y маҳдуд аст, ҳисоб кунед.",
+    "imageUrl": "",
+    "correctAnswer": "108",
+    "answerType": "numeric"
+  },
+  {
+    "id": 272,
+    "question": "Масоҳати шаклеро, ки бо параболаи y = 3x - x², расандаи он дар нуқтаи x = 3 ва тири y маҳдуд аст, ҳисоб кунед.",
+    "imageUrl": "",
+    "correctAnswer": "14",
+    "answerType": "numeric"
+  },
+  {
+    "id": 273,
+    "question": "Дар росткунҷаи ABCD тарафҳои AB = 8√π дм ва BC = 2 дм аст. Ҳаҷми ҷисмеро ёбед, ки дар натиҷаи чарх задани росткунҷаи ABCD дар атрофи хатти рости BC ҳосил мешавад.",
+    "imageUrl": "",
+    "correctAnswer": "50",
+    "answerType": "numeric"
+  },
+  {
+    "id": 274,
+    "question": "Дар росткунҷаи MNRP тарафҳои MN = 12√π см ва NR = 4 см аст. Ҳаҷми ҷисмеро ёбед, ки дар натиҷаи чарх задани росткунҷаи MNRP дар атрофи хатти рости NR ҳосил мешавад.",
+    "imageUrl": "",
+    "correctAnswer": "32",
+    "answerType": "numeric"
+  },
+  {
+    "id": 275,
+    "question": "Дар росткунҷаи SORL тарафҳои SO = 6√π дм ва OR = 3 дм аст. Ҳаҷми ҷисмеро ёбед, ки дар натиҷаи чарх задани росткунҷаи SORL дар атрофи хатти рости OR ҳосил мешавад.",
+    "imageUrl": "",
+    "correctAnswer": "18",
+    "answerType": "numeric"
+  },
+  {
+    "id": 276,
+    "question": "Аз нуқтаи M дар як хатти рост ба як тараф порчаҳои MN = 100 см ва MO = 160 см кашида шудаанд. Масофаи байни миёнаҷойҳои ин порчаҳоро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "18",
+    "answerType": "numeric"
+  },
+  {
+    "id": 277,
+    "question": "Аз нуқтаи K дар як хатти рост ба як тараф порчаҳои KP = 350 см ва KT = 210 см кашида шудаанд. Масофаи байни миёнаҷойҳои ин порчаҳоро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "72",
+    "answerType": "numeric"
+  },
+  {
+    "id": 278,
+    "question": "Аз нуқтаи O ба як тараф дар як хатти рост порчаҳои OL = 240 см ва OC = 400 см кашида шудаанд. Масофаи байни миёнаҷойҳои ин порчаҳоро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "9",
+    "answerType": "numeric"
+  },
+  {
+    "id": 279,
+    "question": "Нуқтаҳои A(-9; 2), B(1; 2), C(-7; 6) қуллаҳои △ABC аст. Дарозии медианаи аз қуллаи C гузаронидашударо ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t279.png",
+    "correctAnswer": "128",
+    "answerType": "numeric"
+  },
+  {
+    "id": 280,
+    "question": "Нуқтаҳои A(4; 2), B(10; 1), C(6; -3) қуллаҳои △ABC аст. Дарозии медианаи аз қуллаи A гузаронидашударо ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t280.png",
+    "correctAnswer": "576",
+    "answerType": "numeric"
+  },
+  {
+    "id": 281,
+    "question": "Нуқтаҳои A(-4; -3), B(5; -3), C(2; 5) қуллаҳои △ABC аст. Дарозии баландии аз қуллаи C гузаронидашударо ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t281.png",
+    "correctAnswer": "108",
+    "answerType": "numeric"
+  },
+  {
+    "id": 282,
+    "question": "Масоҳати секунҷаи қуллаҳояш дар нуқтаҳои A(-4; -3), B(4; -1) ва C(1; 6) ҷойгиршударо ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "30",
+    "answerType": "numeric"
+  },
+  {
+    "id": 283,
+    "question": "Масоҳати секунҷаи қуллаҳояш дар нуқтаҳои A(-6; -2), B(3; -4) ва C(-3; 2) ҷойгиршударо ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "70",
+    "answerType": "numeric"
+  },
+  {
+    "id": 284,
+    "question": "Масоҳати секунҷаи қуллаҳояш дар нуқтаҳои A(-2; -3), B(4; -1) ва C(0; 6) ҷойгиршударо ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "80",
+    "answerType": "numeric"
+  },
+  {
+    "id": 285,
+    "question": "Дар секунҷаи MNP давра дарункашидашуда аст, ки ба тарафи NP дар нуқтаи Q расанда мебошад. Дар ҳолати MN = 9 дм, NP = 12 дм ва PM = 11 дм будан дарозии PQ-ро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "5",
+    "answerType": "numeric"
+  },
+  {
+    "id": 286,
+    "question": "Дар секунҷаи KOM давра дарункашидашуда аст, ки ба тарафи OM дар нуқтаи E расанда мебошад. Дар ҳолати KO = 11 см, OM = 10 см, MK = 9 см будан дарозии OE-ро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "5",
+    "answerType": "numeric"
+  },
+  {
+    "id": 287,
+    "question": "Дар секунҷаи ABC давра дарункашидашуда аст, ки ба тарафи AB дар нуқтаи P расанда мебошад. Дар ҳолати AB = 20 см, BC = 24 см ва CA = 10 см будан дарозии BP-ро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "8",
+    "answerType": "numeric"
+  },
+  {
+    "id": 288,
+    "question": "Дар трапетсияи ABCD-и асосҳояш AD ва BC давраи радиусаш ба 5 см баробар берун кашида шудааст. Маркази давраи берункашидашуда дар асоси AD мехобад. Қимати √5 ⋅ AC-ро ёбед. BC = 6 см мебошад.",
+    "imageUrl": "",
+    "correctAnswer": "31",
+    "answerType": "numeric"
+  },
+  {
+    "id": 289,
+    "question": "Дар трапетсияи ABCD бо асосҳои AD ва BC биссектрисаи кунҷи ∠BAD аз миёнаҷойи M-и тарафи CD мегузарад. AB = 5 см ва AM = 4 см аст. Периметри секунҷаи ABM-ро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "21",
+    "answerType": "numeric"
+  },
+  {
+    "id": 290,
+    "question": "Трапетсияи ABCD-и дарункашидашудаи давра асосҳои AD ва BC-ро дорад. Радиуси давра 10 см буда, маркази давра дар асоси AD мехобад. Асоси BC = 12 см аст. Қимати √5 ⋅ AB-ро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "25",
+    "answerType": "numeric"
+  },
+  {
+    "id": 291,
+    "question": "Қимати мусбати p-ро ёбед, ки барои он хатти рости y = 5x + p бо тирҳои координатӣ секунҷаеро ташкил медиҳад, ки масоҳаташ ба 10 баробар аст.",
+    "imageUrl": "",
+    "correctAnswer": "7",
+    "answerType": "numeric"
+  },
+  {
+    "id": 292,
+    "question": "Қимати мусбати p-ро ёбед, ки барои он хатти рости y = 4x + p бо тирҳои координатӣ секунҷаеро ташкил медиҳад, ки масоҳаташ ба 32 баробар аст.",
+    "imageUrl": "",
+    "correctAnswer": "6",
+    "answerType": "numeric"
+  },
+  {
+    "id": 293,
+    "question": "Қимати мусбати p-ро ёбед, ки барои он хатти рости y = 3x + p бо тирҳои координатӣ секунҷаеро ташкил медиҳад, ки масоҳаташ ба 24 баробар аст.",
+    "imageUrl": "",
+    "correctAnswer": "17",
+    "answerType": "numeric"
+  },
+  {
+    "id": 294,
+    "question": "Масоҳати секунҷаи росткунҷаеро ёбед, ки биссектрисаи кунҷи тези он катети муқобили онро ба порчаҳои 8 см ва 10 см аз қуллаи кунҷи рост ҳисобида, тақсим менамояд.",
+    "imageUrl": "",
+    "correctAnswer": "20",
+    "answerType": "numeric"
+  },
+    {
+    "id": 295,
+    "question": "Масоҳати секунҷаи росткунҷаеро ёбед, ки биссектрисаи кунҷи тези он катети муқобили онро ба порчаҳои 6 см ва 8 см аз қуллаи кунҷи рост ҳисобида, тақсим менамояд.",
+    "imageUrl": "",
+    "correctAnswer": "12",
+    "answerType": "numeric"
+  },
+  {
+    "id": 296,
+    "question": "Масоҳати секунҷаи росткунҷаеро ёбед, ки биссектрисаи кунҷи тези он катети муқобили онро ба порчаҳои 5 см ва 7 см аз қуллаи кунҷи рост ҳисобида, тақсим менамояд.",
+    "imageUrl": "",
+    "correctAnswer": "20",
+    "answerType": "numeric"
+  },
+  {
+    "id": 297,
+    "question": "Масоҳати секунҷаи росткунҷаеро ёбед, ки биссектрисаи кунҷи тези он катети муқобили онро ба порчаҳои 9 см ва 12 см аз қуллаи кунҷи рост ҳисобида, тақсим менамояд.",
+    "imageUrl": "",
+    "correctAnswer": "10",
+    "answerType": "numeric"
+  },
+  {
+    "id": 298,
+    "question": "Масоҳати секунҷаи росткунҷаеро ёбед, ки биссектрисаи кунҷи тези он катети муқобили онро ба порчаҳои 4 см ва 6 см аз қуллаи кунҷи рост ҳисобида, тақсим менамояд.",
+    "imageUrl": "",
+    "correctAnswer": "16",
+    "answerType": "numeric"
+  },
+  {
+    "id": 299,
+    "question": "Масоҳати секунҷаи росткунҷаеро ёбед, ки биссектрисаи кунҷи тези он катети муқобили онро ба порчаҳои 7 см и 9 см аз қуллаи кунҷи рост ҳисобида, тақсим менамояд.",
+    "imageUrl": "",
+    "correctAnswer": "12",
+    "answerType": "numeric"
+  },
+  {
+    "id": 300,
+    "question": "Масоҳати секунҷаи росткунҷаеро ёбед, ки биссектрисаи кунҷи тези он катети муқобили онро ба порчаҳои 10 см ва 15 см аз қуллаи кунҷи рост ҳисобида, тақсим менамояд.",
+    "imageUrl": "",
+    "correctAnswer": "216",
+    "answerType": "numeric"
+  },
+    {
+    "id": 301,
+    "question": "Масоҳати секунҷаи росткунҷаеро ёбед, ки биссектрисаи кунҷи тези он катети муқобили онро ба порчаҳои 8 см ва 3 см аз қуллаи кунҷи рост ҳисобида, тақсим менамояд.",
+    "imageUrl": "",
+    "correctAnswer": "24",
+    "answerType": "numeric"
+  },
+  {
+    "id": 302,
+    "question": "Масоҳати секунҷаи росткунҷаеро ёбед, ки биссектрисаи кунҷи тези он катети муқобили онро ба порчаҳои 16 см ва 20 см аз қуллаи кунҷи рост ҳисобида, тақсим менамояд.",
+    "imageUrl": "",
+    "correctAnswer": "864",
+    "answerType": "numeric"
+  },
+  {
+    "id": 303,
+    "question": "Масоҳати секунҷаи росткунҷаеро ёбед, ки биссектрисаи кунҷи тези он катети муқобили онро ба порчаҳои 16/3 см ва 20/3 см аз қуллаи кунҷи рост ҳисобида, тақсим менамояд.",
+    "imageUrl": "",
+    "correctAnswer": "96",
+    "answerType": "numeric"
+  },
+  {
+    "id": 304,
+    "question": "Масоҳати сатҳи пурраи параллелепипеди росткунҷаро аз рӯйи се андозаи он ёбед (3, 11, 46).",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t304.png",
+    "correctAnswer": "1522",
+    "answerType": "numeric"
+  },
+  {
+    "id": 305,
+    "question": "Масоҳати сатҳи пурраи параллелепипеди росткунҷаро аз рӯйи се андозаи он ёбед (5, 13, 54).",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t305.png",
+    "correctAnswer": "1726",
+    "answerType": "numeric"
+  },
+  {
+    "id": 306,
+    "question": "Масоҳати сатҳи пурраи параллелепипеди росткунҷаро аз рӯйи се андозаи он ёбед (7, 17, 62).",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t306.png",
+    "correctAnswer": "1732",
+    "answerType": "numeric"
+  },
+  {
+    "id": 307,
+    "question": "Диагонали куб 9√3 см аст. Ҳаҷми онро ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t307.png",
+    "correctAnswer": "729",
+    "answerType": "numeric"
+  },
+  {
+    "id": 308,
+    "question": "Ҳаҷми параллелепипеди росткунҷаро ёбед, ки периметри асоси он ба 8 м ва диагоналаш ба 4 м баробар буда, ба теғаи паҳлуӣ кунҷи 60°-ро ташкил мекунад.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t308.png",
+    "correctAnswer": "4",
+    "answerType": "numeric"
+  },
+  {
+    "id": 309,
+    "question": "Ҳаҷми параллелепипеди росткунҷаро ёбед, ки периметри асоси он ба 24 м ва диагоналаш ба 12 м баробар буда, ба теғаи паҳлуӣ кунҷи 60°-ро ташкил мекунад.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t309.png",
+    "correctAnswer": "108",
+    "answerType": "numeric"
+  },
+  {
+    "id": 310,
+    "question": "Ҳаҷми параллелепипеди росткунҷаро ёбед, ки тарафҳои асоси он ба 5 см ва 12 см баробар буда, диагонали он бо ҳамвории асос кунҷи 45°-ро ташкил медиҳад.",
+   "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t310.png",
+    "correctAnswer": "256",
+    "answerType": "numeric"
+  },
+  {
+    "id": 311,
+    "question": "Дарозии тарафҳои асоси параллелепипеди росткунҷа 12 см ва 16 см аст. Кунҷи байни диагонали параллелепипед ва ҳамвории асос 45° аст. Ҳаҷми параллелепипедро ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t311.png",
+    "correctAnswer": "32",
+    "answerType": "numeric"
+  },
+  {
+    "id": 312,
+    "question": "Теғаи куби якум аз теғаи куби дуюм 4 см дарозтар буда, фарқ байни ҳаҷми онҳо 604 см³ аст. Дарозии теғаи куби хурдро ёбед?",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t312.png",
+    "correctAnswer": "780",
+    "answerType": "numeric"
+  },
+  {
+    "id": 313,
+    "question": "Масоҳати сатҳи пурраи призмаи чоркунҷаи мунтазам 70 см² ва масоҳати сатҳи паҳлуии он 20 см² аст. Тарафи асосро ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t313.png",
+    "correctAnswer": "3840",
+    "answerType": "numeric"
+  },
+  {
+    "id": 314,
+    "question": "Тарафи асоси призмаи чоркунҷаи мунтазам 17 см ва ҳаҷми он 3 468 см³ аст. Баландии призмаро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "5",
+    "answerType": "numeric"
+  },
+  {
+    "id": 315,
+    "question": "Баландии пирамидаи чоркунҷаи мунтазам 12 см ва теғаи паҳлуӣ 20 см аст. Ҳаҷми онро ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t315.png",
+    "correctAnswer": "5",
+    "answerType": "numeric"
+  },
+  {
+    "id": 316,
+    "question": "Баландии пирамида 7 см ва асоси он росткунҷаи тарафҳояш 8 см ва 9 см аст. Ҳаҷми онро ёбед.",
+   "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t316.png",
+    "correctAnswer": "12",
+    "answerType": "numeric"
+  },
+  {
+    "id": 317,
+    "question": "Баландии пирамидаи чоркунҷаи мунтазам 15 м ва диагонали асоси он 16 м аст. Дарозии теғаи паҳлуии онро ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t317.png",
+    "correctAnswer": "2048",
+    "answerType": "numeric"
+  },
+  {
+    "id": 318,
+    "question": "Тарафи асоси пирамидаи секунҷаи мунтазам 12 м ва апофема 4 м аст. Баландии пирамидаро ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t318.png",
+    "correctAnswer": "168",
+    "answerType": "numeric"
+  },
+  {
+    "id": 319,
+    "question": "Масоҳати сатҳи паҳлуии пирамидаи чоркунҷаи мунтазам 66 см² ва масоҳати сатҳи пурраи он 91 см² аст. Тарафи асоси онро ёбед.",
+   "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t319.png",
+    "correctAnswer": "17",
+    "answerType": "numeric"
+  },
+  {
+    "id": 320,
+    "question": "Масоҳати сатҳи паҳлуии пирамидаи чоркунҷаи мунтазам 6 см² ва масоҳати сатҳи пурраи он 8 см² аст. Дарозии диагонали асоси онро ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t320.png",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 321,
+    "question": "Масоҳати сатҳи паҳлуии пирамидаи чоркунҷаи мунтазам 48 см² ва масоҳати сатҳи пурраи он 52 см² аст. Тарафи асоси онро ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t321.png",
+    "correctAnswer": "5",
+    "answerType": "numeric"
+  },
+  {
+    "id": 322,
+    "question": "Масоҳати сатҳи паҳлуии пирамидаи чоркунҷаи мунтазам 63 см² ва масоҳати сатҳи пурраи он 88 см² аст. Тарафи асосро ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t322.png",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 323,
+    "question": "Радиуси асоси конуси рости доиравӣ 6 см ва баландии конус 8 см аст. Ташкилдиҳандаи конусро ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t323.png",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 324,
+    "question": "Баландии конуси рости доиравӣ 18 см ва ташкилдиҳандаи он 30 см аст. Радиуси асоси онро ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t324.png",
+    "correctAnswer": "5",
+    "answerType": "numeric"
+  },
+  {
+    "id": 325,
+    "question": "Диаметри асоси конуси рости доиравӣ 18 м ва баландии он 12 м аст. Дарозии ташкилдиҳандаи конусро ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t325.png",
+    "correctAnswer": "10",
+    "answerType": "numeric"
+  },
+  {
+    "id": 326,
+    "question": "Радиуси асоси конус 8 см ва баландии он 15 см аст. Ташкилдиҳандаи конусро ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t326.png",
+    "correctAnswer": "24",
+    "answerType": "numeric"
+  },
+  {
+    "id": 327,
+    "question": "Теғаҳои асоси параллелепипеди росткунҷа ба 6 дм ва 8 дм баробар буда, баландии он 10√3 дм аст. Диагонали параллелепипедро ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t327.png",
+    "correctAnswer": "15",
+    "answerType": "numeric"
+  },
+  {
+    "id": 328,
+    "question": "Теғаҳои асоси параллелепипеди росткунҷа ба 8 см ва 12 см баробар буда, баландии он 4√3 см аст. Диагонали параллелепипедро ёбед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/t328.png",
+    "correctAnswer": "17",
+    "answerType": "numeric"
+  },
+  {
+    "id": 329,
+    "question": "Теғаҳои асоси параллелепипеди росткунҷа ба 3 см ва 4 см баробар буда, баландии он 2√6 см аст. Диагонали параллелепипедро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "20",
+    "answerType": "numeric"
+  },
+  {
+    "id": 330,
+    "question": "Ҳаҷми параллелепипеди росткунҷаро ёбед, ки периметри асоси он ба 16 м ва диагоналаш ба 8 м баробар буда, ба теғаи паҳлуӣ кунҷи 60°-ро ташкил мекунад.",
+    "imageUrl": "",
+    "correctAnswer": "16",
+    "answerType": "numeric"
+  },
+  {
+    "id": 331,
+    "question": "Масоҳати сатҳи паҳлуии пирамидаи чоркунҷаи мунтазам 63 см² ва масоҳати сатҳи пурраи он 88 см² аст. Тарафи асосро ёбед.",
+    "imageUrl": "",
+    "correctAnswer": "7",
+    "answerType": "numeric"
+  }
+]

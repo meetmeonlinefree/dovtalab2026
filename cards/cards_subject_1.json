@@ -1,0 +1,7 @@
+[
+  { "title": "Тест (Обычный)", "icon": "📚" },
+  { "title": "Мувофиковары", "icon": "ic_match" },
+  { "title": "Random", "icon": "ic_random" },
+  { "title": "Пройти тест", "icon": "ic_start" },
+  { "title": "Выход", "icon": "ic_start" }
+]
