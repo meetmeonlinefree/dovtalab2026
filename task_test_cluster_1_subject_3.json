@@ -1,1116 +1,1154 @@
 [
-  { "id": 1, "question": "120 г ҳидроксиди натрий чанд молро ташкил медиҳад?", "correctAnswer": "3", "answerType": "numeric" },
-  { "id": 2, "question": "112 г оксиди калсий чанд молро ташкил медиҳад?", "correctAnswer": "2", "answerType": "numeric" },
-  { "id": 3, "question": "174 г ҳидроксиди магний чанд молро ташкил медиҳад?", "correctAnswer": "3", "answerType": "numeric" },
-  { "id": 4, "question": "290 г ҳидроксиди магний чанд мол аст?", "correctAnswer": "5", "answerType": "numeric" },
-  { "id": 5, "question": "340 г нитрати натрий чанд мол аст?", "correctAnswer": "4", "answerType": "numeric" },
-  { "id": 6, "question": "666 г хлориди калсий чанд мол аст?", "correctAnswer": "6", "answerType": "numeric" },
-  { "id": 7, "question": "0,25 мол хлориди барий чанд грамм аст?", "correctAnswer": "52", "answerType": "numeric" },
-  { "id": 8, "question": "0,25 мол нитрати калсий чанд грамм аст?", "correctAnswer": "41", "answerType": "numeric" },
-  { "id": 9, "question": "0,5 мол сулфиди алюминий чанд грамм аст?", "correctAnswer": "75", "answerType": "numeric" },
-  { "id": 10, "question": "2,5 мол сулфати оҳан (III) чанд грамм аст?", "correctAnswer": "1000", "answerType": "numeric" },
-  { "id": 11, "question": "2,5 мол сулфити калсий чанд грамм аст?", "correctAnswer": "300", "answerType": "numeric" },
-  { "id": 12, "question": "2,5 мол сулфати мис (II) чанд грамм аст?", "correctAnswer": "400", "answerType": "numeric" },
-  { "id": 13, "question": "33,6 л (ш. м.) оксиген чанд грамм аст?", "correctAnswer": "48", "answerType": "numeric" },
-  { "id": 14, "question": "56 л (ш.м.) ҳидрогенсулфид чанд грамм аст?", "correctAnswer": "85", "answerType": "numeric" },
-  { "id": 15, "question": "67,2 л (ш.м.) аммиак чанд грамм аст?", "correctAnswer": "51", "answerType": "numeric" },
-  { "id": 16, "question": "11,2 л (ш. м.) оксиди сулфур (IV) чанд грамм аст?", "correctAnswer": "32", "answerType": "numeric" },
-  { "id": 17, "question": "11,2 л (ш. м.) оксиди карбон (IV) чанд грамм аст?", "correctAnswer": "22", "answerType": "numeric" },
-  { "id": 18, "question": "44,8 л (ш. м.) оксиди карбон (II) чанд грамм аст?", "correctAnswer": "56", "answerType": "numeric" },
-  { "id": 19, "question": "33,6 л (ш. м.) оксиди нитроген (II) чанд грамм аст?", "correctAnswer": "45", "answerType": "numeric" },
-  { "id": 20, "question": "3,01 ∙ 10²³ молекулаи оксиди сулфур (IV) чанд грамм аст?", "correctAnswer": "32", "answerType": "numeric" },
-  { "id": 21, "question": "140 г оксиди карбон (II) чанд литрро (ш. м.) ишғол мекунад?", "correctAnswer": "112", "answerType": "numeric" },
-  { "id": 22, "question": "Массаи молярии газеро, ки зичиаш нисбат ба оксиген баробари 2 аст, ҳисоб кунед.", "correctAnswer": "64", "answerType": "numeric" },
-  { "id": 23, "question": "Массаи молярии газеро, ки зичиаш нисбат ба гелий ба 7 баробар аст, ҳисоб кунед.", "correctAnswer": "28", "answerType": "numeric" },
-  { "id": 24, "question": "Массаи молярии газеро, ки зичиаш нисбат ба ҳидроген ба 22 баробар аст, ҳисоб кунед.", "correctAnswer": "44", "answerType": "numeric" },
-  { "id": 25, "question": "Бо 71 г хлор чанд грамм калий ба реаксия дохил мешавад?", "correctAnswer": "78", "answerType": "numeric" },
-  { "id": 26, "question": "Бо 14 г нитроген чанд грамм литий ба реаксия дохил мешавад?", "correctAnswer": "21", "answerType": "numeric" },
-  { "id": 27, "question": "Бо 33,6 л (ш. м.) оксиген чанд грамм алюминий ба реаксия дохил мешавад?", "correctAnswer": "54", "answerType": "numeric" },
-  { "id": 28, "question": "Бо 16 г сулфур чанд грамм алюминий ба реаксия дохил мешавад?", "correctAnswer": "9", "answerType": "numeric" },
-  { "id": 29, "question": "Бо 0,1 мол натрий чанд грамм бром ба реаксия дохил мешавад?", "correctAnswer": "8", "answerType": "numeric" },
-  { "id": 30, "question": "Бо 5,6 л оксиген (ш.м.) чанд грамм магний ба реаксия дохил мешавад?", "correctAnswer": "12", "answerType": "numeric" },
-  { "id": 31, "question": "Аз 0,25 мол йод чанд грамм ҳидрогенйодид ҳосил мешавад?", "correctAnswer": "64", "answerType": "numeric" },
-  { "id": 32, "question": "Ҳангоми сӯхтани 9 г алюминий чанд грамм оксиди алюминий ҳосил мешавад?", "correctAnswer": "17", "answerType": "numeric" },
-  { "id": 33, "question": "Ҳангоми сӯхтани 33,6 л (ш.м.) ҳидроген чанд грамм об ҳосил мешавад?", "correctAnswer": "27", "answerType": "numeric" },
-  { "id": 34, "question": "Барои сӯхтани 50 л фосфин чанд литр оксиген (ш. м.) лозим аст?", "correctAnswer": "100", "answerType": "numeric" },
-  { "id": 35, "question": "Барои сӯхтани 30 л оксиди карбон (II) чанд литр оксиген (ш. м.) лозим аст?", "correctAnswer": "15", "answerType": "numeric" },
-  { "id": 36, "question": "Барои пурра сӯхтани 20 л ҳидрогенсулфид чанд литр оксиген (ш. м.) лозим аст?", "correctAnswer": "30", "answerType": "numeric" },
-  { "id": 37, "question": "Бо 140 г нитроген чанд литр (ш. м.) ҳидроген таъсир мекунад?", "correctAnswer": "336", "answerType": "numeric" },
-  { "id": 38, "question": "Барои сӯзонидани 360 г магний чанд литр (ш. м.) оксиген лозим аст?", "correctAnswer": "168", "answerType": "numeric" },
-  { "id": 39, "question": "Бо 108 г алюминий чанд мол хлор таъсир мекунад?", "correctAnswer": "6", "answerType": "numeric" },
-  { "id": 40, "question": "Баъди реаксияи 20 л (ш. м.) омехтаи оксиди карбон (II) ва оксиген 8 л (ш. м.) оксиген боқӣ монд. Ҳиссаи ҳаҷми оксиди карбон (II)-ро дар омехтаи аввала (%) муайян кунед.", "correctAnswer": "40", "answerType": "numeric" },
+  {
+    "id": 1,
+    "question": "112 г оксиди калсий чанд молро ташкил медиҳад?",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 2,
+    "question": "174 г ҳидроксиди магний чанд молро ташкил медиҳад?",
+    "correctAnswer": "3",
+    "answerType": "numeric"
+  },
+  {
+    "id": 3,
+    "question": "666 г хлориди калсий чанд мол аст?",
+    "correctAnswer": "6",
+    "answerType": "numeric"
+  },
+  {
+    "id": 4,
+    "question": "0,25 мол нитрати калсий чанд грамм аст?",
+    "correctAnswer": "41",
+    "answerType": "numeric"
+  },
+  {
+    "id": 5,
+    "question": "2,5 мол сулфати оҳан (III) чанд грамм аст?",
+    "correctAnswer": "1000",
+    "answerType": "numeric"
+  },
+  {
+    "id": 6,
+    "question": "33,6 л (ш. м.) оксиген чанд грамм аст?",
+    "correctAnswer": "48",
+    "answerType": "numeric"
+  },
+  {
+    "id": 7,
+    "question": "56 л (ш.м.) ҳидрогенсулфид чанд грамм аст?",
+    "correctAnswer": "85",
+    "answerType": "numeric"
+  },
+  {
+    "id": 8,
+    "question": "3,01 ∙ 10^23 молекулаи оксиди сулфур (IV) чанд грамм аст?",
+    "correctAnswer": "32",
+    "answerType": "numeric"
+  },
+  {
+    "id": 9,
+    "question": "140 г оксиди карбон (II) чанд литрро (ш. м.) ишғол мекунад?",
+    "correctAnswer": "112",
+    "answerType": "numeric"
+  },
+  {
+    "id": 10,
+    "question": "Массаи молярии газеро, ки зичиаш нисбат ба оксиген баробари 2 аст, ҳисоб кунед.",
+    "correctAnswer": "64",
+    "answerType": "numeric"
+  },
+  {
+    "id": 11,
+    "question": "Массаи молярии газеро, ки зичиаш нисбат ба ҳидроген ба 22 баробар аст, ҳисоб кунед.",
+    "correctAnswer": "44",
+    "answerType": "numeric"
+  },
+  {
+    "id": 12,
+    "question": "Дар 33,6 л (ш. м.) омехтаи оксиген ва нитроген, ки зичиаш нисбат ба ҳидроген ба 15 баробар аст, чанд грамм оксиген мавҷуд аст?",
+    "correctAnswer": "24",
+    "answerType": "numeric"
+  },
+  {
+    "id": 13,
+    "question": "Дар 44,8 л (ш. м.) омехтаи оксиди карбон (IV) ва оксиди карбон (II), ки зичиаш нисбат ба ҳидроген ба 16 баробар аст, чанд грамм оксиди карбон (IV) мавҷуд аст?",
+    "correctAnswer": "22",
+    "answerType": "numeric"
+  },
+  {
+    "id": 14,
+    "question": "Дар 33,6 л (ш. м.) омехтаи нитроген ва оксиген, ки зичиаш нисбат ба ҳидроген ба 15 баробар аст, чанд грамм нитроген мавҷуд аст?",
+    "correctAnswer": "21",
+    "answerType": "numeric"
+  },
+  {
+    "id": 15,
+    "question": "Дар 27 г пайвасти бор ва ҳидроген 22 г элементи бор мавҷуд аст. Зичии он нисбат ба гелий 13,5 аст. Адади атомҳои ҳидрогенро дар молекулаи ин пайваст муайян кунед.",
+    "correctAnswer": "10",
+    "answerType": "numeric"
+  },
+  {
+    "id": 16,
+    "question": "Дар 46 г пайвасти силитсий ва ҳидроген 42 г элементи силитсий мавҷуд аст. Зичии он нисбат ба гелий 23 аст. Адади атомҳои ҳидрогенро дар молекулаи ин пайваст муайян кунед.",
+    "correctAnswer": "8",
+    "answerType": "numeric"
+  },
+  {
+    "id": 17,
+    "question": "Дар 33 г пайвасти фосфор ва ҳидроген 31 г элементи фосфор мавҷуд аст. Зичии он нисбат ба гелий 16,5 аст. Адади атомҳои ҳидрогенро дар молекулаи ин пайваст муайян кунед.",
+    "correctAnswer": "4",
+    "answerType": "numeric"
+  },
+  {
+    "id": 18,
+    "question": "Ҳиссаи массаи элементи дувалента дар оксид нисбат ба ҳиссаи массаи оксиген 1,5 маротиба зиёдтар аст. Массаи (бо грамм) 5 моли оксидро муайян кунед.",
+    "correctAnswer": "200",
+    "answerType": "numeric"
+  },
+  {
+    "id": 19,
+    "question": "Ҳиссаи массаи элементи дувалента дар оксид нисбат ба ҳиссаи массаи оксиген 5,5 маротиба зиёдтар аст. Массаи (бо грамм) 3 моли оксидро муайян кунед.",
+    "correctAnswer": "312",
+    "answerType": "numeric"
+  },
+  {
+    "id": 20,
+    "question": "Ҳиссаи массаи элементи дувалента дар оксид нисбат ба ҳиссаи массаи оксиген 2,5 маротиба зиёдтар аст. Массаи (бо грамм) 5 моли оксидро муайян кунед.",
+    "correctAnswer": "280",
+    "answerType": "numeric"
+  },
     {
-    "id": 41,
+    "id": 21,
+    "question": "Аз 0,25 мол йод чанд грамм ҳидрогенйодид ҳосил мешавад?",
+    "correctAnswer": "64",
+    "answerType": "numeric"
+  },
+  {
+    "id": 22,
+    "question": "Ҳангоми сӯхтани 9 г алюминий чанд грамм оксиди алюминий ҳосил мешавад?",
+    "correctAnswer": "17",
+    "answerType": "numeric"
+  },
+  {
+    "id": 23,
+    "question": "Бо 140 г нитроген чанд литр (ш. м.) ҳидроген таъсир мекунад?",
+    "correctAnswer": "336",
+    "answerType": "numeric"
+  },
+  {
+    "id": 24,
+    "question": "Барои сӯзонидани 360 г магний чанд литр (ш. м.) оксиген лозим аст?",
+    "correctAnswer": "168",
+    "answerType": "numeric"
+  },
+  {
+    "id": 25,
+    "question": "Бо 108 г алюминий чанд мол хлор таъсир мекунад?",
+    "correctAnswer": "6",
+    "answerType": "numeric"
+  },
+  {
+    "id": 26,
+    "question": "Баъди реаксияи 20 л (ш. м.) омехтаи оксиди карбон (II) ва оксиген 8 л (ш. м.) оксиген боқӣ монд. Ҳиссаи ҳаҷми оксиди карбон (II)-ро дар омехтаи аввала (%) муайян кунед.",
+    "correctAnswer": "40",
+    "answerType": "numeric"
+  },
+  {
+    "id": 27,
     "question": "Баъди реаксияи 25 л (ш. м.) омехтаи оксиди карбон (II) ва оксиген 7 л (ш. м.) оксиген боқӣ монд. Ҳиссаи ҳаҷми оксиди карбон (II)-ро дар омехтаи аввала (%) муайян кунед.",
     "correctAnswer": "48",
     "answerType": "numeric"
   },
   {
-    "id": 42,
+    "id": 28,
     "question": "Баъди реаксияи 20 л (ш. м.) омехтаи оксиди карбон (II) ва оксиген 8 л (ш. м.) оксиген боқӣ монд. Ҳиссаи ҳаҷми оксигенро дар омехтаи аввала (%) муайян кунед.",
     "correctAnswer": "60",
     "answerType": "numeric"
   },
   {
-    "id": 43,
+    "id": 29,
     "question": "Ба 4 л омехтаи оксиди карбон (II) ва оксиди карбон (IV) 4 л оксиген илова карданд. Пас аз сӯзондан дар ҳамон шароит ҳаҷми омехтаи газҳо ба 7,2 л баробар шуд. Ҳиссаи ҳаҷми оксиди карбонро (II) дар омехтаи аввалаи оксидҳо (бо %) муайян кунед.",
     "correctAnswer": "40",
     "answerType": "numeric"
   },
   {
-    "id": 44,
+    "id": 30,
     "question": "Ба 10 л омехтаи оксиди карбон (II) ва оксиди карбон (IV) 6 л оксиген илова карданд. Пас аз сӯзондан дар ҳамон шароит ҳаҷми омехтаи газҳо ба 14,5 л баробар шуд. Ҳиссаи ҳаҷми оксиди карбонро (II) дар омехтаи аввалаи оксидҳо (бо %) муайян кунед.",
     "correctAnswer": "30",
     "answerType": "numeric"
   },
   {
-    "id": 45,
+    "id": 31,
     "question": "Ба 2 л омехтаи оксиди карбон (II) ва оксиди карбон (IV) 2 л оксиген илова карданд. Пас аз сӯзондан дар ҳамон шароит ҳаҷми омехтаи газҳо ба 3,6 л баробар шуд. Ҳиссаи ҳаҷми оксиди карбонро (IV) дар омехтаи аввалаи оксидҳо (бо %) муайян кунед.",
     "correctAnswer": "60",
     "answerType": "numeric"
   },
   {
-    "id": 46,
-    "question": "Дар натиҷаи реаксияи калсий бо сулфур 36 г сулфиди калсий ҳосил шуд. Массаи (бо грамм) калсийи ба реаксия дохилшударо ҳисоб кунед.",
-    "correctAnswer": "20",
-    "answerType": "numeric"
-  },
-  {
-    "id": 47,
-    "question": "Дар натиҷаи реаксияи оксиди карбон (IV) бо ҳидроксиди натрий 53 г карбонати натрий ҳосил шуд. Массаи (бо грамм) ҳидроксиди натрийи ба реаксия дохилшударо ҳисоб кунед.",
-    "correctAnswer": "40",
-    "answerType": "numeric"
-  },
-  {
-    "id": 48,
-    "question": "Дар натиҷаи реаксияи магний бо кислотаи сулфит 26 г сулфити магний ҳосил шуд. Массаи (бо грамм) магнийи ба реаксия дохилшударо ҳисоб кунед.",
-    "correctAnswer": "6",
-    "answerType": "numeric"
-  },
-  {
-    "id": 49,
+    "id": 32,
     "question": "Баъди таъсири 12 мол калсий ва 11 мол фосфор чанд грамм моддаи сода боқӣ мемонад?",
     "correctAnswer": "93",
     "answerType": "numeric"
   },
   {
-    "id": 50,
+    "id": 33,
     "question": "Баъди таъсири 8 мол алюминий ва 9 мол сулфур чанд грамм моддаи сода боқӣ мемонад?",
     "correctAnswer": "54",
     "answerType": "numeric"
   },
   {
-    "id": 51,
+    "id": 34,
     "question": "Баъди таъсири 8 мол магний ва 7 мол оксиген чанд грамм моддаи сода боқӣ мемонад?",
     "correctAnswer": "96",
     "answerType": "numeric"
   },
   {
-    "id": 52,
+    "id": 35,
     "question": "Муодилаи термохимиявии сӯзиши алюминий 4Al + 3О2 = 2Al2О3 + 3280 кҶ аст. Ҳангоми сӯхтани 54 г алюминий чанд кҶ гармӣ хориҷ мешавад?",
+	  "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/chemestry_images/t35.png",
     "correctAnswer": "1640",
     "answerType": "numeric"
   },
   {
-    "id": 53,
-    "question": "Муодилаи термохимиявии сӯзиши ҳидроген 2H2 + О2 = 2H2О + 572 кҶ аст. Ҳангоми сӯхтани 1 г ҳидроген чанд кҶ гармӣ хориҷ мешавад?",
-    "correctAnswer": "143",
-    "answerType": "numeric"
-  },
-  {
-    "id": 54,
+    "id": 36,
     "question": "Муодилаи термохимиявии сӯзиши метан СH4 + 2О2 = CО2 + 2H2O + 890 кҶ аст. Ҳангоми сӯхтани 32 г метан чанд кҶ гармӣ хориҷ мешавад?",
+	  "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/chemestry_images/t36.png",
     "correctAnswer": "1780",
     "answerType": "numeric"
   },
   {
-    "id": 55,
-    "question": "Дар натиҷаи сӯхтани 56 г этен 2822 кҶ гармӣ хориҷ мешавад. Эффекти гармии (Q) реаксияи C2H4 + 3O2 → 2CO2 + 2H2O + Q-ро (бо кҶ) муайян кунед.",
-    "correctAnswer": "1411",
-    "answerType": "numeric"
-  },
-  {
-    "id": 56,
+    "id": 37,
     "question": "Дар натиҷаи сӯхтани 22 г пропан 1110 кҶ гармӣ хориҷ мешавад. Эффекти гармии (Q) реаксияи C3H8 + 5O2 → 3CO2 + 4H2O + Q-ро (бо кҶ) муайян кунед.",
+	  "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/chemestry_images/t37.png",
     "correctAnswer": "2220",
     "answerType": "numeric"
   },
   {
-    "id": 57,
+    "id": 38,
     "question": "Дар натиҷаи сӯхтани 64 г ҳидразин (N2H4) 1244 кҶ гармӣ хориҷ мешавад. Эффекти гармии (Q) реаксияи N2H4 + O2 → N2 + 2H2O + Q-ро (бо кҶ) муайян кунед.",
+	  "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/chemestry_images/t38.png",
     "correctAnswer": "622",
     "answerType": "numeric"
   },
   {
-    "id": 58,
-    "question": "Муодилаи термохимиявии сӯзиши метан чунин аст: СH4 + 2О2 = CО2 + 2H2O + 890 кҶ. Барои гирифтани 445 кҶ гармӣ чанд грамм метанро сӯзонидан зарур аст?",
-    "correctAnswer": "8",
-    "answerType": "numeric"
-  },
-  {
-    "id": 59,
+    "id": 39,
     "question": "Муодилаи термохимиявии сӯзиши оксиди карбон (II) чунин аст: 2СО + О2 = 2СО2 + 566 кҶ. Барои гирифтани 1132 кҶ гармӣ чанд грамм оксиди карбон (II)-ро сӯзонидан зарур аст?",
+	  "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/chemestry_images/t39.png",
     "correctAnswer": "112",
     "answerType": "numeric"
   },
   {
-    "id": 60,
+    "id": 40,
     "question": "Муодилаи термохимиявии сӯзиши ҳидроген чунин аст: 2H2 + О2 = 2H2O + 572 кҶ. Барои гирифтани 1144 кҶ гармӣ чанд грамм ҳидрогенро сӯзонидан зарур аст?",
+	  "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/chemestry_images/t40.png",
     "correctAnswer": "8",
     "answerType": "numeric"
   },
     {
-    "id": 61,
-    "question": "Молекулаи оксиди калсий чанд электрон дорад?",
-    "correctAnswer": "28",
+    "id": 41,
+    "question": "Ҳангоми пурра сӯхтани 1 мол фосфор 760 кҶ гармӣ хориҷ мешавад. Агар ҳангоми сӯхтани фосфор 213 г оксиди фосфор (V) ҳосил шавад, чанд кҶ гармӣ хориҷ мешавад?",
+    "correctAnswer": "2280",
     "answerType": "numeric"
   },
   {
-    "id": 62,
-    "question": "Молекулаи оксиди натрий чанд электрон дорад?",
-    "correctAnswer": "30",
+    "id": 42,
+    "question": "Ҳангоми пурра сӯхтани 1 мол фосфор 760 кҶ гармӣ хориҷ мешавад. Агар ҳангоми сӯхтани фосфор 426 г оксиди фосфор (V) ҳосил шавад, чанд кҶ гармӣ хориҷ мешавад?",
+    "correctAnswer": "4560",
     "answerType": "numeric"
   },
   {
-    "id": 63,
-    "question": "Молекулаи оксиди нитроген (II) чанд электрон дорад?",
-    "correctAnswer": "15",
+    "id": 43,
+    "question": "Ҳангоми пурра сӯхтани 31 г фосфор 760 кҶ гармӣ хориҷ мешавад. Агар ҳангоми сӯхтани фосфор 2,5 мол оксиди фосфор (V) ҳосил шавад, чанд кҶ гармӣ хориҷ мешавад?",
+    "correctAnswer": "3800",
     "answerType": "numeric"
   },
   {
-    "id": 64,
-    "question": "Атоми элементи рақами тартибиаш 14 дар қабати берунааш чанд электрон дорад?",
+    "id": 44,
+    "question": "Барои 64 маротиба афзудани суръати реаксия фишорро дар системаи 2NO (г) + O2 (г) → 2NO2 (г) чанд маротиба зиёд кардан лозим аст?",
+	  "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/chemestry_images/t44.png",
     "correctAnswer": "4",
     "answerType": "numeric"
   },
   {
+    "id": 45,
+    "question": "Барои 1000 маротиба афзудани суръати реаксия фишорро дар системаи 2NO (г) + O2 (г) → 2NO2 (г) чанд маротиба зиёд кардан лозим аст?",
+	  "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/chemestry_images/t45.png",
+    "correctAnswer": "10",
+    "answerType": "numeric"
+  },
+  {
+    "id": 46,
+    "question": "Барои 125 маротиба афзудани суръати реаксия фишорро дар системаи 2NO (г) + O2 (г) → 2NO2 (г) чанд маротиба зиёд кардан лозим аст?",
+	  "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/chemestry_images/t46.png",
+    "correctAnswer": "5",
+    "answerType": "numeric"
+  },
+  {
+    "id": 47,
+    "question": "Дар ҷадвал вобастагии суръати реаксия аз ҳарорат оварда шудааст: Суръати реаксия ба қоидаи Вант-Гофф итоат мекунад. Қимати х-ро муайян кунед.",
+	  "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/chemestry_images/t47.png",
+    "correctAnswer": "70",
+    "answerType": "numeric"
+  },
+  {
+    "id": 48,
+    "question": "Дар ҷадвал вобастагии суръати реаксия аз ҳарорат оварда шудааст: Суръати реаксия ба қоидаи Вант-Гофф итоат мекунад. Қимати х-ро муайян кунед.",
+	  "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/chemestry_images/t48.png",
+    "correctAnswer": "10",
+    "answerType": "numeric"
+  },
+  {
+    "id": 49,
+    "question": "Дар ҷадвал вобастагии суръати реаксия аз ҳарорат оварда шудааст: Суръати реаксия ба қоидаи Вант-Гофф итоат мекунад. Қимати х-ро муайян кунед.",
+	  "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/chemestry_images/t49.png",
+    "correctAnswer": "60",
+    "answerType": "numeric"
+  },
+  {
+    "id": 50,
+    "question": "Дар ҷадвал вобастагии вақти гузариши реаксия ба ҳарорат оварда шудааст: Суръати реаксия ба қоидаи Вант-Гофф итоат мекунад. Қимати х-ро муайян кунед.",
+	  "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/chemestry_images/t50.png",
+    "correctAnswer": "480",
+    "answerType": "numeric"
+  },
+  {
+    "id": 51,
+    "question": "Дар ҷадвал вобастагии вақти гузариши реаксия ба ҳарорат оварда шудааст: Суръати реаксия ба қоидаи Вант-Гофф итоат мекунад. Қимати х-ро муайян кунед.",
+	  "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/chemestry_images/t51.png",
+    "correctAnswer": "3840",
+    "answerType": "numeric"
+  },
+  {
+    "id": 52,
+    "question": "Дар ҷадвал вобастагии вақти гузариши реаксия ба ҳарорат оварда шудааст: Суръати реаксия ба қоидаи Вант-Гофф итоат мекунад. Қимати х-ро муайян кунед.",
+	  "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/chemestry_images/t52.png",
+    "correctAnswer": "1458",
+    "answerType": "numeric"
+  },
+  {
+    "id": 53,
+    "question": "Мувозинат ҳангоми синтези аммиак дар ҳолати консентратсияҳои зерин ба амал меояд: [H2] = 4 ммол/л, [N2] = 5 ммол/л ва [NH3] = 10 ммол/л. Консентратсияи (бо ммол/л) аввалаи ҳидрогенро муайян намоед.",
+    "correctAnswer": "19",
+    "answerType": "numeric"
+  },
+  {
+    "id": 54,
+    "question": "Мувозинат ҳангоми синтези аммиак дар ҳолати консентратсияҳои зерин ба амал меояд: [H2] = 2 ммол/л, [N2] = 5 ммол/л ва [NH3] = 16 ммол/л. Консентратсияи (бо ммол/л) аввалаи ҳидрогенро муайян намоед.",
+    "correctAnswer": "26",
+    "answerType": "numeric"
+  },
+  {
+    "id": 55,
+    "question": "Мувозинат ҳангоми синтези аммиак дар консентратсияҳои зерин ба амал меояд: [H2] = 5 ммол/л, [N2] = 3 ммол/л ва [NH3] = 8 ммол/л. Консентратсияи (бо ммол/л) аввалаи ҳидрогенро муайян намоед.",
+    "correctAnswer": "17",
+    "answerType": "numeric"
+  },
+  {
+    "id": 56,
+    "question": "Дар атоми элементи электроманфияташ камтарине, ки 2 қабати электронӣ дорад, чанд протон мавҷуд аст?",
+    "correctAnswer": "3",
+    "answerType": "numeric"
+  },
+  {
+    "id": 57,
+    "question": "Дар атоми элементи аз ҳама электроманфие, ки дар қабати охирини электрониаш 3 электрон дорад, чанд протон мавҷуд аст?",
+    "correctAnswer": "5",
+    "answerType": "numeric"
+  },
+  {
+    "id": 58,
+    "question": "Атоми элементе, ки 3 қабати электронӣ дошта, радиусаш хурдтарин аст, чанд протон дорад?",
+    "correctAnswer": "18",
+    "answerType": "numeric"
+  },
+  {
+    "id": 59,
+    "question": "Адади умумии электронҳо дар молекулаи пайвасти Y2X ба адади протонҳо дар атоми криптон баробар аст. Дар ҳолати асосӣ қабати берунаи электронии атоми X 6 электрон дорад. Рақами тартибии элементи Х-ро муайян кунед.",
+    "correctAnswer": "34",
+    "answerType": "numeric"
+  },
+  {
+    "id": 60,
+    "question": "Адади умумии электронҳо дар молекулаи пайвасти YX3 ба адади протонҳо дар атоми аргон баробар аст. Дар ҳолати асосӣ қабати берунаи электронии атоми Y 5 электрон дорад. Рақами тартибии элементи Y-ро муайян кунед.",
+    "correctAnswer": "15",
+    "answerType": "numeric"
+  },
+    {
+    "id": 61,
+    "question": "Адади умумии электронҳо дар молекулаи пайвасти X2Y ба адади протонҳо дар атоми аргон баробар аст. Дар ҳолати асосӣ қабати берунаи электронии атоми Y 6 электрон дорад . Рақами тартибии элементи Y-ро муайян кунед.",
+    "correctAnswer": "16",
+    "answerType": "numeric"
+  },
+  {
+    "id": 62,
+    "question": "Дар молекулаи пайвасте, ки аз атомҳои металли фаъолияташ сусттарини гурӯҳи II A ва ғайриметалли фаъолтарини даври сеюми системаи даврӣ таркиб ёфтааст, чанд протон мавҷуд аст?",
+    "correctAnswer": "38",
+    "answerType": "numeric"
+  },
+  {
+    "id": 63,
+    "question": "Дар молекулаи пайвасте, ки аз атомҳои элементи аз ҳама электро- манфии гурӯҳи VII ва элементи радиуси атомаш калонтарини даври чоруми системаи даврӣ таркиб ёфтааст, чанд протон мавҷуд аст?",
+    "correctAnswer": "28",
+    "answerType": "numeric"
+  },
+  {
+    "id": 64,
+    "question": "Дар молекулаи пайвасте, ки аз атомҳои элементи аз ҳама электро- манфии гурӯҳи III ва ғайриметалли фаъолтарини даври сеюми системаи даврӣ таркиб ёфтааст, чанд протон мавҷуд аст?",
+    "correctAnswer": "56",
+    "answerType": "numeric"
+  },
+  {
     "id": 65,
-    "question": "Атоми элементи рақами тартибиаш 16 дар қабати берунааш чанд электрон дорад?",
-    "correctAnswer": "6",
+    "question": "Дар қабати сеюми электронии иони Х4+ 11 электрон мавҷуд аст. Рақами тартибии элементи Х-ро муайян кунед.",
+	  "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/chemestry_images/t65.png",
+    "correctAnswer": "25",
     "answerType": "numeric"
   },
   {
     "id": 66,
-    "question": "Атоми элементи рақами тартибиаш 15 дар қабати берунааш чанд электрон дорад?",
-    "correctAnswer": "5",
+    "question": "Дар қабати сеюми электронии иони Х3+ 11 электрон мавҷуд аст. Рақами тартибии элементи Х-ро муайян кунед.",
+	  "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/chemestry_images/t66.png",
+    "correctAnswer": "24",
     "answerType": "numeric"
   },
   {
     "id": 67,
-    "question": "Адади электронҳо дар ионҳои Mg2+ ва X3– баробаранд. Адади электронҳои қабати берунаи элементи X-ро муайян кунед.",
-    "correctAnswer": "5",
+    "question": "Дар қабати сеюми электронии иони Х3+ 13 электрон мавҷуд аст. Рақами тартибии элементи Х-ро муайян кунед.",
+	  "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/chemestry_images/t67.png",
+    "correctAnswer": "26",
     "answerType": "numeric"
   },
   {
     "id": 68,
-    "question": "Адади электронҳо дар ионҳои S4+ ва X5+ баробаранд. Адади электронҳои қабати берунаи элементи X-ро муайян кунед.",
-    "correctAnswer": "7",
+    "question": "Адади электронҳоро дар қабати охирини электронии иони X3+, ки заряди ядрои он +27 аст, муайян кунед.",
+	  "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/chemestry_images/t68.png",
+    "correctAnswer": "14",
     "answerType": "numeric"
   },
   {
     "id": 69,
-    "question": "Адади электронҳо дар ионҳои P3– ва X2– баробаранд. Адади электронҳои қабати берунаи элементи X-ро муайян кунед.",
-    "correctAnswer": "6",
+    "question": "Адади электронҳоро дар қабати охирини электронии иони X3+, ки заряди ядрои он +24 аст, муайян кунед.",
+	  "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/chemestry_images/t69.png",
+    "correctAnswer": "11",
     "answerType": "numeric"
   },
   {
     "id": 70,
-    "question": "Адади электронҳо дар ионҳои K+ ва X− баробаранд. Адади электронҳоро дар молекулаи пайвасти онҳо муайян кунед.",
-    "correctAnswer": "36",
+    "question": "Адади электронҳоро дар қабати охирини электронии иони X3+, ки заряди ядрои он +23 аст, муайян кунед.",
+	  "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/chemestry_images/t70.png",
+    "correctAnswer": "10",
     "answerType": "numeric"
   },
   {
     "id": 71,
-    "question": "Адади электронҳо дар ионҳои Na+ ва X− баробаранд. Адади электронҳоро дар молекулаи пайвасти онҳо муайян кунед.",
-    "correctAnswer": "20",
+    "question": "Адади электронҳо дар ионҳои Mg2+ ва X3– баробаранд. Адади электрон- ҳои қабати берунаи атоми элементи X-ро муайян кунед.",
+	  "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/chemestry_images/t71.png",
+    "correctAnswer": "5",
     "answerType": "numeric"
   },
   {
     "id": 72,
-    "question": "Адади электронҳо дар ионҳои Mg2+ ва X2– баробаранд. Адади электронҳоро дар молекулаи пайвасти онҳо муайян кунед.",
-    "correctAnswer": "20",
+    "question": "Адади электронҳо дар ионҳои S4+ ва X5+ баробаранд. Адади электрон- ҳои қабати берунаи атоми элементи X-ро муайян кунед.",
+	  "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/chemestry_images/t72.png",
+    "correctAnswer": "7",
     "answerType": "numeric"
   },
   {
     "id": 73,
-    "question": "Дар атоми элементи аз ҳама электроманфии гурӯҳи IV системаи даврӣ чанд протон мавҷуд аст?",
+    "question": "Адади электронҳо дар ионҳои P3– ва X2– баробаранд. Адади электрон- ҳои қабати берунаи атоми элементи X-ро муайян кунед.",
+	  "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/chemestry_images/t73.png",
     "correctAnswer": "6",
     "answerType": "numeric"
   },
   {
     "id": 74,
-    "question": "Дар атоми элементи аз ҳама электроманфии гурӯҳи V системаи даврӣ чанд протон мавҷуд аст?",
-    "correctAnswer": "7",
+    "question": "Конфигуратсияи электронии иони элемент X– чунин аст: 1s22s22p63s23p6. Рақами тартибии элементро муайян кунед.",
+	  "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/chemestry_images/t74.png",
+    "correctAnswer": "17",
     "answerType": "numeric"
   },
   {
     "id": 75,
-    "question": "Дар атоми элементи аз ҳама электроманфии даври 3-юми системаи даврӣ чанд протон мавҷуд аст?",
-    "correctAnswer": "17",
-    "answerType": "numeric"
-  },
-  {
-    "id": 76,
-    "question": "Атоми элементи химиявие, ки конфигуратсияи электрониаш бо 3d5 4s2 анҷом меёбад, чанд протон дорад?",
-    "correctAnswer": "25",
-    "answerType": "numeric"
-  },
-  {
-    "id": 77,
-    "question": "Атоми элементи химиявие, ки конфигуратсияи электрониаш бо 3d6 4s2 анҷом меёбад, чанд протон дорад?",
-    "correctAnswer": "26",
-    "answerType": "numeric"
-  },
-  {
-    "id": 78,
-    "question": "Атоми элементи химиявие, ки конфигуратсияи электрониаш бо 3d3 4s2 анҷом меёбад, чанд протон дорад?",
-    "correctAnswer": "23",
-    "answerType": "numeric"
-  },
-  {
-    "id": 79,
-    "question": "Дар иони сулфид (S2–) чанд электрон мавҷуд аст?",
-    "correctAnswer": "18",
-    "answerType": "numeric"
-  },
-  {
-    "id": 80,
-    "question": "Дар катиони аммоний (𝐍𝐇+) чанд протон мавҷуд аст?",
-    "correctAnswer": "11",
-    "answerType": "numeric"
-  },
-    {
-    "id": 81,
-    "question": "Дар иони сулфат (𝐒𝐎𝟐–) чанд протон мавҷуд аст?",
-    "correctAnswer": "48",
-    "answerType": "numeric"
-  },
-  {
-    "id": 82,
-    "question": "Дар атоми ғайриметалли аз ҳама фаъоли даври 4-уми системаи даврӣ чанд протон мавҷуд аст?",
-    "correctAnswer": "35",
-    "answerType": "numeric"
-  },
-  {
-    "id": 83,
-    "question": "Дар атоми металли аз ҳама фаъоли даври 4-уми системаи даврӣ чанд протон мавҷуд аст?",
-    "correctAnswer": "19",
-    "answerType": "numeric"
-  },
-  {
-    "id": 84,
-    "question": "Дар атоми металли аз ҳама фаъоли даври 5-уми системаи даврӣ чанд протон мавҷуд аст?",
-    "correctAnswer": "37",
-    "answerType": "numeric"
-  },
-  {
-    "id": 85,
-    "question": "Иони содаи X+, ки конфигуратсияи электрониаш бо ... 2s22p6 анҷом меёбад, чанд протон дорад?",
-    "correctAnswer": "11",
-    "answerType": "numeric"
-  },
-  {
-    "id": 86,
-    "question": "Иони содаи X2+, ки конфигуратсияи электрониаш бо ... 3s23p6 анҷом меёбад, чанд протон дорад?",
-    "correctAnswer": "20",
-    "answerType": "numeric"
-  },
-  {
-    "id": 87,
-    "question": "Иони содаи X2–, ки конфигуратсияи электрониаш бо ... 3s23p6 анҷом меёбад, чанд протон дорад?",
-    "correctAnswer": "16",
-    "answerType": "numeric"
-  },
-  {
-    "id": 88,
-    "question": "Конфигуратсияи электронии иони элемент X– чунин аст: 1s22s22p63s23p6. Рақами тартибии элементро муайян кунед.",
-    "correctAnswer": "17",
-    "answerType": "numeric"
-  },
-  {
-    "id": 89,
     "question": "Конфигуратсияи электронии иони элемент X3+ чунин аст: 1s22s22p6. Рақами тартибии элементро муайян кунед.",
+	  "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/chemestry_images/t75.png",
     "correctAnswer": "13",
     "answerType": "numeric"
   },
   {
-    "id": 90,
+    "id": 76,
     "question": "Конфигуратсияи электронии иони элемент X2– чунин аст: 1s22s22p6. Рақами тартибии элементро муайян кунед.",
+	  "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/chemestry_images/t76.png",
     "correctAnswer": "8",
     "answerType": "numeric"
   },
   {
-    "id": 91,
+    "id": 77,
     "question": "Рақами тартибии элементеро, ки дар ҳолати асосии атомаш адади d-электронҳо ба 11 баробар аст, муайян кунед.",
     "correctAnswer": "39",
     "answerType": "numeric"
   },
   {
-    "id": 92,
+    "id": 78,
     "question": "Рақами тартибии элементеро, ки дар ҳолати асосии атомаш адади d-электронҳо ба 12 баробар аст, муайян кунед.",
     "correctAnswer": "40",
     "answerType": "numeric"
   },
   {
-    "id": 93,
-    "question": "Рақами тартибии элементеро, ки дар ҳолати асосии атомаш адади p-электронҳо ба 17 баробар аст, муайян кунед.",
+    "id": 79,
+    "question": "Рақами тартибии элементеро, ки дар ҳолати асосии атомаш адади p-электронҳо ба 17 баробар аст.",
     "correctAnswer": "35",
     "answerType": "numeric"
   },
   {
-    "id": 94,
-    "question": "Дар иони 𝐗𝐎𝟑– адади электронҳо ба 68 баробар аст. Массаи атомии нисбии элементи Х-ро муайян кунед.",
+    "id": 80,
+    "question": "Дар шароити муътадил атоми никел дар d-орбиталҳо чанд электрони тоқ дорад?",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+    {
+    "id": 81,
+    "question": "Дар шароити муътадил атоми оҳан дар d-орбиталҳо чанд электрони тоқ дорад?",
+    "correctAnswer": "4",
+    "answerType": "numeric"
+  },
+  {
+    "id": 82,
+    "question": "Дар шароити муътадил атоми кобалт дар d-орбиталҳо чанд электрони тоқ дорад?",
+    "correctAnswer": "3",
+    "answerType": "numeric"
+  },
+  {
+    "id": 83,
+    "question": "Дар шароити муътадил атоми элементи даври шашум ва зергурӯҳи иловагии гурӯҳи шашуми системаи даврӣ чандто электрони тоқ дорад?",
+    "correctAnswer": "4",
+    "answerType": "numeric"
+  },
+  {
+    "id": 84,
+    "question": "Дар шароити муътадил атоми элементи даври шашум ва зергурӯҳи иловагии гурӯҳи ҳафтуми системаи даврӣ чандто электрони тоқ дорад?",
+    "correctAnswer": "5",
+    "answerType": "numeric"
+  },
+  {
+    "id": 85,
+    "question": "Дар шароити муътадил атоми элементи даври шашум ва зергурӯҳи иловагии гурӯҳи панҷуми системаи даврӣ чандто электрони тоқ дорад?",
+    "correctAnswer": "3",
+    "answerType": "numeric"
+  },
+  {
+    "id": 86,
+    "question": "Дар иони XO3– адади электронҳо ба 68 баробар аст. Массаи атомии нисбии элементи Х-ро муайян кунед.",
+	  "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/chemestry_images/t86.png",
     "correctAnswer": "75",
     "answerType": "numeric"
   },
   {
-    "id": 95,
-    "question": "Дар иони 𝐗𝐎– адади электронҳо ба 60 баробар аст. Массаи атомии нисбии элементи Х-ро муайян кунед.",
+    "id": 87,
+    "question": "Дар иони XO– адади электронҳо ба 60 баробар аст. Массаи атомии нисбии элементи Х-ро муайян кунед.",
+	  "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/chemestry_images/t87.png",
     "correctAnswer": "80",
     "answerType": "numeric"
   },
   {
-    "id": 96,
-    "question": "Дар иони 𝐗𝐎𝟐– адади электронҳо ба 58 баробар аст. Массаи атомии нисбии элементи Х-ро муайян кунед.",
+    "id": 88,
+    "question": "Дар иони XO2– адади электронҳо ба 58 баробар аст. Массаи атомии нисбии элементи Х-ро муайян кунед.",
+	  "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/chemestry_images/t88.png",
     "correctAnswer": "52",
     "answerType": "numeric"
   },
   {
-    "id": 97,
+    "id": 89,
     "question": "120 г маҳлули 5%-а чанд грамм моддаи ҳалшуда дорад?",
     "correctAnswer": "6",
     "answerType": "numeric"
   },
   {
-    "id": 98,
+    "id": 90,
     "question": "Барои ҳосил кардани маҳлули 8%-аи намак ба 230 г об чанд грамм бромиди калийи сахтро илова кардан лозим аст?",
     "correctAnswer": "20",
     "answerType": "numeric"
   },
   {
-    "id": 99,
+    "id": 91,
     "question": "Барои ҳосил кардани маҳлули 20%-аи хлориди калсий ба 140 г об чанд грамм намакро илова бояд кард?",
     "correctAnswer": "35",
     "answerType": "numeric"
   },
   {
-    "id": 100,
-    "question": "Барои ҳосил кардани маҳлули 10%-аи ишқор ба 180 г об чанд грамм ҳидроксиди калийи сахтро илова кардан лозим аст?",
-    "correctAnswer": "20",
-    "answerType": "numeric"
-  },
-    {
-    "id": 101,
+    "id": 92,
     "question": "Аз 200 г маҳлули 12%-аи нитрати калий 50 г обро бухор карданд. Ҳиссаи массаи (бо %) намакро дар маҳлули ҳосилшуда муайян кунед.",
     "correctAnswer": "16",
     "answerType": "numeric"
   },
   {
-    "id": 102,
+    "id": 93,
     "question": "Аз 150 г маҳлули 8%-аи сулфати калий 30 г обро бухор карданд. Ҳиссаи массаи (бо %) намакро дар маҳлули ҳосилшуда муайян кунед.",
     "correctAnswer": "10",
     "answerType": "numeric"
   },
   {
-    "id": 103,
+    "id": 94,
     "question": "Аз 300 г маҳлули 8%-аи сулфати магний 100 г обро бухор карданд. Ҳиссаи массаи (бо %) намакро дар маҳлули ҳосилшуда муайян кунед.",
     "correctAnswer": "12",
     "answerType": "numeric"
   },
   {
-    "id": 104,
-    "question": "Ба 300 г маҳлули 15%-аи нитрати натрий боз 40 г ҳамин намакро илова карданд. Ҳиссаи массаи (бо %) намакро дар маҳлули ҳосилшуда муайян кунед.",
+    "id": 95,
+    "question": "Ба 300 г маҳлули 15%-аи нитрати натрий боз 40 г ҳамин намакро илова карданд. Ҳиссаи массаи (бо %) намакро дар маҳлули ҳосил- шуда муайян кунед.",
     "correctAnswer": "25",
     "answerType": "numeric"
   },
   {
-    "id": 105,
-    "question": "Ба 150 г маҳлули 20%-аи хлориди натрий боз 10 г ҳамин намакро илова карданд. Ҳиссаи массаи (бо %) намакро дар маҳлули ҳосилшуда муайян кунед.",
+    "id": 96,
+    "question": "Ба 150 г маҳлули 20%-аи хлориди натрий боз 10 г ҳамин намакро илова карданд. Ҳиссаи массаи (бо %) намакро дар маҳлули ҳосил- шуда муайян кунед.",
     "correctAnswer": "25",
     "answerType": "numeric"
   },
   {
-    "id": 106,
-    "question": "Ба 200 г маҳлули 16%-аи нитрати натрий боз 10 г ҳамин намакро илова карданд. Ҳиссаи массаи (бо %) намакро дар маҳлули ҳосилшуда муайян кунед.",
+    "id": 97,
+    "question": "Ба 200 г маҳлули 16%-аи нитрати натрий боз 10 г ҳамин намакро илова карданд. Ҳиссаи массаи (бо %) намакро дар маҳлули ҳосил- шуда муайян кунед.",
     "correctAnswer": "20",
     "answerType": "numeric"
   },
   {
-    "id": 107,
+    "id": 98,
     "question": "Ба 320 г маҳлули 5%-аи ҳидроксиди натрий 80 мл об (ρ = 1 г/мл) илова намуданд. Ҳиссаи массаи ишқорро (бо %) дар маҳлули ҳосилшуда ёбед.",
     "correctAnswer": "4",
     "answerType": "numeric"
   },
   {
-    "id": 108,
+    "id": 99,
     "question": "Ҳиссаи массаи (бо %) сулфати мис (II)-ро дар маҳлуле, ки дар он ба 0,5 мол намак 40 мол об мувофиқ меояд, муайян кунед.",
     "correctAnswer": "10",
     "answerType": "numeric"
   },
   {
-    "id": 109,
+    "id": 100,
     "question": "Барои ҳосил кардани маҳлули 10%-а аз 200 г маҳлули 4%-аи сулфати натрий чанд грамм обро буғронӣ кардан лозим аст?",
     "correctAnswer": "120",
     "answerType": "numeric"
   },
-  {
-    "id": 110,
-    "question": "Барои ҳосил кардани маҳлули 8,6%-а аз 80 г маҳлули 4%-аи хлориди калий ба он чанд грамм намак илова кардан лозим аст?",
-    "correctAnswer": "4",
-    "answerType": "numeric"
-  },
-  {
-    "id": 111,
-    "question": "Барои ҳосил кардани маҳлули 4%-аи сулфати магний ба 80 г об чанд грамм маҳлули 20%-аи намак илова кардан лозим аст?",
-    "correctAnswer": "20",
-    "answerType": "numeric"
-  },
-  {
-    "id": 112,
-    "question": "Барои ҳосил шудани маҳлули 18%-аи хлориди натрий ба 40 г об чанд грамм маҳлули 26%-аи намак илова кардан лозим аст?",
-    "correctAnswer": "90",
-    "answerType": "numeric"
-  },
-  {
-    "id": 113,
-    "question": "Барои ҳосил шудани маҳлули 5%-аи хлориди калий ба 80 г об чанд грамм маҳлули 15%-аи намак илова кардан лозим аст?",
-    "correctAnswer": "40",
-    "answerType": "numeric"
-  },
-  {
-    "id": 114,
-    "question": "200 г маҳлули 36%-аи гидроксиди натрийро сероб намуда, маҳлули 9%-аи ишқорро ҳосил карданд. Массаи маҳлули ҳосилшударо бо грамм ҳисоб кунед.",
+    {
+    "id": 101,
+    "question": "200 г маҳлули 36%-аи ҳидроксиди натрийро сероб намуда, маҳлули 9%-аи ишқорро ҳосил карданд. Массаи маҳлули ҳосилшударо бо грамм ҳисоб кунед.",
     "correctAnswer": "800",
     "answerType": "numeric"
   },
   {
-    "id": 115,
-    "question": "200 г маҳлули 95%-аи кислотаи сулфатро сероб намуда, маҳлули 19%-аи кислотаро ҳосил карданд. Массаи (бо грамм) маҳлули ҳосилшударо ҳисоб намоед.",
-    "correctAnswer": "1000",
-    "answerType": "numeric"
-  },
-  {
-    "id": 116,
+    "id": 102,
     "question": "Ба 240 г маҳлули 10%-аи кислотаи хлорид 60 мл об (ρ = 1 г/мл) илова намуданд. Ҳиссаи массаи кислотаро (бо %) дар маҳлули ҳосилшуда ҳисоб кунед.",
     "correctAnswer": "8",
     "answerType": "numeric"
   },
   {
-    "id": 117,
-    "question": "Ба 250 г маҳлули нитрати калийи 20%-а 375 г обро илова карданд. Ҳиссаи массаи (бо %) намакро дар маҳлули ҳосилшуда ҳисоб кунед.",
-    "correctAnswer": "8",
-    "answerType": "numeric"
-  },
-  {
-    "id": 118,
-    "question": "Ба 120 г маҳлули 5%-аи кислотаи хлорид 30 г об илова намуданд. Ҳиссаи массаи кислотаро (бо %) дар маҳлули ҳосилшуда ҳисоб кунед.",
-    "correctAnswer": "4",
-    "answerType": "numeric"
-  },
-  {
-    "id": 119,
-    "question": "Ба 160 г маҳлули нитрати натрийи ҳиссаи массааш 10%-а 240 г маҳлули 20%-аи ҳамин намакро илова карданд. Ҳиссаи намакро дар маҳлули ҳосилшуда (бо %) ҳисоб кунед.",
-    "correctAnswer": "16",
-    "answerType": "numeric"
-  },
-  {
-    "id": 120,
+    "id": 103,
     "question": "Ҳангоми буғронии 500 г маҳлули 10%-аи сулфати натрий 200 г маҳлул ҳосил шуд. Ҳиссаи массаи намакро (бо %) дар маҳлули ҳосилшуда ҳисоб кунед.",
     "correctAnswer": "25",
     "answerType": "numeric"
   },
-    {
-    "id": 121,
+  {
+    "id": 104,
     "question": "100 г кристаллоҳидрати CuSO4 ∙ 5H2O дар 300 г об ҳал карда шуд. Ҳиссаи массаи сулфати миси беобро (бо %) дар маҳлули ҳосилшуда ҳисоб кунед.",
     "correctAnswer": "16",
     "answerType": "numeric"
   },
   {
-    "id": 122,
+    "id": 105,
+    "question": "Барои ҳосил кардани маҳлули 4%-аи сулфати магний ба 80 г об чанд грамм маҳлули 20%-аи намак илова кардан лозим аст?",
+    "correctAnswer": "20",
+    "answerType": "numeric"
+  },
+  {
+    "id": 106,
+    "question": "Барои ҳосил шудани маҳлули 18%-аи хлориди натрий ба 40 г об чанд грамм маҳлули 26%-аи намак илова кардан лозим аст?",
+    "correctAnswer": "90",
+    "answerType": "numeric"
+  },
+  {
+    "id": 107,
+    "question": "Барои ҳосил шудани маҳлули 5%-аи хлориди калий ба 80 г об чанд грамм маҳлули 15%-аи намак илова кардан лозим аст?",
+    "correctAnswer": "40",
+    "answerType": "numeric"
+  },
+  {
+    "id": 108,
     "question": "Ҳангоми бухор кардани 60 г об аз маҳлули 3%-аи хлориди натрий маҳлули 5%-а ҳосил шуд. Массаи маҳлули авваларо муайян намоед.",
     "correctAnswer": "150",
     "answerType": "numeric"
   },
   {
-    "id": 123,
+    "id": 109,
     "question": "Ҳангоми бухор кардани 40 г об аз маҳлули 3%-аи хлориди натрий маҳлули 5%-а ҳосил шуд. Массаи маҳлули авваларо муайян намоед.",
     "correctAnswer": "100",
     "answerType": "numeric"
   },
   {
-    "id": 124,
+    "id": 110,
     "question": "Ҳангоми бухор кардани 50 г об аз маҳлули 3%-аи хлориди натрий маҳлули 8%-а ҳосил шуд. Массаи маҳлули авваларо муайян намоед.",
     "correctAnswer": "80",
     "answerType": "numeric"
   },
   {
-    "id": 125,
-    "question": "Ҳангоми баҳамтаъсирии 10 г калсий бо миқдори барзиёди кислотаи сероби сулфат чанд грамм сулфати калсийро ҳосил кардан мумкин аст?",
+    "id": 111,
+    "question": "Ҳангоми хунук кардани 250 г маҳлули гарми 20%-аи сулфати калий то 20 С 28 г намак таҳшин шуд. Ҳалшавандагии (бо грамм) K2SO4-ро дар 100 г об дар 20 С ҳисоб кунед.",
+    "correctAnswer": "11",
+    "answerType": "numeric"
+  },
+  {
+    "id": 112,
+    "question": "Ҳангоми хунук кардани 500 г маҳлули гарми 40%-аи нитрати калий то 20 С 104 г намак таҳшин шуд. Ҳалшавандагии (бо грамм) KNO3-ро дар 100 г об дар 20 С ҳисоб кунед.",
+    "correctAnswer": "32",
+    "answerType": "numeric"
+  },
+  {
+    "id": 113,
+    "question": "Ҳангоми хунук кардани 1000 г маҳлули гарми 30%-аи хлориди калий то 20 С 62 г намак таҳшин шуд. Ҳалшавандагии (бо грамм) KCl-ро дар 100 г об дар 20 С ҳисоб кунед.",
     "correctAnswer": "34",
     "answerType": "numeric"
   },
   {
+    "id": 114,
+    "question": "Ҳалшавандагии KCl дар 20 С 34 граммро дар 100 г об ташкил медиҳад. Дар 20 С дар 375 г маҳлули 20%-аи KCl боз чанд грамм KCl-ро ҳал кардан мумкин аст?",
+    "correctAnswer": "27",
+    "answerType": "numeric"
+  },
+  {
+    "id": 115,
+    "question": "Ҳалшавандагии NaCl дар 20 С 36 граммро дар 100 г об ташкил медиҳад. Дар 20 С дар 250 г маҳлули 20%-аи NaCl боз чанд грамм NaCl-ро ҳал кардан мумкин аст?",
+    "correctAnswer": "22",
+    "answerType": "numeric"
+  },
+  {
+    "id": 116,
+    "question": "Ҳалшавандагии BaCl2 дар 30 С 38 граммро дар 100 г об ташкил медиҳад. Дар 30 С дар 500 г маҳлули 20%-аи BaCl2 боз чанд грамм BaCl2-ро ҳал кардан мумкин аст?",
+    "correctAnswer": "52",
+    "answerType": "numeric"
+  },
+  {
+    "id": 117,
+    "question": "Ҳангоми дар об ҳал кардани 50 г CuSO4 ∙ 5H2O чанд мл маҳлули сулфати мис (II)-и консентратсияи моляриаш 0,5 М ҳосил кардан мумкин аст?",
+    "correctAnswer": "400",
+    "answerType": "numeric"
+  },
+  {
+    "id": 118,
+    "question": "Ҳангоми дар об ҳал кардани 55,6 г FeSO4 ∙ 7H2O чанд мл маҳлули сулфати оҳан (II)-и консентратсияи моляриаш 0,25 М ҳосил кардан мумкин аст?",
+    "correctAnswer": "800",
+    "answerType": "numeric"
+  },
+  {
+    "id": 119,
+    "question": "Ҳангоми дар об ҳал кардани 143 г Na2CO3 ∙ 10H2O чанд мл маҳлули карбонати натрийи консентратсияи моляриаш 0,2 М ҳосил кардан мумкин аст?",
+    "correctAnswer": "2500",
+    "answerType": "numeric"
+  },
+  {
+    "id": 120,
+    "question": "47 г K2O-ро дар чанд грамм об ҳал намудан лозим аст, то ки маҳлули 20%-аи KOH ҳосил шавад?",
+    "correctAnswer": "233",
+    "answerType": "numeric"
+  },
+    {
+    "id": 121,
+    "question": "31 г Na2O-ро дар чанд грамм об ҳал намудан лозим аст, то ки маҳлули 20%-аи NaOH ҳосил шавад?",
+    "correctAnswer": "169",
+    "answerType": "numeric"
+  },
+  {
+    "id": 122,
+    "question": "94 г K2O-ро дар чанд грамм об ҳал кардан лозим аст, то ки маҳлули 25%-аи KOH ҳосил шавад?",
+    "correctAnswer": "354",
+    "answerType": "numeric"
+  },
+  {
+    "id": 123,
+    "question": "Барои ҳосил шудани 840 г маҳлули 10%-аи KOH чанд миллилитр маҳлули консентратсияи моляриаш 3 М (зичиаш 1,14 г/мл) KOH-ро сероб кардан лозим аст?",
+    "correctAnswer": "500",
+    "answerType": "numeric"
+  },
+  {
+    "id": 124,
+    "question": "Барои ҳосил шудани 400 г маҳлули 4%-аи NaOH чанд миллилитр маҳлули консентратсияи моляриаш 2 М (зичиаш 1,09 г/мл) NaOH-ро сероб кардан лозим аст?",
+    "correctAnswer": "200",
+    "answerType": "numeric"
+  },
+  {
+    "id": 125,
+    "question": "Барои ҳосил шудани 490 г маҳлули 10%-аи H2SO4 чанд миллилитр маҳлули консентратсияи моляриаш 2 М (зичиаш 1,12 г/мл) H2SO4-ро сероб кардан лозим аст?",
+    "correctAnswer": "250",
+    "answerType": "numeric"
+  },
+  {
     "id": 126,
-    "question": "Ҳангоми баҳамтаъсирии 112 г оҳан бо миқдори барзиёди кислотаи хлорид чанд грамм хлориди оҳан (II)-ро ҳосил кардан мумкин аст?",
-    "correctAnswer": "254",
+    "question": "Барои ба реаксия рафтани 200 г маҳлули сулфати мис (II) 250 мл маҳлули 2 М NaOH сарф шуд. Ҳиссаи массаи (бо %) сулфати мисро дар маҳлули аввала муайян кунед.",
+    "correctAnswer": "20",
     "answerType": "numeric"
   },
   {
     "id": 127,
-    "question": "Ҳангоми баҳамтаъсирии 28 г оҳан бо миқдори барзиёди кислотаи сероби сулфат чанд грамм сулфати оҳан (II)-ро ҳосил кардан мумкин аст?",
-    "correctAnswer": "76",
+    "question": "Барои ба реаксия рафтани 300 г маҳлули нитрати оҳан (II) 200 мл маҳлули 2 М NaOH сарф шуд. Ҳиссаи массаи (бо %) нитрати оҳан (II)-ро дар маҳлули аввала муайян кунед.",
+    "correctAnswer": "12",
     "answerType": "numeric"
   },
   {
     "id": 128,
-    "question": "Аз 480 г пирит (FeS2) чанд мол кислотаи сулфат ҳосил кардан мумкин аст?",
-    "correctAnswer": "8",
+    "question": "Барои ба реаксия рафтани 296 г маҳлули нитрати магний 500 мл маҳлули 2 М NaOH сарф шуд. Ҳиссаи массаи (бо %) нитрати магнийро дар маҳлули аввала муайян кунед.",
+    "correctAnswer": "25",
     "answerType": "numeric"
   },
   {
     "id": 129,
+    "question": "Барои ҳосил кардани маҳлули 80%-аи кислотаи H2SO4 ба 340 г маҳлули 60%-аи H2SO4 чанд грамм SO3 илова кардан лозим аст?",
+    "correctAnswer": "160",
+    "answerType": "numeric"
+  },
+  {
+    "id": 130,
+    "question": "Барои ҳосил кардани маҳлули 80%-аи кислотаи H2SO4 ба 170 г маҳлули 60%-аи H2SO4 чанд грамм SO3 илова кардан лозим аст?",
+    "correctAnswer": "80",
+    "answerType": "numeric"
+  },
+  {
+    "id": 131,
+    "question": "Барои ҳосил кардани маҳлули 80%-аи кислотаи H2SO4 ба 85 г маҳлули 60%-аи H2SO4 чанд грамм SO3 илова кардан лозим аст?",
+    "correctAnswer": "40",
+    "answerType": "numeric"
+  },
+  {
+    "id": 132,
+    "question": "Ба 140 г маҳлули 40%-аи кислотаи сулфат 21 г карбонати магний илова карданд. Ҳиссаи массаи (бо %) сулфати магнийро дар маҳлули ҳосилшуда муайян кунед.",
+    "correctAnswer": "20",
+    "answerType": "numeric"
+  },
+  {
+    "id": 133,
+    "question": "Ба 194 г маҳлули 30%-аи кислотаи хлорид 50 г карбонати калсий илова карданд. Ҳиссаи массаи намакро дар маҳлули ҳосилшуда муайян кунед.",
+    "correctAnswer": "25",
+    "answerType": "numeric"
+  },
+  {
+    "id": 134,
+    "question": "Ба 469 г маҳлули 20%-аи кислотаи нитрат 53 г карбонати натрий илова карданд. Ҳиссаи массаи намакро дар маҳлули ҳосилшуда муайян кунед.",
+    "correctAnswer": "17",
+    "answerType": "numeric"
+  },
+  {
+    "id": 135,
     "question": "Аз 224 л нитроген (ш. м.) чанд мол кислотаи нитрат ҳосил кардан мумкин аст?",
     "correctAnswer": "20",
     "answerType": "numeric"
   },
   {
-    "id": 130,
+    "id": 136,
     "question": "Аз 30 кг пирит (FeS2) чанд килограмм кислотаи сулфат ҳосил кардан мумкин аст?",
     "correctAnswer": "49",
     "answerType": "numeric"
   },
   {
-    "id": 131,
-    "question": "Барои ҳосил кардани 630 г кислотаи нитрат чанд литр (ш.м.) аммиак лозим аст?",
-    "correctAnswer": "224",
-    "answerType": "numeric"
-  },
-  {
-    "id": 132,
-    "question": "Барои ҳосил кардани 315 г кислотаи нитрат чанд литр аммиак (ш. м.) лозим аст?",
-    "correctAnswer": "112",
-    "answerType": "numeric"
-  },
-  {
-    "id": 133,
-    "question": "Барои ҳосил кардани 15 мол кислотаи нитрат чанд литр аммиак (ш. м.) лозим аст?",
-    "correctAnswer": "336",
-    "answerType": "numeric"
-  },
-  {
-    "id": 134,
-    "question": "Барои ҳосил кардани 49 г кислотаи сулфат чанд грамм FeS2 лозим аст?",
-    "correctAnswer": "30",
-    "answerType": "numeric"
-  },
-  {
-    "id": 135,
+    "id": 137,
     "question": "Аз 0,5 мол фосфор чанд грамм H3PO4 ҳосил кардан мумкин аст?",
     "correctAnswer": "49",
     "answerType": "numeric"
   },
   {
-    "id": 136,
-    "question": "Барои ҳосил кардани 41 г кислотаи сулфит чанд грамм сулфур лозим аст?",
-    "correctAnswer": "16",
-    "answerType": "numeric"
-  },
-  {
-    "id": 137,
-    "question": "Аз 112 г оксиди калсий 111 г ҳидроксиди калсий ҳосил карданд. Ин нисбат ба баромади назариявӣ чанд фоизро ташкил медиҳад?",
-    "correctAnswer": "75",
-    "answerType": "numeric"
-  },
-  {
     "id": 138,
-    "question": "Аз 47 г оксиди калий 42 г ҳидроксиди калий ҳосил карданд. Ин нисбат ба баромади назариявӣ чанд фоизро ташкил медиҳад?",
-    "correctAnswer": "75",
-    "answerType": "numeric"
-  },
-  {
-    "id": 139,
     "question": "Аз 31 г оксиди натрий 32 г ҳидроксиди натрий ҳосил карданд. Ин нисбат ба баромади назариявӣ чанд фоизро ташкил медиҳад?",
     "correctAnswer": "80",
     "answerType": "numeric"
   },
   {
-    "id": 140,
+    "id": 139,
     "question": "Ҳангоми тафсонидани 50 г карбонати калсийи тоза 8,8 г газ ҳосил шуд. Чанд фоизи карбонати калсий таҷзия шуд?",
     "correctAnswer": "40",
     "answerType": "numeric"
   },
-    {
-    "id": 141,
-    "question": "Ҳангоми тафсонидани 42 г карбонати магнийи тоза 11 г газ ҳосил шуд. Чанд фоизи карбонати магний таҷзия шуд?",
-    "correctAnswer": "50",
-    "answerType": "numeric"
-  },
   {
-    "id": 142,
-    "question": "Ҳангоми тафсонидани 25 г карбонати калсийи тоза 8,8 г газ ҳосил шуд. Чанд фоизи карбонати калсий таҷзия шуд?",
-    "correctAnswer": "80",
-    "answerType": "numeric"
-  },
-  {
-    "id": 143,
+    "id": 140,
     "question": "Дар натиҷаи реаксияи 16 г оксиди сулфур (IV) бо оксигени барзиёд 16 г оксиди сулфур (VI) ҳосил карданд. Баромади (бо %) оксиди сулфур (VI)-ро ҳисоб кунед.",
     "correctAnswer": "80",
     "answerType": "numeric"
   },
-  {
-    "id": 144,
-    "question": "Дар натиҷаи реаксияи 10 л нитроген (ш. м.) бо ҳидрогени барзиёд 15 л аммиак (ш. м.) ҳосил карданд. Баромади (бо %) аммиакро ҳисоб кунед.",
-    "correctAnswer": "75",
-    "answerType": "numeric"
-  },
-  {
-    "id": 145,
-    "question": "Дар натиҷаи реаксияи 20 л нитроген (ш. м.) бо ҳидрогени барзиёд 20 л аммиак (ш. м.) ҳосил карданд. Баромади (бо %) аммиакро ҳисоб кунед.",
-    "correctAnswer": "50",
-    "answerType": "numeric"
-  },
-  {
-    "id": 146,
-    "question": "Массаи атомии нисбии металли дувалентаеро, ки 3 грамми он 2 г оксигенро пайваст мекунад, муайян кунед.",
-    "correctAnswer": "24",
-    "answerType": "numeric"
-  },
-  {
-    "id": 147,
-    "question": "Массаи атомии нисбии металли дувалентаеро, ки 4 грамми он 1 г оксигенро пайваст мекунад, муайян кунед.",
-    "correctAnswer": "64",
-    "answerType": "numeric"
-  },
-  {
-    "id": 148,
-    "question": "Массаи атомии нисбии металли дувалентаеро, ки 5 грамми он 2 г оксигенро пайваст мекунад, муайян кунед.",
-    "correctAnswer": "40",
-    "answerType": "numeric"
-  },
-  {
-    "id": 149,
-    "question": "Ҳангоми ба маҳлули нитрати нуқра дохил кардани порчаи оҳан массаи порча 20 г зиёд шуд. Чанд грамм оҳан ба реаксия дохил шуд?",
-    "correctAnswer": "7",
-    "answerType": "numeric"
-  },
-  {
-    "id": 150,
-    "question": "Ҳангоми ба маҳлули сулфати никел (II) дохил кардани порчаи руҳ массаи порча 1,2 г кам шуд. Чанд грамм руҳ ба реаксия дохил шуд?",
-    "correctAnswer": "13",
-    "answerType": "numeric"
-  },
-  {
-    "id": 151,
-    "question": "Ҳангоми ба маҳлули сулфати мис (II) дохил кардани порчаи оҳан массаи порча 2 г зиёд шуд. Чанд грамм оҳан ба реаксия дохил шуд?",
-    "correctAnswer": "14",
-    "answerType": "numeric"
-  },
-  {
-    "id": 152,
-    "question": "4,83 г кристаллоҳидрати AlCl3 ∙ nH2O-ро дар об ҳал карда, ба маҳлул миқдори барзиёди маҳлули нитрати нуқраро илова намуданд. Дар натиҷа таҳшин ҳосил шуд, ки массаи он баъд аз хушк кардан 8,61 граммро ташкил дод. Адади молекулаҳои обро (n) дар формулаи кристаллоҳидрат муайян кунед.",
-    "correctAnswer": "6",
-    "answerType": "numeric"
-  },
-  {
-    "id": 153,
-    "question": "6,66 г кристаллоҳидрати Al2(SO4)3 ∙ nH2O-ро дар об ҳал карда, ба маҳлул миқдори барзиёди маҳлули хлориди барийро илова намуданд. Дар натиҷа таҳшин ҳосил шуд, ки массаи он баъд аз хушк кардан 6,99 граммро ташкил дод. Адади молекулаҳои обро (n) дар формулаи кристаллоҳидрат муайян кунед.",
-    "correctAnswer": "18",
-    "answerType": "numeric"
-  },
-  {
-    "id": 154,
-    "question": "4,56 г кристаллоҳидрати MgSO4 ∙ nH2O-ро дар об ҳал карда, ба маҳлул миқдори барзиёди маҳлули хлориди барийро илова намуданд. Дар натиҷа таҳшин ҳосил шуд, ки массаи он баъд аз хушк кардан 4,66 граммро ташкил дод. Адади молекулаҳои обро (n) дар формулаи кристаллоҳидрат муайян кунед.",
-    "correctAnswer": "6",
-    "answerType": "numeric"
-  },
-  {
-    "id": 155,
-    "question": "Дар 200 г маҳлули 10%-аи ҳидроксиди натрий 11,2 л (ш. м.) оксиди карбон (IV)-ро ҳал намуданд. Массаи (бо грамм) намаки ҳосил- шударо дар маҳлул муайян кунед.",
-    "correctAnswer": "42",
-    "answerType": "numeric"
-  },
-  {
-    "id": 156,
-    "question": "Дар 400 г маҳлули 10%-аи ҳидроксиди натрий 11,2 л оксиди карбон (IV)-ро (ш. м.) ҳал карданд. Массаи (бо грамм) намаки ҳосил- шударо дар маҳлул муайян намоед.",
-    "correctAnswer": "53",
-    "answerType": "numeric"
-  },
-  {
-    "id": 157,
-    "question": "Дар 100 г маҳлули 14%-аи ҳидроксиди калий 5,6 л оксиди сулфур (IV)-ро (ш. м.) ҳал карданд. Массаи (бо грамм) намаки ҳосил-шударо дар маҳлул муайян намоед.",
-    "correctAnswer": "30",
-    "answerType": "numeric"
-  },
-  {
-    "id": 158,
-    "question": "Ҳангоми ҳал кардани 26 г омехтаи руҳ ва оксиди руҳ дар кислотаи хлорид 4,48 л (ш. м.) ҳидроген хориҷ шуд. Массаи (бо грамм) намаки дар ин вақт ҳосилшударо муайян кунед.",
-    "correctAnswer": "49",
-    "answerType": "numeric"
-  },
-  {
-    "id": 159,
-    "question": "Ҳангоми ҳал кардани 25 г омехтаи оҳан ва оксиди оҳан (II) дар кислотаи сероби сулфат 2,8 л (ш. м.) ҳидроген хориҷ шуд. Массаи (бо грамм) намаки дар ин вақт ҳосилшударо муайян кунед.",
-    "correctAnswer": "57",
-    "answerType": "numeric"
-  },
-  {
-    "id": 160,
-    "question": "Ҳангоми ҳал кардани 8 г омехтаи магний ва оксиди магний дар кислотаи сулфат 5,6 л (ш. м.) ҳидроген хориҷ шуд. Массаи (бо грамм) намаки дар ин вақт ҳосилшударо муайян кунед.",
-    "correctAnswer": "36",
-    "answerType": "numeric"
-  },
+  {"id":141,"question":"Дар натиҷаи реаксияи 20 л нитроген (ш. м.) бо ҳидрогени барзиёд 20 л аммиак (ш. м.) ҳосил карданд. Баромади (бо %) аммиакро ҳисоб кунед.","correctAnswer":"50"},
+  {"id":142,"question":"Агар 20%-и сулфур дар истеҳсолот талаф ёбад, аз 240 тонна маъдане, ки 50% сулфур дорад, чанд тонна кислотаи сулфати беоб ҳосил ҳосил кардан мумкин аст?","correctAnswer":"294"},
+  {"id":143,"question":"Агар 20%-и сулфур дар истеҳсолот талаф ёбад, аз 320 тонна маъдане, ки 50% сулфур дорад, чанд тонна кислотаи сулфати беоб ҳосил ҳосил кардан мумкин аст?","correctAnswer":"392"},
+  {"id":144,"question":"Агар 20%-и сулфур дар истеҳсолот талаф ёбад, аз 120 тонна маъдане, ки 50% сулфур дорад, чанд тонна кислотаи сулфати беоб ҳосил ҳосил кардан мумкин аст?","correctAnswer":"147"},
+  {"id":145,"question":"Аз маъдане, ки дар он ҳиссаи массаи оксиди алюминий 80%-ро ташкил мекунад, алюминий бо баромади 75% ҳосил намуданд. Ҳангоми боҳамтаъсирии алюминий бо миқдори барзиёди Cr2O3 104 кг хром ҳосил шуд. Чанд килограмм маъдан барои ҳосил намудани алюминий истифода шуд?","correctAnswer":"170"},
+  {"id":146,"question":"Аз маъдане, ки дар он ҳиссаи массаи оксиди алюминий 80%-ро ташкил мекунад, алюминийро бо баромади 75% ҳосил намуданд. Ҳангоми боҳамтаъсирии алюминий бо миқдори барзиёди Cr2O3 52 кг хром ҳосил шуд. Чанд килограмм маъдан барои ҳосил намудани алюминий истифода шуд?","correctAnswer":"85"},
+  {"id":147,"question":"Аз маъдане, ки дар он ҳиссаи массаи оксиди алюминий 80%-ро ташкил мекунад, алюминийро бо баромади 75% ҳосил намуданд. Ҳангоми боҳамтаъсирии алюминий бо миқдори барзиёди Cr2O3 208 кг хром ҳосил шуд. Чанд килограмм маъдан барои ҳосил намудани алюминий истифода шуд?","correctAnswer":"340"},
+  {"id":148,"question":"Массаи атомии нисбии металли дувалентаеро, ки 3 грамми он 2 г оксигенро пайваст мекунад, муайян кунед.","correctAnswer":"24"},
+  {"id":149,"question":"Массаи атомии нисбии металли дувалентаеро, ки 4 грамми он 1 г оксигенро пайваст мекунад, муайян кунед.","correctAnswer":"64"},
+  {"id":150,"question":"Ҳангоми ба маҳлули нитрати нуқра дохил кардани порчаи оҳан массаи порча 20 г зиёд шуд. Чанд грамм оҳан ба реаксия дохил шуд?","correctAnswer":"7"},
+  {"id":151,"question":"Ҳангоми ба маҳлули сулфати никел (II) дохил кардани порчаи руҳ массаи порча 1,2 г кам шуд. Чанд грамм руҳ ба реаксия дохил шуд?","correctAnswer":"13"},
+  {"id":152,"question":"Ҳангоми ба маҳлули сулфати мис (II) дохил кардани порчаи оҳан массаи порча 2 г зиёд шуд. Чанд грамм оҳан ба реаксия дохил шуд?","correctAnswer":"14"},
+  {"id":153,"question":"4,83 г кристаллоҳидрати AlCl3 ∙ nH2O-ро дар об ҳал карда, ба маҳлул миқдори барзиёди маҳлули нитрати нуқраро илова намуданд. Дар натиҷа таҳшин ҳосил шуд, ки массаи он баъд аз хушк кардан 8,61 граммро ташкил дод. Адади молекулаҳои обро (n) дар формулаи кристаллоҳидрат муайян кунед.","correctAnswer":"6"},
+  {"id":154,"question":"6,66 г кристаллоҳидрати Al2(SO4)3 ∙ nH2O-ро дар об ҳал карда, ба маҳлул миқдори барзиёди маҳлули хлориди барийро илова намуданд. Дар натиҷа таҳшин ҳосил шуд, ки массаи он баъд аз хушк кардан 6,99 граммро ташкил дод. Адади молекулаҳои обро (n) дар фор- мулаи кристаллоҳидрат муайян кунед.","correctAnswer":"18"},
+  {"id":155,"question":"4,56 г кристаллоҳидрати MgSO4 ∙ nH2O-ро дар об ҳал карда, ба маҳлул миқдори барзиёди маҳлули хлориди барийро илова намуданд. Дар натиҷа таҳшин ҳосил шуд, ки массаи он баъд аз хушк кардан 4,66 граммро ташкил дод. Адади молекулаҳои обро (n) дар формулаи кристаллоҳидрат муайян кунед.","correctAnswer":"6"},
+  {"id":156,"question":"Дар 200 г маҳлули 10%-аи ҳидроксиди натрий 11,2 л (ш. м.) оксиди карбон (IV)-ро ҳал намуданд. Массаи (бо грамм) намаки ҳосил- шударо дар маҳлул муайян кунед.","correctAnswer":"42"},
+  {"id":157,"question":"Дар 400 г маҳлули 10%-аи ҳидроксиди натрий 11,2 л оксиди карбон (IV)-ро (ш. м.) ҳал карданд. Массаи (бо грамм) намаки ҳосил- шударо дар маҳлул муайян намоед.","correctAnswer":"53"},
+  {"id":158,"question":"Аз 640 г миси тафсон 44,8 л (ш. м.) оксигенро гузарониданд ва ба боқимондаи сахт миқдори барзиёди маҳлули сероби HNO3 ҳамроҳ карданд. Баъди ҳалшавӣ чанд грамм газ хориҷ шуд?","correctAnswer":"120"},
+  {"id":159,"question":"Аз 100 г оксиди мис (II)-и тафсон 11,2 л (ш. м.) оксиди карбон (II)-ро гузарониданд ва ба боқимондаи сахт миқдори барзиёди маҳлули сероби H2SO4-ро ҳамроҳ карданд. Дар ин вақт чанд грамм намаки миёна ҳосил шуд?","correctAnswer":"120"},
+  {"id":160,"question":"Аз 200 г оксиди мис (II)-и тафсон 44,8 л (ш. м.) оксиди карбон (II)-ро гузарониданд ва ба боқимондаи сахт миқдори барзиёди маҳлули сероби HNO3 ҳамроҳ карданд. Баъди ҳалшавӣ чанд грамм газ хориҷ шуд?","correctAnswer":"40"},
+  {"id":161,"question":"50 г омехтаи нитратҳои нуқра ва мис (II)-ро тафсониданд. Ҳангоми коркарди омехтаи сахти ҳосилшуда бо кислотаи хлорид 10,8 г моддаи сахт боқӣ монд. Ҳиссаи массаи (бо %) нитрати мис (II)-ро дар омехтаи аввала муайян кунед.","correctAnswer":"66"},
+  {"id":162,"question":"34 г омехтаи нитратҳои нуқра ва мис (II)-ро тафсониданд. Ҳангоми коркарди омехтаи сахти ҳосилшуда бо кислотаи хлорид 5,4 г моддаи сахт боқӣ монд. Ҳиссаи массаи (бо %) нитрати мис (II)-ро дар омехтаи аввала муайян кунед.","correctAnswer":"75"},
+  {"id":163,"question":"50 г омехтаи нитратҳои нуқра ва мис (II)-ро тафсониданд. Ҳангоми коркарди омехтаи сахти ҳосилшуда бо кислотаи хлорид 21,6 г моддаи сахт боқӣ монд. Ҳиссаи массаи (бо %) нитрати мис (II)-ро дар омехтаи аввала муайян кунед.","correctAnswer":"32"},
+  {"id":164,"question":"Алюминийи барзиёдро бо 160 г оксиди оҳан (III) тафсониданд (бе иштироки ҳаво) ва омехтаи сахти ҳосилшударо дар кислотаи хлорид ҳал карданд. Дар натиҷа 67,2 л (ш. м.) газ хориҷ шуд. Массаи (бо грамм) алюминийи авваларо муайян кунед.","correctAnswer":"72"},
+  {"id":165,"question":"Алюминийи барзиёдро бо 80 г оксиди оҳан (III) тафсониданд (бе иштироки ҳаво) ва омехтаи сахти ҳосилшударо дар кислотаи хлорид ҳал карданд. Дар натиҷа 56 л (ш. м.) газ хориҷ шуд. Массаи (бо грамм) алюминийи авваларо муайян кунед.","correctAnswer":"54"},
+  {"id":166,"question":"Алюминийи барзиёдро бо 80 г оксиди оҳан (III) тафсониданд (бе иштироки ҳаво) ва омехтаи сахти ҳосилшударо дар кислотаи хлорид ҳал карданд. Дар натиҷа 44,8 л (ш. м.) газ хориҷ шуд. Массаи (бо грамм) алюминийи авваларо муайян кунед.","correctAnswer":"45"},
+  {"id":167,"question":"Аз маҳлуле, ки 2,5 мол Ва(ОН)2 дорад, гази карбонат гузарониданд. 67,2 л (ш. м.) СО2 ба реаксия рафт. Чанд грамм таҳшин ҳосил шуд?","correctAnswer":"394"},
+  {"id":168,"question":"Аз маҳлуле, ки 1,2 мол Са(ОН)2 дорад, гази карбонат гузарониданд. 33,6 л (ш. м.) СО2 ба реаксия рафт. Чанд грамм таҳшин ҳосил шуд?","correctAnswer":"90"},
+  {"id":169,"question":"Аз маҳлуле, ки 1,4 мол Са(OH)2 дорад, гази сулфит гузарониданд. 44,8 л (ш. м.) SO2 ба реаксия рафт. Чанд грамм таҳшин ҳосил шуд?","correctAnswer":"96"},
+  {"id":170,"question":"Ба 159 г омехтаи сулфати калий ва сулфати магний маҳлули барзиёди хлориди барий илова намуданд, ки дар натиҷа 256,3 г сулфати барий ҳосил шуд. Массаи (бо грамм) сулфати калийро дар омехта муайян кунед.","correctAnswer":"87"},
+  {"id":171,"question":"Ҳангоми ҳал кардани 68,5 г омехтаи карбонат ва ҳидрокарбонати натрий дар кислотаи сулфати барзиёд 71 г сулфати натрийи беоб ҳосил шуд. Массаи (бо грамм) ҳидрокарбонати натрийро дар омехтаи аввала муайян кунед.","correctAnswer":"42"},
+  {"id":172,"question":"Ҳангоми ҳал кардани 188 г омехтаи карбонат ва ҳидрокарбонати калий дар кислотаи сулфати барзиёд 33,6 л (ш. м.) оксид карбон (IV) хориҷ шуд. Массаи (бо грамм) ҳидрокарбонати калийро дар омехта муайян кунед.","correctAnswer":"50"},
+  {"id":173,"question":"Ҳангоми сахт гарм кардани 107 г моддаи ғайриорганикӣ 80 г оксиди сахт ҳосил шуда, 1,5 мол газ (дар шароити таҷриба) хориҷ шуд. Ҳангоми дар кислотаи сулфат ҳал кардани ин оксиди сахт чанд грамм намаки миёна ҳосил мешавад?","correctAnswer":"200"},
+  {"id":174,"question":"Ҳангоми сахт гарм кардани 78 г моддаи ғайриорганикӣ 51 г оксиди сахт ҳосил шуд, 1,5 мол газ (дар шароити таҷриба) хориҷ шуд. Ҳангоми дар кислотаи сулфат ҳал кардани ин оксиди сахт чанд грамм намаки миёна ҳосил мешавад.","correctAnswer":"171"},
+  {"id":175,"question":"Ҳангоми сахт гарм кардани 26 г моддаи ғайриорганикӣ 10 г оксиди сахт ҳосил шуд, 5,6 л (ш. м.) газ хориҷ шуд. Ҳангоми дар кислотаи нитрат ҳал кардани ин оксиди сахт чанд грамм намаки миёна ҳосил мешавад?","correctAnswer":"37"},
+  {"id":176,"question":"Ҳангоми ҳал кардани 26 г омехтаи руҳ ва оксиди руҳ дар кислотаи хлорид 4,48 л (ш. м.) ҳидроген хориҷ шуд. Массаи (бо грамм) намаки дар ин вақт ҳосилшударо муайян кунед.","correctAnswer":"49"},
+  {"id":177,"question":"Ҳангоми ҳал кардани 25 г омехтаи оҳан ва оксиди оҳан (II) дар кислотаи сероби сулфат 2,8 л (ш. м.) ҳидроген хориҷ шуд. Массаи (бо грамм) намаки дар ин вақт ҳосилшударо муайян кунед.","correctAnswer":"57"},
+  {"id":178,"question":"Ҳангоми ҳал кардани 8 г омехтаи магний ва оксиди магний дар кислотаи сулфат 5,6 л (ш. м.) ҳидроген хориҷ шуд. Массаи (бо грамм) намаки дар ин вақт ҳосилшударо муайян кунед.","correctAnswer":"36"},
+  {"id":179,"question":"89 г омехтаи оксиди металли дувалента ва карбонати ин металл бо 1,5 мол HNO3 пурра ба реаксия дохил мегардад, ки дар ин вақт 5,6 л (ш. м.) CO2 хориҷ мешавад. Дар омехтаи аввала чанд грамм оксиди металл мавҷуд буд?","correctAnswer":"52"},
+  {"id":180,"question":"77 г омехтаи металли дувалента ва оксиди он бо 5 мол H2SO4 пурра ба реаксия дохил мегардад, ки дар ин вақт 67,2 л (ш. м.) ҳидроген хориҷ мешавад. Дар омехтаи аввала чанд грамм оксиди металл мавҷуд буд?","correctAnswer":"50"},
+    {"id":181,"question":"61 г омехтаи оксиди металли дувалента ва карбонати ин металл бо 2,5 мол HCl пурра ба реаксия дохил мегардад, ки дар ин вақт 5,6 л (ш. м.) СО2 хориҷ мешавад. Дар омехтаи аввала чанд грамм карбонати металл мавҷуд буд?","correctAnswer":"21"},
+  {"id":182,"question":"Барои пурра хлоронидани 40 г метан чанд мол хлор лозим аст?","correctAnswer":"10"},
+  {"id":183,"question":"Барои дар рӯшноӣ хлоронидани 312 г бензол чанд мол хлор лозим аст?","correctAnswer":"12"},
+  {"id":184,"question":"Барои пурра ҳидрогенонидани 162 г бутадиен-1,3 чанд мол ҳидроген лозим аст?","correctAnswer":"6"},
+  {"id":185,"question":"Барои пайвастшавии пурра бо 5,4 г бутадиен-1,3 чанд грамм бром лозим аст?","correctAnswer":"32"},
+  {"id":186,"question":"Барои пайвастшавии пурра бо 8 г пропин чанд грамм бром лозим аст?","correctAnswer":"64"},
+  {"id":187,"question":"Барои пурра ҳидрогенонидани 25 л атсетилен чанд литр (ш. м.) ҳидроген лозим аст?","correctAnswer":"50"},
+  {"id":188,"question":"0,2 мол пропен бо чанд грамм маҳлули обии 3,2%-аи бром ба реаксия дохил мешавад?","correctAnswer":"1000"},
+  {"id":189,"question":"22,4 л (ш. м.) омехтаи пропен ва ҳидрогенро аввал аз катализатори платина, сипас аз зарфи дорои бромоби барзиёд гузарониданд. Массаи зарфи бромобдор 8,4 г зиёд шуд. Баромади реаксияҳо 100% аст. Ҳиссаи ҳаҷми (бо %) пропенро дар омехтаи аввала муайян кунед.","correctAnswer":"60"},
+  {"id":190,"question":"56 л (ш. м.) омехтаи бутен-2 ва ҳидрогенро аввал аз катализатори платина, сипас аз зарфи дорои бромоби барзиёд гузарониданд. Массаи зарфи бромобдор 28 г зиёд шуд. Баромади реаксияҳо 100% аст. Ҳиссаи ҳаҷми (бо %) ҳидрогенро дар омехтаи аввала муайян кунед.","correctAnswer":"40"},
+  {"id":191,"question":"44,8 л (ш. м.) омехтаи этен ва ҳидрогенро аввал аз катализатори платина, сипас аз зарфи дорои бромоби барзиёд гузарониданд. Массаи зарфи бромобдор 5,6 г зиёд шуд. Баромади реаксияҳо 100% аст. Ҳиссаи ҳаҷми (бо %) ҳидрогенро дар омехтаи аввала муайян кунед.","correctAnswer":"45"},
+  {"id":192,"question":"Барои сӯхтани 16 г метанол чанд грамм оксиген лозим аст?","correctAnswer":"24"},
+  {"id":193,"question":"Барои сӯхтани 11 г этанал чанд грамм оксиген лозим аст?","correctAnswer":"20"},
+  {"id":194,"question":"Ҳангоми ҳидролизи 96 г карбиди алюминий чанд грамм метан ҳосил мешавад?","correctAnswer":"32"},
+  {"id":195,"question":"Ҳангоми таъсири ишқор ба 41 г атсетати натрий чанд грамм метан ҳосил мешавад?","correctAnswer":"8"},
+  {"id":196,"question":"Ҳангоми ҳидролизи 32 г карбиди калсий чанд грамм атсетилен ҳосил мешавад?","correctAnswer":"13"},
+  {"id":197,"question":"Агар баромади реаксия 80%-ро ташкил диҳад, барои синтез кардани 92 г кислотаи мӯрча чанд литр (ш. м.) метан лозим аст?","correctAnswer":"56"},
+  {"id":198,"question":"Агар баромади реаксия нисбат ба ҳисоби назариявӣ 50%-ро ташкил диҳад, барои ҳосил кардани 1,85 г метилатсетат чанд грамм кислотаи атсетат лозим аст?","correctAnswer":"3"},
+  {"id":199,"question":"Дар натиҷаи деҳидрататсия ва деҳидрогенизатсияи 184 г этанол 33,6 л (ш. м.) бутадиен-1,3 ҳосил карданд. Баромади бутадиенро (бо %) муайян кунед.","correctAnswer":"75"},
+  {"id":200,"question":"Дар натиҷаи оксидкунии каталитии 11,2 л бутан (ш. м.) 36 г кислотаи атсетат ҳосил карданд. Баромади кислотаро (бо %) муайян кунед.","correctAnswer":"60"},
     {
-    "id": 161,
-    "question": "89 г омехтаи оксиди металли дувалента ва карбонати ин металл бо 1,5 мол HNO3 пурра ба реаксия дохил мегардад, ки дар ин вақт 5,6 л (ш. м.) СО2 хориҷ мешавад. Дар омехтаи аввала чанд грамм оксиди металл мавҷуд буд?",
-    "correctAnswer": "52",
-    "answerType": "numeric"
-  },
-  {
-    "id": 162,
-    "question": "77 г омехтаи металли дувалента ва оксиди он бо 5 мол H2SO4 пурра ба реаксия дохил мегардад, ки дар ин вақт 67,2 л (ш. м.) ҳидроген хориҷ мешавад. Дар омехтаи аввала чанд грамм оксиди металл мавҷуд буд?",
-    "correctAnswer": "50",
-    "answerType": "numeric"
-  },
-  {
-    "id": 163,
-    "question": "61 г омехтаи оксиди металли дувалента ва карбонати ин металл бо 2,5 мол HCl пурра ба реаксия дохил мегардад, ки дар ин вақт 5,6 л (ш. м.) СО2 хориҷ мешавад. Дар омехтаи аввала чанд грамм карбонати металл мавҷуд буд?",
-    "correctAnswer": "21",
-    "answerType": "numeric"
-  },
-  {
-    "id": 164,
-    "question": "Барои пурра хлоронидани 15 л метан чанд литр хлор (ш. м.) лозим аст?",
-    "correctAnswer": "60",
-    "answerType": "numeric"
-  },
-  {
-    "id": 165,
-    "question": "Барои дихлоронидани 10 л метан чанд литр хлор (ш. м.) лозим аст?",
-    "correctAnswer": "20",
-    "answerType": "numeric"
-  },
-  {
-    "id": 166,
-    "question": "Барои пурра хлоронидани 10 л метан чанд литр хлор (ш. м.) лозим аст?",
-    "correctAnswer": "40",
-    "answerType": "numeric"
-  },
-  {
-    "id": 167,
-    "question": "Барои пурра хлоронидани 40 г метан чанд мол хлор лозим аст?",
-    "correctAnswer": "10",
-    "answerType": "numeric"
-  },
-  {
-    "id": 168,
-    "question": "Барои дар рӯшноӣ хлоронидани 312 г бензол чанд мол хлор лозим аст?",
-    "correctAnswer": "12",
-    "answerType": "numeric"
-  },
-  {
-    "id": 169,
-    "question": "Барои пурра ҳидрогенонидани 162 г бутадиен-1,3 чанд мол ҳидроген лозим аст?",
-    "correctAnswer": "6",
-    "answerType": "numeric"
-  },
-  {
-    "id": 170,
-    "question": "Барои пайвастшавии пурра бо 5,4 г бутадиен-1,3 чанд грамм бром лозим аст?",
-    "correctAnswer": "32",
-    "answerType": "numeric"
-  },
-  {
-    "id": 171,
-    "question": "Барои пайвастшавии пурра бо 8 г пропин чанд грамм бром лозим аст?",
-    "correctAnswer": "64",
-    "answerType": "numeric"
-  },
-  {
-    "id": 172,
-    "question": "Барои пайвастшавии пурра бо 13 г атсетилен чанд грамм хлор лозим аст?",
-    "correctAnswer": "71",
-    "answerType": "numeric"
-  },
-  {
-    "id": 173,
-    "question": "Бо 3,36 л пропен (ш. м.) чанд грамм бром ба реаксия дохил мешавад?",
-    "correctAnswer": "24",
-    "answerType": "numeric"
-  },
-  {
-    "id": 174,
-    "question": "0,2 мол пропен бо чанд грамм маҳлули обии 3,2%-аи бром ба реаксия дохил мешавад?",
-    "correctAnswer": "1000",
-    "answerType": "numeric"
-  },
-  {
-    "id": 175,
-    "question": "Барои пурра сӯзондани 88 г пропан чанд мол оксиген лозим аст?",
-    "correctAnswer": "10",
-    "answerType": "numeric"
-  },
-  {
-    "id": 176,
-    "question": "Барои пурра сӯзондани 312 г бензол чанд мол оксиген лозим аст?",
-    "correctAnswer": "30",
-    "answerType": "numeric"
-  },
-  {
-    "id": 177,
-    "question": "Барои пурра ҳидрогенонидани 20 л пропин чанд литр (ш. м.) ҳидроген лозим аст?",
-    "correctAnswer": "40",
-    "answerType": "numeric"
-  },
-  {
-    "id": 178,
-    "question": "Барои пурра ҳидрогенонидани 20 л бутадиен-1,3 чанд литр (ш. м.) ҳидроген лозим аст?",
-    "correctAnswer": "40",
-    "answerType": "numeric"
-  },
-  {
-    "id": 179,
-    "question": "Барои пурра ҳидрогенонидани 25 л атсетилен чанд литр (ш. м.) ҳидроген лозим аст?",
-    "correctAnswer": "50",
-    "answerType": "numeric"
-  },
-  {
-    "id": 180,
-    "question": "Барои сӯхтани 16 г метанол чанд грамм оксиген лозим аст?",
-    "correctAnswer": "24",
-    "answerType": "numeric"
-  },
-    {
-    "id": 181,
-    "question": "Барои сӯхтани 11 г этанал чанд грамм оксиген лозим аст?",
-    "correctAnswer": "20",
-    "answerType": "numeric"
-  },
-  {
-    "id": 182,
-    "question": "Барои сӯхтани 23 г этанол чанд грамм оксиген лозим аст?",
-    "correctAnswer": "48",
-    "answerType": "numeric"
-  },
-  {
-    "id": 183,
-    "question": "Барои ҳосил кардани 23 г спирти этил чанд грамм атсеталдегидро ҳидрогендан лозим аст?",
-    "correctAnswer": "22",
-    "answerType": "numeric"
-  },
-  {
-    "id": 184,
-    "question": "Барои ҳосил кардани 16 г спирти метил чанд грамм формалдегидро ҳидрогендан лозим аст?",
-    "correctAnswer": "15",
-    "answerType": "numeric"
-  },
-  {
-    "id": 185,
-    "question": "Барои ҳосил кардани 64 г спирти метил чанд грамм формалдегидро ҳидрогендан лозим аст?",
-    "correctAnswer": "60",
-    "answerType": "numeric"
-  },
-  {
-    "id": 186,
-    "question": "Барои ҳосил кардани 80 г метанол чанд литр формалдеҳидро (ш. м.) ҳидрогенизатсия кардан лозим аст?",
-    "correctAnswer": "56",
-    "answerType": "numeric"
-  },
-  {
-    "id": 187,
-    "question": "Ҳангоми баҳамтаъсирии этанол бо изофаи натрийи металлӣ 11,2 л (ш. м.) ҳидроген хориҷ шуд. Чанд мол этанол ба реаксия дохил гардид?",
-    "correctAnswer": "1",
-    "answerType": "numeric"
-  },
-  {
-    "id": 188,
-    "question": "Ҳангоми ҳидролизи 96 г карбиди алюминий чанд грамм метан ҳосил мешавад?",
-    "correctAnswer": "32",
-    "answerType": "numeric"
-  },
-  {
-    "id": 189,
-    "question": "Ҳангоми таъсири ишқор ба 41 г атсетати натрий чанд грамм метан ҳосил мешавад?",
-    "correctAnswer": "8",
-    "answerType": "numeric"
-  },
-  {
-    "id": 190,
-    "question": "Ҳангоми гидролизи 32 г карбиди калсий чанд грамм атсетилен ҳосил мешавад?",
-    "correctAnswer": "13",
-    "answerType": "numeric"
-  },
-  {
-    "id": 191,
-    "question": "Ҳангоми сӯхтани 22,4 л (ш. м.) бутан чанд мол об ҳосил мешавад?",
-    "correctAnswer": "5",
-    "answerType": "numeric"
-  },
-  {
-    "id": 192,
-    "question": "Ҳангоми ҳидролизи 37 г эфири этилформиат чанд грамм кислота ҳосил мешавад?",
-    "correctAnswer": "23",
-    "answerType": "numeric"
-  },
-  {
-    "id": 193,
-    "question": "Ҳангоми ҳидролизи 22 г эфири пропилформиат чанд грамм спирт ҳосил мешавад?",
-    "correctAnswer": "15",
-    "answerType": "numeric"
-  },
-  {
-    "id": 194,
-    "question": "Ҳангоми ҳидролизи 37 г эфири метилатсетат чанд грамм кислота ҳосил мешавад?",
-    "correctAnswer": "30",
-    "answerType": "numeric"
-  },
-  {
-    "id": 195,
-    "question": "Агар баромади реаксия 80%-ро ташкил диҳад, барои синтез кардани 92 г кислотаи мӯрча чанд литр (ш. м.) метан лозим аст?",
-    "correctAnswer": "56",
-    "answerType": "numeric"
-  },
-  {
-    "id": 196,
-    "question": "Агар баромади реаксия нисбат ба ҳисоби назариявӣ 50%-ро ташкил диҳад, барои ҳосил кардани 1,85 г метилатсетат чанд грамм кислотаи атсетат лозим аст?",
-    "correctAnswer": "3",
-    "answerType": "numeric"
-  },
-  {
-    "id": 197,
-    "question": "Дар натиҷаи деҳидрататсия ва деҳидрогенизатсияи 184 г этанол 33,6 л (ш. м.) бутадиен-1,3 ҳосил карданд. Баромади бутадиенро (бо %) муайян кунед.",
-    "correctAnswer": "75",
-    "answerType": "numeric"
-  },
-  {
-    "id": 198,
-    "question": "Дар натиҷаи оксидкунии каталитии 11,2 л бутан (ш. м.) 36 г кислотаи атсетат ҳосил карданд. Баромади кислотаро (бо %) муайян кунед.",
-    "correctAnswer": "60",
-    "answerType": "numeric"
-  },
-  {
-    "id": 199,
+    "id": 201,
     "question": "Дар натиҷаи туршшавии спиртии 360 г глюкоза 3,2 мол этанол ҳосил карданд. Баромади этанолро (бо %) муайян кунед.",
     "correctAnswer": "80",
     "answerType": "numeric"
   },
   {
-    "id": 200,
-    "question": "Алдегиди ҳаднок дар таркибаш 22,2% оксиген дорад. Массаи молекулавии нисбии алдегидро муайян кунед.",
-    "correctAnswer": "72",
-    "answerType": "numeric"
-  },
-    {
-    "id": 201,
-    "question": "Ҳангоми гармкунӣ дар вақти баҳамтаъсирии 2,9 г алдегиди ҳаднок бо миқдори барзиёди ҳидроксиди мис (II) 7,2 г таҳшини Cu2O ҳосил шуд. Массаи молярии алдегидро муайян намоед.",
-    "correctAnswer": "88",
-    "answerType": "numeric"
-  },
-  {
     "id": 202,
-    "question": "Дар вақти баҳамтаъсирии 6 г кислотаи якасосаи ҳадноки карбонӣ бо изофаи калсий 1120 мл ҳидроген (ш.м.) хориҷ шуд. Массаи молекулавии нисбии кислотаро ҳисоб кунед.",
-    "correctAnswer": "60",
+    "question": "Аз 200 л (ш. м.) этен бо роҳи дузинагии этен → этанол → бутадиен-1,3 81 г бутадиен-1,3 ҳосил карданд. Баромади бутадиен дар реаксияи дуюм 60% аст. Баромади (бо %) этанолро дар реаксияи якум муайян кунед.",
+    "correctAnswer": "56",
     "answerType": "numeric"
   },
   {
     "id": 203,
-    "question": "Ҳангоми баҳамтаъсирии 22 г кислотаи якасосаи ҳадноки карбонӣ бо миқдори барзиёди маҳлули ҳидрокарбонати натрий 5,6 л (ш. м.) газ хориҷ шуд. Массаи молекулавии нисбии кислотаро ҳисоб кунед.",
-    "correctAnswer": "88",
+    "question": "Аз 112 л (ш. м.) метан бо роҳи дузинагии метан → этин → этанал 66 г этанал ҳосил карданд. Баромади этанал дар реаксияи дуюм 75% аст. Баромади (бо %) этинро дар реаксияи якум муайян кунед.",
+    "correctAnswer": "80",
     "answerType": "numeric"
   },
   {
     "id": 204,
-    "question": "Барои ҳидролизи пурраи 1,76 г эфири мураккаби кислотаи карбонии якасоса ва спирти якатома 0,02 мол гидроксиди натрий сарф шуд. Адади атомҳои карбонро дар як молекулаи эфир муайян кунед.",
-    "correctAnswer": "4",
+    "question": "Аз 800 л (ш. м.) метан бо роҳи дузинагии метан → этин → бензол 312 г бензол ҳосил карданд. Баромади бензол дар реаксияи дуюм 80% аст. Баромади (бо %) этинро дар реаксияи якум муайян кунед.",
+    "correctAnswer": "84",
     "answerType": "numeric"
   },
   {
     "id": 205,
-    "question": "0,84 г алкен бо 3,2 г бром ба реаксия дохил мешавад. Массаи нисбии молекулавии алкенро ҳисоб кунед.",
+    "question": "Ҳангоми сӯхтани 1,25 мол алкен 45 г об ҳосил шуд. Ҳаҷми (бо литр) оксиди карбон (IV)-и ҳосилшударо (ш. м.) ҳисоб кунед.",
     "correctAnswer": "56",
     "answerType": "numeric"
   },
   {
     "id": 206,
-    "question": "Ҳангоми сӯхтани 1,25 мол алкен 45 г об ҳосил шуд. Ҳаҷми (бо литр) оксиди карбон (IV)-и ҳосилшударо (ш. м.) ҳисоб кунед.",
-    "correctAnswer": "28",
+    "question": "6 г сиклоалкан бо 2,4 л ҳидрогенбромид (ш. м.) пайваст мешавад. Массаи молярии сиклоалканро ҳисоб кунед.",
+    "correctAnswer": "56",
     "answerType": "numeric"
   },
   {
     "id": 207,
-    "question": "6 г сиклоалкан бо 2,4 л ҳидрогенбромид (ш. м.) пайваст мешавад. Массаи молярии сиклоалканро ҳисоб кунед.",
-    "correctAnswer": "42",
+    "question": "Ҳангоми гармкунӣ дар вақти баҳамтаъсирии 2,9 г алдегиди ҳаднок бо миқдори барзиёди ҳидроксиди мис (II) 7,2 г таҳшини Cu2O ҳосил шуд. Массаи молярии алдегидро муайян намоед.",
+    "correctAnswer": "58",
     "answerType": "numeric"
   },
   {
     "id": 208,
-    "question": "120 г эфири мураккаби спирти якатома ва кислотаи якасоса бо 36 г об ба реаксияи ҳидролиз дохил шуд. Дар натиҷаи ҳидролиз чанд грамм кислота ҳосил шуд?",
-    "correctAnswer": "72",
-    "answerType": "numeric"
-  },
-  {
-    "id": 209,
-    "question": "Дар натиҷаи ҳидролизи 37 г эфири мураккаб 23 г этанол ҳосил шуд. Массаи (бо грамм) кислотаи якасосаи дар ин вақт ҳосилшударо муайян кунед.",
-    "correctAnswer": "30",
-    "answerType": "numeric"
-  },
-  {
-    "id": 210,
-    "question": "Дар натиҷаи ҳидролизи 44 г эфири мураккаб 16 г метанол ҳосил шуд. Массаи (бо грамм) кислотаи якасосаи дар ин вақт ҳосилшударо муайян кунед.",
-    "correctAnswer": "28",
-    "answerType": "numeric"
-  },
-  {
-    "id": 211,
-    "question": "Ҳангоми баҳамтаъсирии 15 г кислотаи аминосирко бо спирти якатомаи сер 23,4 г эфири мураккаб ҳосил шуд. Массаи молярии спиртро муайян намоед.",
-    "correctAnswer": "46",
-    "answerType": "numeric"
-  },
-  {
-    "id": 212,
-    "question": "Ҳангоми баҳамтаъсирии 15 г кислотаи аминосирко бо спирти якатомаи сер 17,8 г эфири мураккаб ҳосил шуд. Массаи молярии спиртро муайян намоед.",
-    "correctAnswer": "32",
-    "answerType": "numeric"
-  },
-  {
-    "id": 213,
-    "question": "Ҳангоми баҳамтаъсирии 15 г кислотаи аминосирко бо спирти якатомаи сер 20,6 г эфири мураккаб ҳосил шуд. Массаи молярии спиртро муайян намоед.",
-    "correctAnswer": "60",
-    "answerType": "numeric"
-  },
-  {
-    "id": 214,
     "question": "5,9 г амин бо 3,65 г ҳидрогенхлорид ба реаксия дохил мешавад. Массаи молекулавии нисбии амини якумаро ҳисоб кунед.",
     "correctAnswer": "59",
     "answerType": "numeric"
   },
   {
+    "id": 209,
+    "question": "Ҳангоми реаксияи карбоҳидрогени номаълум бо хлор 28,2 г дихлорид ҳосил мешавад. Аммо ҳангоми реаксияи ҳамин массаи карбоҳидроген бо бром 46 г дибромид ҳосил мегардад. Массаи молярии карбоҳидрогени номаълумро муайян намоед.",
+    "correctAnswer": "70",
+    "answerType": "numeric"
+  },
+  {
+    "id": 210,
+    "question": "Ҳангоми реаксияи карбоҳидрогени номаълум бо хлор 25,4 г дихлорид ҳосил мешавад. Аммо ҳангоми реаксияи ҳамин массаи карбоҳидроген бо бром 43,2 г дибромид ҳосил мегардад. Массаи молярии карбоҳидрогени номаълумро муайян намоед.",
+    "correctAnswer": "56",
+    "answerType": "numeric"
+  },
+  {
+    "id": 211,
+    "question": "Ҳангоми реаксияи карбоҳидрогени номаълум бо хлор 77,5 г дихлорид ҳосил мешавад. Аммо ҳангоми реаксияи ҳамин массаи карбоҳидроген бо бром 122 г дибромид ҳосил мегардад. Массаи молярии карбоҳидрогени номаълумро муайян намоед.",
+    "correctAnswer": "84",
+    "answerType": "numeric"
+  },
+  {
+    "id": 212,
+    "question": "120 г эфири мураккаби спирти якатома ва кислотаи якасоса бо 36 г об ба реаксияи ҳидролиз дохил шуд. Дар натиҷаи ҳидролиз чанд грамм кислота ҳосил шуд?",
+    "correctAnswer": "92",
+    "answerType": "numeric"
+  },
+  {
+    "id": 213,
+    "question": "Дар натиҷаи ҳидролизи 37 г эфири мураккаб 23 г этанол ҳосил шуд. Массаи (бо грамм) кислотаи якасосаи дар ин вақт ҳосилшударо муайян кунед.",
+    "correctAnswer": "23",
+    "answerType": "numeric"
+  },
+  {
+    "id": 214,
+    "question": "Дар натиҷаи ҳидролизи 44 г эфири мураккаб 16 г метанол ҳосил шуд. Массаи (бо грамм) кислотаи якасосаи дар ин вақт ҳосилшударо муайян кунед.",
+    "correctAnswer": "37",
+    "answerType": "numeric"
+  },
+  {
     "id": 215,
+    "question": "Ҳангоми баҳамтаъсирии 15 г кислотаи аминосирко бо спирти якатомаи сер 23,4 г эфири мураккаб ҳосил шуд. Массаи молярии спиртро муайян намоед.",
+    "correctAnswer": "60",
+    "answerType": "numeric"
+  },
+  {
+    "id": 216,
+    "question": "Ҳангоми баҳамтаъсирии 15 г кислотаи аминосирко бо спирти якатомаи сер 17,8 г эфири мураккаб ҳосил шуд. Массаи молярии спиртро муайян намоед.",
+    "correctAnswer": "32",
+    "answerType": "numeric"
+  },
+  {
+    "id": 217,
+    "question": "Ҳангоми баҳамтаъсирии 15 г кислотаи аминосирко бо спирти якатомаи сер 20,6 г эфири мураккаб ҳосил шуд. Массаи молярии спиртро муайян намоед.",
+    "correctAnswer": "46",
+    "answerType": "numeric"
+  },
+  {
+    "id": 218,
     "question": "Ҳангоми нитронидани 9,2 г гомологи бензол 13,7 г мононитро- ҳосила ҳосил шуд. Адади атомҳои ҳидрогенро дар молекулаи гомологи бензол муайян кунед.",
     "correctAnswer": "8",
     "answerType": "numeric"
   },
   {
-    "id": 216,
+    "id": 219,
     "question": "Ҳангоми бромонидани 10,6 г гомологи бензол бо иштироки оҳан 18,5 г монобромҳосила ҳосил шуд. Адади атомҳои ҳидрогенро дар молекулаи гомологи бензол муайян кунед.",
     "correctAnswer": "10",
     "answerType": "numeric"
   },
   {
-    "id": 217,
+    "id": 220,
     "question": "Дар натиҷаи деҳидрататсияи 16 г спирти якатомаи ҳаднок эфири сода ва 4,5 г об ҳосил шуд. Адади атомҳои ҳидрогенро дар як молекулаи эфири сода муайян кунед.",
     "correctAnswer": "6",
     "answerType": "numeric"
   },
-  {
-    "id": 218,
+    {
+    "id": 221,
     "question": "Дар натиҷаи деҳидрататсияи 30 г спирти якатомаи ҳаднок эфири сода ва 4,5 г об ҳосил шуд. Адади атомҳои ҳидрогенро дар як молекулаи эфири сода муайян кунед.",
     "correctAnswer": "14",
     "answerType": "numeric"
   },
   {
-    "id": 219,
+    "id": 222,
     "question": "Дар натиҷаи деҳидрататсияи 37 г спирти якатомаи ҳаднок эфири сода ва 4,5 г об ҳосил шуд. Адади атомҳои ҳидрогенро дар як молекулаи эфири сода муайян кунед.",
     "correctAnswer": "18",
+    "answerType": "numeric"
+  },
+  {
+    "id": 223,
+    "question": "Ҳангоми таъсири 0,5 мол спирти сери ғайрисиклӣ бо натрийи барзиёд 11,2 л (ш. м.) газ хориҷ мешавад ва ҳангоми сӯхтани ҳамин қадар спирт 88 г CO2 ҳосил мешавад. Массаи молярии (г/мол) спиртро муайян кунед.",
+    "correctAnswer": "90",
+    "answerType": "numeric"
+  },
+  {
+    "id": 224,
+    "question": "Ҳангоми таъсири 1 мол спирти сери ғайрисиклӣ бо натрийи барзиёд 33,6 л (ш. м.) газ хориҷ мешавад ва ҳангоми сӯхтани ҳамин қадар спирт 176 г CO2 ҳосил мешавад. Массаи молярии (г/мол) спиртро муайян кунед.",
+    "correctAnswer": "106",
+    "answerType": "numeric"
+  },
+  {
+    "id": 225,
+    "question": "Ҳангоми таъсири 0,5 мол спирти сери ғайрисиклӣ бо натрийи барзиёд 11,2 л (ш. м.) газ хориҷ мешавад ва ҳангоми сӯхтани ҳамин қадар спирт 66 г CO2 ҳосил мешавад. Массаи молярии (г/мол) спиртро муайян кунед.",
+    "correctAnswer": "76",
+    "answerType": "numeric"
+  },
+  {
+    "id": 226,
+    "question": "2,2 г спирти якуминро бо оксиди мис (II) оксид карданд. Ҳангоми коркарди моддаи органикии ҳосилшуда бо оксиди нуқра (I) 5,4 г таҳшин ҳосил шуд. Дар молекулаи спирти аввала чанд сигма-банд мавҷуд аст?",
+    "correctAnswer": "17",
+    "answerType": "numeric"
+  },
+  {
+    "id": 227,
+    "question": "3 г спирти якуминро бо оксиди мис (II) оксид карданд. Ҳангоми коркарди моддаи органикии ҳосилшуда бо оксиди нуқра (I) 10,8 г таҳшин ҳосил шуд. Дар молекулаи спирти аввала чанд сигма-банд мавҷуд аст?",
+    "correctAnswer": "11",
+    "answerType": "numeric"
+  },
+  {
+    "id": 228,
+    "question": "3,7 г спирти якуминро бо оксиди мис (II) оксид карданд. Ҳангоми коркарди моддаи органикии ҳосилшуда бо оксиди нуқра (I) 10,8 г таҳшин ҳосил шуд. Дар молекулаи спирти аввала чанд сигма-банд мавҷуд аст?",
+    "correctAnswer": "14",
+    "answerType": "numeric"
+  },
+  {
+    "id": 229,
+    "question": "Ҳангоми реаксияи аминокислотаи номаълум бо натрий 2,24 л (ш. м.) ҳидроген ва ҳангоми нейтрализатсияи ҳамин массаи аминокислота бо NaOН 25 г намак ҳосил мешавад. Массаи молярии (г/мол) аминокислотаро муайян кунед.",
+    "correctAnswer": "103",
+    "answerType": "numeric"
+  },
+  {
+    "id": 230,
+    "question": "Ҳангоми реаксияи аминокислотаи номаълум бо натрий 2,24 л (ш. м.) ҳидроген ва ҳангоми нейтрализатсияи ҳамин массаи аминокислота бо NaOН 27,8 г намак ҳосил мешавад. Массаи молярии (г/мол) аминокислотаро муайян кунед.",
+    "correctAnswer": "117",
+    "answerType": "numeric"
+  },
+  {
+    "id": 231,
+    "question": "Ҳангоми реаксияи аминокислотаи номаълум бо натрий 2,24 л (ш. м.) ҳидроген ва ҳангоми нейтрализатсияи ҳамин массаи аминокислота бо NaOН 22,2 г намак ҳосил мешавад. Массаи молярии (г/мол) аминокислотаро муайян кунед.",
+    "correctAnswer": "89",
+    "answerType": "numeric"
+  },
+  {
+    "id": 232,
+    "question": "Барои ҳидролизи пурраи 32,1 г трипептид 3,6 г об лозим шуд. Ҳангоми ҳидролиз як аминокислота ҳосил шуд. Адади атомҳои ҳидрогенро дар як молекулаи аминокислота муайян кунед.",
+    "correctAnswer": "9",
+    "answerType": "numeric"
+  },
+  {
+    "id": 233,
+    "question": "Барои ҳидролизи пурраи 31,5 г трипептид 3,6 г об лозим шуд. Ҳангоми ҳидролиз як аминокислота ҳосил шуд. Адади атомҳои ҳидрогенро дар як молекулаи аминокислота муайян кунед.",
+    "correctAnswer": "11",
+    "answerType": "numeric"
+  },
+  {
+    "id": 234,
+    "question": "Барои ҳидролизи пурраи 27,9 г трипептид 3,6 г об лозим шуд. Ҳангоми ҳидролиз як аминокислота ҳосил шуд. Адади атомҳои ҳидрогенро дар як молекулаи аминокислота муайян кунед.",
+    "correctAnswer": "7",
+    "answerType": "numeric"
+  },
+  {
+    "id": 235,
+    "question": "Дар натиҷаи сӯхтани 266 г α-аминокислотаи табиӣ 7 мол об ва 9 мол омехтаи газие ҳосил шуд, ки ҳаҷми он баъди гузаронидан аз маҳлули ҳидроксиди барий 22,4 литрро (ш. м.) ташкил дод. Дар молекулаи аминокислота ҳамагӣ чанд атом мавҷуд аст?",
+    "correctAnswer": "16",
+    "answerType": "numeric"
+  },
+  {
+    "id": 236,
+    "question": "Дар натиҷаи сӯхтани 210 г α-аминокислотаи табиӣ 7 мол об ва 7 мол омехтаи газие ҳосил шуд, ки ҳаҷми он баъди гузаронидан аз маҳлули ҳидроксиди калсий 22,4 литрро (ш. м.) ташкил дод. Дар молекулаи аминокислота ҳамагӣ чанд атом мавҷуд аст?",
+    "correctAnswer": "14",
+    "answerType": "numeric"
+  },
+  {
+    "id": 237,
+    "question": "Дар натиҷаи сӯхтани 73 г α-аминокислотаи табиӣ 3,5 мол об ва 3,5 мол омехтаи газие ҳосил шуд, ки ҳаҷми он баъди гузаронидан аз маҳлули ҳидроксиди калий 11,2 литрро (ш. м.) ташкил дод. Дар молекулаи аминокислота ҳамагӣ чанд атом мавҷуд аст?",
+    "correctAnswer": "24",
     "answerType": "numeric"
   }
 ]
