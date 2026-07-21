@@ -1,0 +1,17 @@
+{
+  "subject": "Химия",
+  "courses": [
+    {
+      "id": 101,
+      "title": "Саволҳои ММТ 2025",
+      "cover": "https://play-lh.googleusercontent.com/2qZEdf9Tbz0gMZobU5qoCc4B-kW1Q5hbOw4ZIgo6cBtZl0AfWp2y_9uqCpUjV91BIc_7BLw9fOuMSCyp1kzM=w240-h480-rw",
+      "lessons_file": "lessons.json"
+    },
+    {
+      "id": 102,
+      "title": "Химияи умумӣ",
+      "cover": "https://play-lh.googleusercontent.com/2qZEdf9Tbz0gMZobU5qoCc4B-kW1Q5hbOw4ZIgo6cBtZl0AfWp2y_9uqCpUjV91BIc_7BLw9fOuMSCyp1kzM=w240-h480-rw",
+      "lessons_file": "lessons2.json"
+    }
+  ]
+}
