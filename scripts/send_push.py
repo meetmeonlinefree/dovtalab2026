@@ -2,17 +2,21 @@ import os
 import json
 import subprocess
 import requests
-from pathlib import Path
 
 
 PROJECT_ID = os.environ.get("FIREBASE_PROJECT_ID")
 ACCESS_TOKEN = os.environ.get("ACCESS_TOKEN")
 
 
+PLAY_STORE_URL = (
+    "https://play.google.com/store/apps/"
+    "details?id=com.neuronit.dovtalab2026"
+)
+
+
 def get_changed_files():
     """
-    Получаем список изменённых файлов
-    между текущим коммитом и предыдущим
+    Получаем изменённые файлы
     """
 
     try:
@@ -27,10 +31,14 @@ def get_changed_files():
             text=True
         )
 
-        return result.strip().split("\n")
+        return [
+            file for file in result.strip().split("\n")
+            if file
+        ]
 
     except Exception:
         return []
+
 
 
 def load_json(file_path):
@@ -44,19 +52,33 @@ def load_json(file_path):
 
             return json.load(file)
 
-    except Exception:
+    except Exception as e:
+
+        print(
+            "JSON error:",
+            file_path,
+            e
+        )
+
         return None
+
 
 
 def create_notification(files):
 
     title = None
     body = None
+    notification_type = "content"
+    url = ""
 
 
     for file in files:
 
+
+        # ==========================
         # Обновление приложения
+        # ==========================
+
         if file == "app_update.json":
 
             data = load_json(file)
@@ -68,87 +90,149 @@ def create_notification(files):
                     ""
                 )
 
-                title = "📱 Новая версия приложения"
+                title = data.get(
+                    "title",
+                    "📱 Новая версия приложения"
+                )
 
                 body = (
-                    f"Вышла новая версия "
-                    f"Довталаб 2026 {version}. "
-                    "Пожалуйста, обновите приложение."
+                    f"{data.get('message', '')} "
+                    f"Версия {version}"
+                )
+
+                notification_type = "update"
+
+                url = data.get(
+                    "playStoreUrl",
+                    PLAY_STORE_URL
                 )
 
                 break
 
 
-        # Новый исполнитель
-        if file.startswith("cards/") and file.endswith(".json"):
+
+        # ==========================
+        # Новости приложения
+        # ==========================
+
+        elif file == "news.json":
 
             data = load_json(file)
 
             if data:
 
-                name = data.get(
-                    "name",
-                    "Новый исполнитель"
-                )
 
-                title = "🎤 Новый исполнитель"
-                body = f"{name} добавлен в Довталаб 2026"
-
-                break
-
-
-
-        # Новые клипы
-        elif file.startswith("ru/") and file.endswith(".json"):
-
-            data = load_json(file)
-
-
-            if data and "items" in data:
-
-                item = data["items"][0]
-
-                song = item.get(
+                title = data.get(
                     "title",
-                    "Новый клип"
+                    "📢 Новости"
                 )
 
-                title = "🎵 Новый клип"
-                body = song
+
+                body = data.get(
+                    "message",
+                    "Новые события в приложении"
+                )
+
+
+                notification_type = "news"
+
+
+                url = data.get(
+                    "url",
+                    ""
+                )
+
 
                 break
 
 
 
-        # Shorts
+        # ==========================
+        # Новые карточки
+        # ==========================
+
+        elif file.startswith("cards/") and file.endswith(".json"):
+
+
+            title = "📚 Новые материалы"
+
+            body = (
+                "Добавлены новые материалы "
+                "для подготовки к экзаменам."
+            )
+
+            notification_type = "content"
+
+            break
+
+
+
+        # ==========================
+        # Новые тесты
+        # ==========================
+
+        elif (
+            file.startswith("normal_test_cluster")
+            or
+            file.startswith("corresponding_test_cluster")
+        ) and file.endswith(".json"):
+
+
+            title = "📝 Новые тесты"
+
+
+            body = (
+                "В приложении появились "
+                "новые тестовые задания."
+            )
+
+
+            notification_type = "content"
+
+            break
+
+
+
+        # ==========================
+        # Part B
+        # ==========================
+
         elif file.startswith("partb/") and file.endswith(".json"):
 
-            data = load_json(file)
+
+            title = "✍️ Новые задания"
 
 
-            if data and "items" in data:
+            body = (
+                "Добавлены новые задания "
+                "Часть Б."
+            )
 
-                item = data["items"][0]
 
-                short = item.get(
-                    "title",
-                    "Новый Short"
-                )
+            notification_type = "content"
 
-                title = "📱 Новый Short"
-                body = short
-
-                break
+            break
 
 
 
-    return title, body
+    return (
+        title,
+        body,
+        notification_type,
+        url
+    )
 
 
 
-def send_push(title, body):
+def send_push(
+    title,
+    body,
+    notification_type,
+    url
+):
 
-    url = (
+
+    endpoint = (
         f"https://fcm.googleapis.com/v1/projects/"
         f"{PROJECT_ID}/messages:send"
     )
@@ -165,53 +249,76 @@ def send_push(title, body):
     }
 
 
+
+    data = {
+
+        "type":
+            notification_type
+
+    }
+
+
+    if url:
+
+        data["url"] = url
+
+
+
     payload = {
 
-    "message": {
+        "message": {
 
-        "topic": "dovtalab2026_app",
+            "topic":
+                "dovtalab2026_app",
 
-        "notification": {
 
-            "title": title,
+            "notification": {
 
-            "body": body
+                "title":
+                    title,
 
-        },
+                "body":
+                    body
 
-        "data": {
+            },
 
-            "type": "update",
 
-            "url": "https://play.google.com/store/apps/details?id=com.neuronit.dovtalab2026"
+            "data":
+                data,
 
-        },
 
-        "android": {
+            "android": {
 
-            "priority": "HIGH"
+                "priority":
+                    "HIGH"
+
+            }
 
         }
 
     }
 
-}
 
 
     response = requests.post(
-        url,
+        endpoint,
         headers=headers,
         json=payload
     )
 
 
-    print(response.text)
+    print(
+        response.text
+    )
+
 
 
 
 def main():
 
-    print("Checking changes...")
+    print(
+        "Checking changes..."
+    )
 
 
     files = get_changed_files()
@@ -221,6 +328,7 @@ def main():
         "Changed files:",
         files
     )
+
 
 
     if not files:
@@ -233,7 +341,13 @@ def main():
 
 
 
-    title, body = create_notification(files)
+    (
+        title,
+        body,
+        notification_type,
+        url
+
+    ) = create_notification(files)
 
 
 
@@ -249,13 +363,17 @@ def main():
 
     print(
         title,
-        body
+        body,
+        notification_type,
+        url
     )
 
 
     send_push(
         title,
-        body
+        body,
+        notification_type,
+        url
     )
 
 
