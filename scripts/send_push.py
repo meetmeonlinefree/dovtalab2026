@@ -72,7 +72,7 @@ def create_notification(files):
 
                 body = (
                     f"Вышла новая версия "
-                    f"Tajik Musician {version}. "
+                    f"Довталаб 2026 {version}. "
                     "Пожалуйста, обновите приложение."
                 )
 
@@ -92,7 +92,7 @@ def create_notification(files):
                 )
 
                 title = "🎤 Новый исполнитель"
-                body = f"{name} добавлен в Tajik Musician"
+                body = f"{name} добавлен в Довталаб 2026"
 
                 break
 
@@ -167,27 +167,35 @@ def send_push(title, body):
 
     payload = {
 
-        "message": {
+    "message": {
 
-            "topic": "new_music",
+        "topic": "dovtalab2026_app",
 
-            "notification": {
+        "notification": {
 
-                "title": title,
+            "title": title,
 
-                "body": body
+            "body": body
 
-            },
+        },
 
-            "android": {
+        "data": {
 
-                "priority": "HIGH"
+            "type": "update",
 
-            }
+            "url": "https://play.google.com/store/apps/details?id=com.neuronit.dovtalab2026"
+
+        },
+
+        "android": {
+
+            "priority": "HIGH"
 
         }
 
     }
+
+}
 
 
     response = requests.post(
