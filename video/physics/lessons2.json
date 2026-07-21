@@ -1,0 +1,20 @@
+{
+  "course": "Физика | Саволҳои ММТ 2026",
+
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Физика | Намунаи саволҳои ММТ | Дарси 1",
+      "duration": "29:37",
+      "thumbnail": "https://i.ytimg.com/vi/V20I0RrRQ_g/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLD8X6quGKrtaDxNMM8Iyu_cebJf8g",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Mehrnigor_Nekruz_Raqs_bikun.mp4"
+    },
+    {
+      "id": 2,
+      "title": "Физика | Намунаи саволҳои ММТ | Дарси 2",
+      "duration": "32:13",
+      "thumbnail": "https://i.ytimg.com/vi/V20I0RrRQ_g/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLD8X6quGKrtaDxNMM8Iyu_cebJf8g",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Mehrnigor_Nekruz_Raqs_bikun.mp4"
+    }
+  ]
+}
