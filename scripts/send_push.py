@@ -56,6 +56,28 @@ def create_notification(files):
 
     for file in files:
 
+        # Обновление приложения
+        if file == "app_update.json":
+
+            data = load_json(file)
+
+            if data:
+
+                version = data.get(
+                    "version",
+                    ""
+                )
+
+                title = "📱 Новая версия приложения"
+
+                body = (
+                    f"Вышла новая версия "
+                    f"Tajik Musician {version}. "
+                    "Пожалуйста, обновите приложение."
+                )
+
+                break
+
 
         # Новый исполнитель
         if file.startswith("artists/") and file.endswith(".json"):
