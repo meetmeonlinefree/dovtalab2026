@@ -1,1 +1,17 @@
-[]
+{
+  "subject": "Физика",
+  "courses": [
+    {
+      "id": 1,
+      "title": "Физика | Намунаи саволҳои ММТ 2025",
+      "cover": "https://i.ytimg.com/vi/V20I0RrRQ_g/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLD8X6quGKrtaDxNMM8Iyu_cebJf8g",
+      "lessons_file": "lessons.json"
+    },
+    {
+      "id": 2,
+      "title": "Физика | Намунаи саволҳои ММТ | 2026",
+      "cover": "https://i.ytimg.com/vi/V20I0RrRQ_g/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLD8X6quGKrtaDxNMM8Iyu_cebJf8g",
+      "lessons_file": "lessons2.json"
+    }
+  ]
+}
