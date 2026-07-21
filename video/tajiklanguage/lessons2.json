@@ -1,0 +1,20 @@
+{
+  "course": "Забони тоҷикӣ | Саволҳои ММТ 2026",
+
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Забони тоҷикӣ | Намунаи саволҳои ММТ | Дарси 1",
+      "duration": "29:37",
+      "thumbnail": "https://i.ytimg.com/vi/2EMTOZzNnSQ/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB7JfUCiq1CYzdThk_dkvX2llKy5A",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Mehrnigor_Nekruz_Raqs_bikun.mp4"
+    },
+    {
+      "id": 2,
+      "title": "Забони тоҷикӣ | Намунаи саволҳои ММТ | Дарси 2",
+      "duration": "32:13",
+      "thumbnail": "https://i.ytimg.com/vi/2EMTOZzNnSQ/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB7JfUCiq1CYzdThk_dkvX2llKy5A",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Mehrnigor_Nekruz_Raqs_bikun.mp4"
+    }
+  ]
+}
