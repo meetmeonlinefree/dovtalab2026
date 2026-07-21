@@ -1,1 +1,17 @@
-[]
+{
+  "subject": "Забони тоҷикӣ",
+  "courses": [
+    {
+      "id": 1,
+      "title": "Забони тоҷикӣ | Намунаи саволҳои ММТ 2025",
+      "cover": "https://i.ytimg.com/vi/24-naGoIUX0/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC_qOuMdPl5SVOomgyDM1Hvyyk9WQ",
+      "lessons_file": "lessons.json"
+    },
+    {
+      "id": 2,
+      "title": "Забони тоҷикӣ | Намунаи саволҳои ММТ | 2026",
+      "cover": "https://i.ytimg.com/vi/24-naGoIUX0/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC_qOuMdPl5SVOomgyDM1Hvyyk9WQ",
+      "lessons_file": "lessons2.json"
+    }
+  ]
+}
