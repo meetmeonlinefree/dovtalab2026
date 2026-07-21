@@ -80,7 +80,7 @@ def create_notification(files):
 
 
         # Новый исполнитель
-        if file.startswith("artists/") and file.endswith(".json"):
+        if file.startswith("cards/") and file.endswith(".json"):
 
             data = load_json(file)
 
@@ -99,7 +99,7 @@ def create_notification(files):
 
 
         # Новые клипы
-        elif file.startswith("feed/") and file.endswith(".json"):
+        elif file.startswith("ru/") and file.endswith(".json"):
 
             data = load_json(file)
 
@@ -121,7 +121,7 @@ def create_notification(files):
 
 
         # Shorts
-        elif file.startswith("shorts/") and file.endswith(".json"):
+        elif file.startswith("partb/") and file.endswith(".json"):
 
             data = load_json(file)
 
