@@ -3,17 +3,24 @@
   "categories": [
     {
       "id": 1,
-      "title": "Химия",
-      "description": "Видео дарсҳои химия",
-      "image": "https://play-lh.googleusercontent.com/2qZEdf9Tbz0gMZobU5qoCc4B-kW1Q5hbOw4ZIgo6cBtZl0AfWp2y_9uqCpUjV91BIc_7BLw9fOuMSCyp1kzM=w240-h480-rw",
-      "file": "chemistry/info.json"
+      "title": "Забони тоҷикӣ | Синтаксис ва услуб",
+      "description": "Видео дарсҳои Забони тоҷикӣ",
+      "image": "https://i.ytimg.com/vi/2EMTOZzNnSQ/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDblHpksOS0b9aN-fuD7FvoE48IfQ",
+      "file": "tajiklanguage/info.json"
     },
     {
       "id": 2,
-      "title": "Биология",
-      "description": "Видео дарсҳои биология",
-      "image": "https://play-lh.googleusercontent.com/2qZEdf9Tbz0gMZobU5qoCc4B-kW1Q5hbOw4ZIgo6cBtZl0AfWp2y_9uqCpUjV91BIc_7BLw9fOuMSCyp1kzM=w240-h480-rw",
-      "file": "biology/info.json"
+      "title": "Химия | Ҳалли намунаи саволҳои ММТ",
+      "description": "Видео дарсҳои Химия",
+      "image": "https://i.ytimg.com/vi/jruRovOtLX8/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLATLvmWutYR5_LDxjrBxMqxYgj2iw",
+      "file": "chemistry/info.json"
+    },
+    {
+      "id": 3,
+      "title": "Физика | Ҳалли намунаи саволҳои ММТ",
+      "description": "Видео дарсҳои Физика",
+      "image": "https://i.ytimg.com/vi/V20I0RrRQ_g/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDJtFyxn5MikhpRb1D5T4xeb4BeAQ",
+      "file": "physics/info.json"
     }
   ]
 }
