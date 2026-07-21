@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": 1,
+      "title": "Химия",
+      "description": "Видео дарсҳои химия",
+      "image": "https://play-lh.googleusercontent.com/2qZEdf9Tbz0gMZobU5qoCc4B-kW1Q5hbOw4ZIgo6cBtZl0AfWp2y_9uqCpUjV91BIc_7BLw9fOuMSCyp1kzM=w240-h480-rw",
+      "file": "chemistry/info.json"
+    },
+    {
+      "id": 2,
+      "title": "Биология",
+      "description": "Видео дарсҳои биология",
+      "image": "https://play-lh.googleusercontent.com/2qZEdf9Tbz0gMZobU5qoCc4B-kW1Q5hbOw4ZIgo6cBtZl0AfWp2y_9uqCpUjV91BIc_7BLw9fOuMSCyp1kzM=w240-h480-rw",
+      "file": "biology/info.json"
+    }
+  ]
+}
