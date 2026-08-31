@@ -2,13 +2,13 @@ name: Run Dovtalab Bot
 
 on:
   schedule:
-    # Запуск каждый час (можно изменить, например, '0 * * * *' — каждый час в 0 минут)
+    # Запуск каждый час в 0 минут
     - cron: '0 * * * *' 
-  workflow_dispatch: # Позволяет запускать бота вручную кнопкой на сайте GitHub
+  workflow_dispatch: # Кнопка ручного запуска на GitHub
 
 jobs:
   run-bot:
-  runs-on: ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -27,3 +27,9 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         run: |
           python bot.py
+
+      - name: Commit and push updated progress
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet || (git add progress.json && git commit -m "Update test progress [skip ci]" && git push)
