@@ -1,7 +1,6 @@
 import os
 import requests
-import asyncio
-from telegram import Bot
+from telegram.ext import ApplicationBuilder
 
 # Все источники тестов, сгруппированные по кластерам
 TEST_CLUSTERS = [
@@ -41,7 +40,6 @@ TEST_CLUSTERS = [
                 "subject": "География",
                 "url": "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/normal_test_cluster_2_subject_7.json"
             }
-            # Если появятся другие предметы для Кластера 2, просто добавьте их сюда по аналогии
         ]
     },
     {
@@ -59,7 +57,6 @@ TEST_CLUSTERS = [
                 "subject": "География",
                 "url": "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/normal_test_cluster_2_subject_7.json"
             }
-            # Если появятся другие предметы для Кластера 2, просто добавьте их сюда по аналогии
         ]
     },
     {
@@ -77,7 +74,6 @@ TEST_CLUSTERS = [
                 "subject": "Ҳуқуқ",
                 "url": "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/normal_test_cluster_4_subject_15.json"
             }
-            # Если появятся другие предметы для Кластера 2, просто добавьте их сюда по аналогии
         ]
     },
     {
@@ -105,35 +101,39 @@ TEST_CLUSTERS = [
 
 CHANNEL_USERNAME = "@dovtalabonline"
 
-async def main():
-    # Токен берем из секретов GitHub (чтобы никто не украл ваш токен в открытом репозитории)
-    TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
-    if not TOKEN:
-        print("Ошибка: Токен бота не найден!")
-        return
+# Словарь для хранения индексов вопросов отдельно для каждого предмета по его URL
+subject_progress = {}
+current_cluster_index = 0  # С какого кластера начинаем цикл
 
-    bot = Bot(token=TOKEN)
-
-    # Простейшая логика для автоматики: отправляем тесты первого попавшегося кластера
-    # (Для продвинутого сохранения прогресса по часам лучше сохранять индекс в файл на GitHub, 
-    # но для старта можно отправлять случайный или первый кластер каждый час)
-    cluster = TEST_CLUSTERS[0] 
+async def send_cluster_batch_test(context):
+    global current_cluster_index
+    
+    cluster = TEST_CLUSTERS[current_cluster_index]
     cluster_name = cluster["cluster_name"]
-
+    
+    print(f"🕒 Время отправки тестов для: {cluster_name}")
+    
     for sub in cluster["subjects"]:
         subject_name = sub["subject"]
         url = sub["url"]
         
         response = requests.get(url)
         if response.status_code != 200:
+            print(f"Ошибка загрузки JSON для {cluster_name} - {subject_name}")
             continue
             
         tests = response.json()
-        if not tests:
-            continue
         
-        # Берем первый вопрос (или можете усложнить логику со временем)
-        item = tests[0] 
+        if url not in subject_progress:
+            subject_progress[url] = 0
+            
+        q_index = subject_progress[url]
+        
+        if q_index >= len(tests):
+            q_index = 0
+            subject_progress[url] = 0
+            
+        item = tests[q_index]
         
         question_text = f"🎯 {cluster_name} | {subject_name}\nСаволи №{item['id']}:\n{item['question']}"
         options = item['options']
@@ -142,8 +142,12 @@ async def main():
         
         try:
             if image_url:
-                await bot.send_photo(chat_id=CHANNEL_USERNAME, photo=image_url, caption=question_text)
-                await bot.send_poll(
+                await context.bot.send_photo(
+                    chat_id=CHANNEL_USERNAME,
+                    photo=image_url,
+                    caption=question_text
+                )
+                await context.bot.send_poll(
                     chat_id=CHANNEL_USERNAME,
                     question=f"🎯 {cluster_name} | {subject_name} (Савол №{item['id']}):",
                     options=options,
@@ -152,7 +156,7 @@ async def main():
                     is_anonymous=True            
                 )
             else:
-                await bot.send_poll(
+                await context.bot.send_poll(
                     chat_id=CHANNEL_USERNAME,
                     question=question_text,
                     options=options,
@@ -160,9 +164,29 @@ async def main():
                     correct_option_id=correct_index, 
                     is_anonymous=True            
                 )
-            print(f"Отправлен: {cluster_name} — {subject_name}")
+                
+            print(f"  ✅ Отправлен тест: {subject_name} (ID: {item['id']})")
+            subject_progress[url] += 1
+            
         except Exception as e:
-            print(f"Ошибка: {e}")
+            print(f"  ❌ Ошибка отправки теста {subject_name}: {e}")
+            
+    current_cluster_index = (current_cluster_index + 1) % len(TEST_CLUSTERS)
 
-if __name__ == "__main__":
-    asyncio.run(main())
+def main():
+    # Безопасно получаем токен из системных переменных окружения
+    TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
+    
+    if not TOKEN:
+        print("❌ Ошибка: Не найдена переменная окружения TELEGRAM_BOT_TOKEN!")
+        return
+
+    app = ApplicationBuilder().token(TOKEN).build()
+    
+    app.job_queue.run_repeating(send_cluster_batch_test, interval=3600, first=5)
+    
+    print("Бот запущен и настроен на цикличную отправку пачек тестов по кластерам...")
+    app.run_polling()
+
+if __name__ == '__main__':
+    main()
