@@ -1,7 +1,8 @@
 import json
 import os
+import asyncio
 import requests
-from telegram.ext import ApplicationBuilder
+from telegram import Bot
 
 # Все источники тестов, сгруппированные по кластерам
 TEST_CLUSTERS = [
@@ -52,7 +53,6 @@ TEST_CLUSTERS = [
 CHANNEL_USERNAME = "@dovtalabonline"
 PROGRESS_FILE = "progress.json"
 
-# Функции для загрузки и сохранения прогресса в файл
 def load_progress():
     if os.path.exists(PROGRESS_FILE):
         try:
@@ -66,7 +66,13 @@ def save_progress(data):
     with open(PROGRESS_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
 
-async def send_cluster_batch_test(context):
+async def main():
+    TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
+    if not TOKEN:
+        print("❌ Ошибка: Не найдена переменная окружения TELEGRAM_BOT_TOKEN!")
+        return
+
+    bot = Bot(token=TOKEN)
     data = load_progress()
     subject_progress = data["subject_progress"]
     current_cluster_index = data["current_cluster_index"]
@@ -74,7 +80,7 @@ async def send_cluster_batch_test(context):
     cluster = TEST_CLUSTERS[current_cluster_index]
     cluster_name = cluster["cluster_name"]
     
-    print(f"🕒 Время отправки тестов для: {cluster_name}")
+    print(f"🕒 Отправка тестов для: {cluster_name}")
     
     for sub in cluster["subjects"]:
         subject_name = sub["subject"]
@@ -105,8 +111,8 @@ async def send_cluster_batch_test(context):
         
         try:
             if image_url:
-                await context.bot.send_photo(chat_id=CHANNEL_USERNAME, photo=image_url, caption=question_text)
-                await context.bot.send_poll(
+                await bot.send_photo(chat_id=CHANNEL_USERNAME, photo=image_url, caption=question_text)
+                await bot.send_poll(
                     chat_id=CHANNEL_USERNAME,
                     question=f"🎯 {cluster_name} | {subject_name} (Савол №{item['id']}):",
                     options=options,
@@ -115,7 +121,7 @@ async def send_cluster_batch_test(context):
                     is_anonymous=True            
                 )
             else:
-                await context.bot.send_poll(
+                await bot.send_poll(
                     chat_id=CHANNEL_USERNAME,
                     question=question_text,
                     options=options,
@@ -130,28 +136,11 @@ async def send_cluster_batch_test(context):
         except Exception as e:
             print(f"  ❌ Ошибка отправки теста {subject_name}: {e}")
             
-    # Переходим к следующему кластеру
+    # Переходим к следующему кластеру на следующий час
     data["current_cluster_index"] = (current_cluster_index + 1) % len(TEST_CLUSTERS)
     data["subject_progress"] = subject_progress
-    
-    # Сохраняем прогресс в файл
     save_progress(data)
-
-def main():
-    # Безопасно получаем токен из системных переменных окружения
-    TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
-    
-    if not TOKEN:
-        print("❌ Ошибка: Не найдена переменная окружения TELEGRAM_BOT_TOKEN!")
-        return
-
-    app = ApplicationBuilder().token(TOKEN).build()
-    
-    # interval=3600 — каждый час (для быстрой проверки можете временно поставить 60)
-    app.job_queue.run_repeating(send_cluster_batch_test, interval=3600, first=5)
-    
-    print("Бот запущен, прогресс сохраняется в файл...")
-    app.run_polling()
+    print("✅ Рассылка пачки завершена, прогресс сохранен.")
 
 if __name__ == '__main__':
-    main()
+    asyncio.run(main())
