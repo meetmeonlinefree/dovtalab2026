@@ -2,13 +2,17 @@ name: Run Dovtalab Bot
 
 on:
   schedule:
-    # Запуск каждый час в 0 минут
-    - cron: '0 * * * *' 
-  workflow_dispatch: # Кнопка ручного запуска на GitHub
+    - cron: '0 * * * *'  
+  workflow_dispatch: 
 
 jobs:
   run-bot:
     runs-on: ubuntu-latest
+    
+    # ВАЖНО: Даем права на запись в репозиторий
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -32,4 +36,4 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git diff --quiet || (git add progress.json && git commit -m "Update test progress [skip ci]" && git push)
+          git diff --quiet || (git add progress.json && git commit -m "Update test progress [skip ci]" && git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main)
