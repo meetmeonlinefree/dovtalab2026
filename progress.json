@@ -4,9 +4,9 @@
         "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/normal_test_cluster_1_subject_2.json": 5,
         "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/normal_test_cluster_1_subject_3.json": 5,
         "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/normal_test_cluster_1_subject_4.json": 5,
-        "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/normal_test_cluster_2_subject_5.json": 4,
-        "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/normal_test_cluster_2_subject_6.json": 4,
-        "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/normal_test_cluster_2_subject_7.json": 8,
+        "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/normal_test_cluster_2_subject_5.json": 5,
+        "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/normal_test_cluster_2_subject_6.json": 5,
+        "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/normal_test_cluster_2_subject_7.json": 9,
         "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/normal_test_cluster_3_subject_9.json": 4,
         "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/normal_test_cluster_3_subject_10.json": 4,
         "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/normal_test_cluster_4_subject_13.json": 4,
@@ -16,5 +16,5 @@
         "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/normal_test_cluster_5_subject_18.json": 8,
         "https://raw.githubusercontent.com/meetmeonlinefree/dovtalab2026/refs/heads/main/normal_test_cluster_5_subject_20.json": 4
     },
-    "current_cluster_index": 1
+    "current_cluster_index": 2
 }
